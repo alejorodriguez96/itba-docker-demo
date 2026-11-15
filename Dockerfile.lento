@@ -1,0 +1,8 @@
+# Versión "mala" para mostrar la caché de capas:
+# cualquier cambio en el código invalida la capa de pip install.
+FROM python:3.12-slim
+WORKDIR /app
+COPY . .
+RUN pip install --no-cache-dir -r requirements.txt
+ENV INPUT_PATH=/app/data/raw/ventas.csv OUTPUT_DIR=/app/data/output PYTHONUNBUFFERED=1
+CMD ["python", "src/etl.py"]

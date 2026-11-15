@@ -1,0 +1,3054 @@
+order_id,fecha,sucursal,producto,categoria,cantidad,precio_unitario
+1,2026-10-11,Palermo,Medialuna,Panadería,4,900
+2,2026-10-02,Palermo,Budín,Panadería,2,3800
+3,2026-10-18,San Isidro,Jugo,Bebidas,1,3100
+4,2026-10-31,Palermo,Café,Bebidas,4,2500
+5,2026-10-10,San Isidro,Jugo,Bebidas,2,3100
+6,2026-10-06,Caballito,Café,Bebidas,2,2500
+7,2026-10-20,San Isidro,Medialuna,Panadería,4,900
+8,2026-10-15,Belgrano,Tostado,Comidas,3,4200
+9,2026-10-19,Caballito,Tostado,Comidas,4,4200
+10,2026-10-04,Belgrano,Budín,Panadería,4,3800
+11,2026-10-02,San Isidro,Ensalada,Comidas,1,6500
+12,2026-10-23,San Isidro,Tostado,Comidas,4,4200
+13,2026-10-09,Palermo,Jugo,Bebidas,1,3100
+14,2026-10-22,Quilmes,Jugo,Bebidas,3,3100
+15,2026-10-12,Quilmes,Medialuna,Panadería,1,900
+16,2026-10-08,Quilmes,Jugo,Bebidas,4,3100
+17,2026-10-29,San Isidro,Medialuna,Panadería,4,900
+18,2026-10-29,Belgrano,Jugo,Bebidas,2,3100
+19,2026-10-01,Caballito,Jugo,Bebidas,2,3100
+20,2026-10-20,Belgrano,Budín,Panadería,3,3800
+21,2026-10-22,Quilmes,Ensalada,Comidas,1,6500
+22,2026-10-26,Quilmes,Budín,Panadería,4,3800
+23,2026-10-02,Belgrano,Medialuna,Panadería,1,900
+24,2026-10-04,San Isidro,Café,Bebidas,2,2500
+25,2026-10-28,Belgrano,Medialuna,Panadería,4,900
+26,2026-10-16,Quilmes,Café,Bebidas,1,2500
+27,2026-10-03,Caballito,Medialuna,Panadería,1,900
+28,2026-10-17,San Isidro,Café,Bebidas,2,2500
+29,2026-10-25,Palermo,Budín,Panadería,3,3800
+30,2026-10-06,San Isidro,Tostado,Comidas,2,4200
+31,2026-10-20,Quilmes,Medialuna,Panadería,2,900
+32,2026-10-12,Palermo,Ensalada,Comidas,1,6500
+33,2026-10-20,Caballito,Tostado,Comidas,4,4200
+34,2026-10-08,Caballito,Jugo,Bebidas,2,3100
+35,2026-10-27,Caballito,Café,Bebidas,4,2500
+36,2026-10-30,Quilmes,Jugo,Bebidas,2,3100
+37,2026-10-03,Quilmes,Ensalada,Comidas,4,6500
+38,2026-10-06,Belgrano,Medialuna,Panadería,1,900
+39,2026-10-20,Caballito,Budín,Panadería,4,3800
+40,2026-10-26,San Isidro,Ensalada,Comidas,1,6500
+41,2026-10-07,Caballito,Medialuna,Panadería,1,900
+42,2026-10-11,Belgrano,Tostado,Comidas,4,4200
+43,2026-10-22,San Isidro,Budín,Panadería,4,3800
+44,2026-10-28,SAN ISIDRO ,Jugo,Bebidas,2,3100
+45,2026-10-16,San Isidro,Budín,Panadería,1,3800
+46,2026-10-16,Belgrano,Café,Bebidas,1,2500
+47,2026-10-15,Palermo,Budín,Panadería,1,3800
+48,2026-10-17,Quilmes,Medialuna,Panadería,3,900
+49,2026-10-08,San Isidro,Ensalada,Comidas,3,6500
+50,2026-10-14,Quilmes,Café,Bebidas,4,2500
+51,2026-10-07,Palermo,Ensalada,Comidas,3,6500
+52,2026-10-22,Caballito,Tostado,Comidas,2,4200
+53,2026-10-31,Quilmes,Café,Bebidas,4,2500
+54,2026-10-23,Caballito,Jugo,Bebidas,4,3100
+55,2026-10-12,San Isidro,Café,Bebidas,3,2500
+56,2026-10-17,San Isidro,Budín,Panadería,3,3800
+57,2026-10-08,Caballito,Café,Bebidas,1,2500
+58,2026-10-25,Caballito,Medialuna,Panadería,4,900
+59,2026-10-16,Palermo,Ensalada,Comidas,3,6500
+60,2026-10-29,Palermo,Café,Bebidas,3,2500
+61,2026-10-28,Caballito,Medialuna,Panadería,1,900
+62,2026-10-18,San Isidro,Jugo,Bebidas,3,3100
+63,2026-10-04,Palermo,Medialuna,Panadería,3,900
+64,2026-10-17,Quilmes,Medialuna,Panadería,3,900
+65,2026-10-01,PALERMO ,Tostado,Comidas,1,4200
+66,2026-10-17,Quilmes,Jugo,Bebidas,2,3100
+67,2026-10-16,San Isidro,Budín,Panadería,4,3800
+68,2026-10-07,Quilmes,Ensalada,Comidas,2,6500
+69,2026-10-01,Quilmes,Café,Bebidas,3,2500
+70,2026-10-28,San Isidro,Budín,Panadería,3,3800
+71,2026-10-06,Palermo,Tostado,Comidas,4,4200
+72,2026-10-18,Palermo,Tostado,Comidas,2,4200
+73,2026-10-01,Palermo,Tostado,Comidas,4,4200
+74,2026-10-17,Caballito,Café,Bebidas,1,2500
+75,2026-10-13,Caballito,Café,Bebidas,3,2500
+76,2026-10-28,Caballito,Medialuna,Panadería,4,900
+77,2026-10-20,Palermo,Ensalada,Comidas,2,6500
+78,2026-10-14,San Isidro,Ensalada,Comidas,2,6500
+79,2026-10-01,Palermo,Ensalada,Comidas,2,6500
+80,2026-10-04,San Isidro,Jugo,Bebidas,,3100
+81,2026-10-08,Palermo,Jugo,Bebidas,3,3100
+82,2026-10-29,San Isidro,Budín,Panadería,1,3800
+83,2026-10-03,Belgrano,Tostado,Comidas,2,4200
+84,2026-10-28,Quilmes,Jugo,Bebidas,1,3100
+85,2026-10-21,Palermo,Ensalada,Comidas,2,6500
+86,2026-10-23,Palermo,Tostado,Comidas,2,4200
+87,2026-10-04,Quilmes,Ensalada,Comidas,2,6500
+88,2026-10-15,Caballito,Café,Bebidas,2,2500
+88,2026-10-15,Caballito,Café,Bebidas,2,2500
+89,2026-10-15,Caballito,Café,Bebidas,4,2500
+90,2026-10-03,Belgrano,Budín,Panadería,1,3800
+91,2026-10-20,Palermo,Ensalada,Comidas,3,6500
+92,2026-10-16,BELGRANO ,Jugo,Bebidas,1,3100
+93,2026-10-10,Quilmes,Ensalada,Comidas,2,6500
+94,2026-10-01,Quilmes,Tostado,Comidas,3,4200
+95,2026-10-29,Caballito,Ensalada,Comidas,3,6500
+96,2026-10-19,Quilmes,Café,Bebidas,3,2500
+97,2026-10-02,Belgrano,Ensalada,Comidas,3,6500
+98,2026-10-07,Palermo,Tostado,Comidas,4,4200
+99,2026-10-31,Palermo,Budín,Panadería,2,3800
+100,2026-10-25,Quilmes,Medialuna,Panadería,3,900
+101,2026-10-16,Caballito,Jugo,Bebidas,3,3100
+102,2026-10-09,Caballito,Jugo,Bebidas,2,3100
+103,2026-10-21,Belgrano,Medialuna,Panadería,1,900
+104,2026-10-15,Quilmes,Tostado,Comidas,4,4200
+105,2026-10-11,Caballito,Budín,Panadería,1,3800
+106,2026-10-29,Quilmes,Café,Bebidas,4,2500
+107,2026-10-11,Caballito,Café,Bebidas,4,2500
+108,2026-10-17,Palermo,Ensalada,Comidas,2,6500
+109,2026-10-15,Palermo,Jugo,Bebidas,3,3100
+110,2026-10-26,Palermo,Jugo,Bebidas,4,3100
+111,2026-10-17,Belgrano,Jugo,Bebidas,4,3100
+112,2026-10-22,Palermo,Café,Bebidas,4,2500
+113,2026-10-08,Caballito,Budín,Panadería,1,3800
+114,2026-10-14,Palermo,Ensalada,Comidas,1,6500
+115,2026-10-13,SAN ISIDRO ,Tostado,Comidas,2,4200
+116,2026-10-09,Quilmes,Tostado,Comidas,2,4200
+117,2026-10-14,PALERMO ,Ensalada,Comidas,3,6500
+118,2026-10-14,Belgrano,Café,Bebidas,3,2500
+119,2026-10-02,Quilmes,Ensalada,Comidas,3,6500
+119,2026-10-02,Quilmes,Ensalada,Comidas,3,6500
+120,2026-10-10,Belgrano,Ensalada,Comidas,1,6500
+121,2026-10-07,Belgrano,Medialuna,Panadería,4,900
+122,2026-10-20,Belgrano,Jugo,Bebidas,2,3100
+123,2026-10-20,Palermo,Medialuna,Panadería,4,900
+124,2026-10-02,Belgrano,Ensalada,Comidas,1,6500
+125,2026-10-24,Belgrano,Café,Bebidas,1,2500
+126,2026-10-24,Caballito,Jugo,Bebidas,1,3100
+127,2026-10-11,PALERMO ,Jugo,Bebidas,2,3100
+128,2026-10-31,Quilmes,Café,Bebidas,2,2500
+129,2026-10-14,Quilmes,Café,Bebidas,1,2500
+130,2026-10-11,Palermo,Tostado,Comidas,4,4200
+131,2026-10-13,Palermo,Café,Bebidas,4,2500
+132,2026-10-07,San Isidro,Ensalada,Comidas,1,6500
+133,2026-10-20,Caballito,Café,Bebidas,3,2500
+134,2026-10-20,Palermo,Ensalada,Comidas,1,6500
+135,2026-10-15,Quilmes,Jugo,Bebidas,3,3100
+136,2026-10-01,Belgrano,Ensalada,Comidas,3,6500
+137,2026-10-12,San Isidro,Budín,Panadería,1,3800
+138,2026-10-03,Quilmes,Ensalada,Comidas,1,6500
+139,2026-10-29,Caballito,Café,Bebidas,1,2500
+140,2026-10-23,Belgrano,Jugo,Bebidas,2,3100
+141,2026-10-08,Caballito,Ensalada,Comidas,1,6500
+142,2026-10-24,Quilmes,Tostado,Comidas,2,4200
+143,2026-10-29,Caballito,Budín,Panadería,2,3800
+144,2026-10-17,Quilmes,Medialuna,Panadería,1,900
+145,2026-10-27,Caballito,Medialuna,Panadería,4,900
+146,2026-10-07,Palermo,Budín,Panadería,2,3800
+147,2026-10-09,Palermo,Ensalada,Comidas,1,6500
+148,2026-10-02,Belgrano,Tostado,Comidas,3,4200
+149,2026-10-24,Palermo,Ensalada,Comidas,2,6500
+150,2026-10-20,Belgrano,Tostado,Comidas,1,4200
+151,2026-10-14,San Isidro,Café,Bebidas,4,2500
+152,2026-10-13,Quilmes,Ensalada,Comidas,3,6500
+153,2026-10-02,Quilmes,Tostado,Comidas,3,4200
+154,2026-10-12,Quilmes,Ensalada,Comidas,2,6500
+154,2026-10-12,Quilmes,Ensalada,Comidas,2,6500
+155,2026-10-29,Palermo,Medialuna,Panadería,4,900
+156,2026-10-15,Palermo,Medialuna,Panadería,2,900
+157,2026-10-13,San Isidro,Café,Bebidas,3,2500
+158,2026-10-06,Quilmes,Café,Bebidas,1,2500
+159,2026-10-07,Palermo,Tostado,Comidas,2,4200
+160,2026-10-30,Palermo,Ensalada,Comidas,4,6500
+161,2026-10-06,San Isidro,Ensalada,Comidas,2,6500
+162,2026-10-06,Palermo,Budín,Panadería,2,3800
+163,2026-10-04,Belgrano,Medialuna,Panadería,2,900
+164,2026-10-02,Palermo,Ensalada,Comidas,3,6500
+165,2026-10-25,Caballito,Tostado,Comidas,4,4200
+166,2026-10-15,BELGRANO ,Budín,Panadería,4,3800
+167,2026-10-08,Belgrano,Jugo,Bebidas,4,3100
+168,2026-10-12,Palermo,Jugo,Bebidas,3,3100
+169,2026-10-02,Palermo,Ensalada,Comidas,2,6500
+170,2026-10-03,BELGRANO ,Café,Bebidas,4,2500
+171,2026-10-23,Belgrano,Café,Bebidas,2,2500
+172,2026-10-30,Palermo,Medialuna,Panadería,2,900
+173,2026-10-11,Quilmes,Budín,Panadería,3,3800
+174,2026-10-07,San Isidro,Budín,Panadería,3,3800
+175,2026-10-06,Caballito,Jugo,Bebidas,2,3100
+176,2026-10-26,San Isidro,Tostado,Comidas,1,4200
+177,2026-10-15,Caballito,Budín,Panadería,1,3800
+178,2026-10-26,Quilmes,Tostado,Comidas,3,4200
+179,2026-10-25,Belgrano,Café,Bebidas,4,2500
+180,2026-10-27,Caballito,Budín,Panadería,3,3800
+181,2026-10-22,Palermo,Tostado,Comidas,1,4200
+182,2026-10-14,Palermo,Budín,Panadería,3,3800
+183,2026-10-01,San Isidro,Café,Bebidas,1,2500
+184,2026-10-08,San Isidro,Jugo,Bebidas,3,3100
+185,2026-10-06,Belgrano,Medialuna,Panadería,1,900
+186,2026-10-05,Quilmes,Ensalada,Comidas,3,6500
+187,2026-10-27,San Isidro,Budín,Panadería,3,3800
+188,2026-10-24,Belgrano,Jugo,Bebidas,2,3100
+189,2026-10-13,Belgrano,Medialuna,Panadería,2,900
+189,2026-10-13,Belgrano,Medialuna,Panadería,2,900
+190,2026-10-18,Belgrano,Ensalada,Comidas,2,6500
+191,2026-10-21,San Isidro,Ensalada,Comidas,4,6500
+192,2026-10-02,SAN ISIDRO ,Ensalada,Comidas,4,6500
+193,2026-10-15,Belgrano,Café,Bebidas,4,2500
+194,2026-10-02,Caballito,Café,Bebidas,3,2500
+195,2026-10-14,Caballito,Ensalada,Comidas,3,6500
+196,2026-10-29,Belgrano,Budín,Panadería,1,3800
+197,2026-10-31,Belgrano,Medialuna,Panadería,3,900
+198,2026-10-30,Quilmes,Ensalada,Comidas,4,6500
+199,2026-10-14,San Isidro,Ensalada,Comidas,2,6500
+200,2026-10-19,Belgrano,Café,Bebidas,2,2500
+201,2026-10-06,Palermo,Tostado,Comidas,2,4200
+202,2026-10-02,Palermo,Ensalada,Comidas,1,6500
+203,2026-10-27,Quilmes,Budín,Panadería,1,3800
+204,2026-10-02,Caballito,Ensalada,Comidas,1,6500
+205,2026-10-21,Caballito,Medialuna,Panadería,3,900
+206,2026-10-30,Caballito,Tostado,Comidas,1,4200
+207,2026-10-16,Quilmes,Tostado,Comidas,1,4200
+208,2026-10-16,San Isidro,Ensalada,Comidas,1,6500
+209,2026-10-19,QUILMES ,Tostado,Comidas,2,4200
+210,2026-10-02,Quilmes,Café,Bebidas,3,2500
+211,2026-10-31,San Isidro,Jugo,Bebidas,3,3100
+212,2026-10-07,Quilmes,Ensalada,Comidas,2,6500
+213,2026-10-16,Caballito,Ensalada,Comidas,1,6500
+214,2026-10-29,Quilmes,Ensalada,Comidas,1,6500
+215,2026-10-09,Quilmes,Jugo,Bebidas,2,3100
+216,2026-10-05,Caballito,Budín,Panadería,1,3800
+217,2026-10-15,Belgrano,Ensalada,Comidas,3,6500
+218,2026-10-08,Quilmes,Medialuna,Panadería,3,900
+219,2026-10-09,Belgrano,Tostado,Comidas,2,4200
+220,2026-10-12,Caballito,Medialuna,Panadería,2,900
+221,2026-10-04,Belgrano,Medialuna,Panadería,1,900
+222,2026-10-24,Caballito,Tostado,Comidas,4,4200
+223,2026-10-07,PALERMO ,Jugo,Bebidas,4,3100
+224,2026-10-08,QUILMES ,Budín,Panadería,3,3800
+225,2026-10-01,Quilmes,Ensalada,Comidas,2,6500
+226,2026-10-28,Belgrano,Medialuna,Panadería,2,900
+227,2026-10-21,Quilmes,Ensalada,Comidas,1,6500
+228,2026-10-06,Quilmes,Tostado,Comidas,4,4200
+229,2026-10-22,Caballito,Ensalada,Comidas,2,6500
+230,2026-10-04,San Isidro,Café,Bebidas,3,2500
+231,2026-10-07,Palermo,Budín,Panadería,3,3800
+232,2026-10-16,Caballito,Budín,Panadería,1,3800
+233,2026-10-07,Quilmes,Ensalada,Comidas,2,6500
+234,2026-10-20,Caballito,Tostado,Comidas,1,4200
+234,2026-10-20,Caballito,Tostado,Comidas,1,4200
+235,2026-10-14,San Isidro,Jugo,Bebidas,3,3100
+236,2026-10-31,Quilmes,Budín,Panadería,2,3800
+237,2026-10-03,Quilmes,Ensalada,Comidas,2,6500
+238,2026-10-05,Quilmes,Tostado,Comidas,4,4200
+239,2026-10-25,Belgrano,Jugo,Bebidas,3,3100
+240,2026-10-14,QUILMES ,Ensalada,Comidas,2,6500
+241,2026-10-08,Caballito,Ensalada,Comidas,3,6500
+242,2026-10-22,Caballito,Tostado,Comidas,2,4200
+243,2026-10-29,San Isidro,Tostado,Comidas,2,4200
+243,2026-10-29,San Isidro,Tostado,Comidas,2,4200
+244,2026-10-01,Caballito,Medialuna,Panadería,1,900
+245,2026-10-08,Caballito,Medialuna,Panadería,4,900
+246,2026-10-18,San Isidro,Medialuna,Panadería,1,900
+247,2026-10-23,Quilmes,Medialuna,Panadería,1,900
+248,2026-10-14,Quilmes,Medialuna,Panadería,2,900
+249,2026-10-05,Belgrano,Ensalada,Comidas,4,6500
+250,2026-10-01,Quilmes,Medialuna,Panadería,3,900
+251,2026-10-15,Quilmes,Tostado,Comidas,4,4200
+252,2026-10-12,Palermo,Ensalada,Comidas,1,6500
+253,2026-10-11,Quilmes,Café,Bebidas,4,2500
+254,2026-10-14,Caballito,Ensalada,Comidas,2,6500
+255,2026-10-25,Caballito,Budín,Panadería,2,3800
+256,2026-10-27,Caballito,Tostado,Comidas,3,4200
+257,2026-10-09,Belgrano,Budín,Panadería,3,3800
+258,2026-10-11,Belgrano,Ensalada,Comidas,3,6500
+259,2026-10-02,San Isidro,Jugo,Bebidas,4,3100
+260,2026-10-02,San Isidro,Medialuna,Panadería,4,900
+261,2026-10-18,San Isidro,Budín,Panadería,4,3800
+262,2026-10-29,Belgrano,Ensalada,Comidas,1,6500
+263,2026-10-06,Palermo,Café,Bebidas,2,2500
+264,2026-10-01,Caballito,Tostado,Comidas,2,4200
+265,2026-10-14,Palermo,Café,Bebidas,3,2500
+266,2026-10-02,Palermo,Jugo,Bebidas,1,3100
+267,2026-10-13,Palermo,Jugo,Bebidas,1,3100
+268,2026-10-22,Quilmes,Medialuna,Panadería,4,900
+269,2026-10-29,QUILMES ,Medialuna,Panadería,1,900
+270,2026-10-31,Palermo,Café,Bebidas,,2500
+271,2026-10-08,Palermo,Jugo,Bebidas,2,3100
+272,2026-10-05,Caballito,Ensalada,Comidas,1,6500
+273,2026-10-30,PALERMO ,Tostado,Comidas,,4200
+274,2026-10-27,Quilmes,Budín,Panadería,1,3800
+275,2026-10-28,Caballito,Jugo,Bebidas,1,3100
+276,2026-10-22,Palermo,Medialuna,Panadería,2,900
+277,2026-10-14,Quilmes,Jugo,Bebidas,4,3100
+278,2026-10-10,San Isidro,Tostado,Comidas,1,4200
+279,2026-10-11,Belgrano,Budín,Panadería,1,3800
+280,2026-10-29,Quilmes,Medialuna,Panadería,4,900
+281,2026-10-26,Palermo,Jugo,Bebidas,3,3100
+282,2026-10-30,Belgrano,Café,Bebidas,3,2500
+283,2026-10-09,Caballito,Budín,Panadería,4,3800
+284,2026-10-13,Caballito,Medialuna,Panadería,2,900
+285,2026-10-07,Quilmes,Tostado,Comidas,1,4200
+286,2026-10-25,Quilmes,Café,Bebidas,2,2500
+287,2026-10-17,San Isidro,Tostado,Comidas,4,4200
+288,2026-10-06,Caballito,Ensalada,Comidas,3,6500
+289,2026-10-28,Palermo,Medialuna,Panadería,2,900
+290,2026-10-12,Palermo,Ensalada,Comidas,4,6500
+291,2026-10-17,Palermo,Budín,Panadería,1,3800
+292,2026-10-16,Caballito,Budín,Panadería,2,3800
+293,2026-10-15,Caballito,Budín,Panadería,2,3800
+294,2026-10-13,Palermo,Café,Bebidas,1,2500
+295,2026-10-16,Palermo,Café,Bebidas,4,2500
+296,2026-10-08,San Isidro,Ensalada,Comidas,1,6500
+297,2026-10-31,Belgrano,Medialuna,Panadería,2,900
+298,2026-10-29,Palermo,Budín,Panadería,1,3800
+299,2026-10-25,Palermo,Jugo,Bebidas,1,3100
+300,2026-10-22,San Isidro,Ensalada,Comidas,3,6500
+301,2026-10-11,Quilmes,Tostado,Comidas,3,4200
+302,2026-10-08,Quilmes,Medialuna,Panadería,1,900
+303,2026-10-30,San Isidro,Medialuna,Panadería,1,900
+304,2026-10-15,Palermo,Café,Bebidas,4,2500
+305,2026-10-27,Palermo,Medialuna,Panadería,4,900
+306,2026-10-02,San Isidro,Medialuna,Panadería,4,900
+307,2026-10-14,BELGRANO ,Jugo,Bebidas,2,3100
+308,2026-10-26,Quilmes,Medialuna,Panadería,3,900
+309,2026-10-05,Belgrano,Budín,Panadería,1,3800
+310,2026-10-25,Quilmes,Medialuna,Panadería,3,900
+311,2026-10-04,Quilmes,Jugo,Bebidas,3,3100
+312,2026-10-10,Quilmes,Medialuna,Panadería,1,900
+313,2026-10-01,Belgrano,Budín,Panadería,3,3800
+314,2026-10-09,Belgrano,Budín,Panadería,2,3800
+315,2026-10-06,Palermo,Medialuna,Panadería,1,900
+316,2026-10-06,San Isidro,Medialuna,Panadería,2,900
+317,2026-10-10,Palermo,Medialuna,Panadería,1,900
+318,2026-10-30,Caballito,Café,Bebidas,3,2500
+319,2026-10-03,Quilmes,Café,Bebidas,4,2500
+320,2026-10-19,Belgrano,Tostado,Comidas,1,4200
+321,2026-10-12,San Isidro,Budín,Panadería,4,3800
+322,2026-10-27,San Isidro,Tostado,Comidas,4,4200
+323,2026-10-31,Quilmes,Ensalada,Comidas,4,6500
+324,2026-10-01,Belgrano,Medialuna,Panadería,1,900
+325,2026-10-18,Palermo,Café,Bebidas,1,2500
+326,2026-10-27,San Isidro,Budín,Panadería,4,3800
+327,2026-10-04,Palermo,Ensalada,Comidas,2,6500
+328,2026-10-25,Palermo,Tostado,Comidas,1,4200
+329,2026-10-08,San Isidro,Medialuna,Panadería,2,900
+330,2026-10-01,Quilmes,Ensalada,Comidas,4,6500
+331,2026-10-31,Caballito,Café,Bebidas,3,2500
+332,2026-10-27,Quilmes,Budín,Panadería,3,3800
+333,2026-10-31,Belgrano,Ensalada,Comidas,3,6500
+333,2026-10-31,Belgrano,Ensalada,Comidas,3,6500
+334,2026-10-04,Palermo,Budín,Panadería,2,3800
+335,2026-10-08,Quilmes,Medialuna,Panadería,4,900
+336,2026-10-26,San Isidro,Café,Bebidas,1,2500
+337,2026-10-18,Caballito,Café,Bebidas,,2500
+338,2026-10-02,Caballito,Tostado,Comidas,1,4200
+339,2026-10-31,Palermo,Budín,Panadería,3,3800
+340,2026-10-04,Caballito,Budín,Panadería,2,3800
+341,2026-10-24,Quilmes,Café,Bebidas,3,2500
+342,2026-10-07,Quilmes,Budín,Panadería,3,3800
+343,2026-10-27,Belgrano,Tostado,Comidas,1,4200
+344,2026-10-19,Caballito,Jugo,Bebidas,1,3100
+345,2026-10-11,Caballito,Jugo,Bebidas,3,3100
+346,2026-10-01,San Isidro,Medialuna,Panadería,1,900
+347,2026-10-13,Palermo,Jugo,Bebidas,3,3100
+348,2026-10-30,Caballito,Medialuna,Panadería,4,900
+349,2026-10-20,Quilmes,Tostado,Comidas,1,4200
+350,2026-10-23,PALERMO ,Medialuna,Panadería,4,900
+351,2026-10-16,Quilmes,Jugo,Bebidas,2,3100
+352,2026-10-04,Quilmes,Jugo,Bebidas,4,3100
+353,2026-10-17,CABALLITO ,Budín,Panadería,4,3800
+354,2026-10-13,Belgrano,Jugo,Bebidas,3,3100
+355,2026-10-13,Palermo,Budín,Panadería,2,3800
+356,2026-10-20,Belgrano,Medialuna,Panadería,3,900
+357,2026-10-01,San Isidro,Café,Bebidas,3,2500
+358,2026-10-10,San Isidro,Budín,Panadería,4,3800
+359,2026-10-15,San Isidro,Tostado,Comidas,1,4200
+359,2026-10-15,San Isidro,Tostado,Comidas,1,4200
+360,2026-10-03,Palermo,Budín,Panadería,2,3800
+361,2026-10-30,Belgrano,Budín,Panadería,2,3800
+362,2026-10-20,San Isidro,Budín,Panadería,3,3800
+363,2026-10-12,San Isidro,Café,Bebidas,3,2500
+364,2026-10-11,Belgrano,Budín,Panadería,4,3800
+365,2026-10-29,Belgrano,Medialuna,Panadería,4,900
+366,2026-10-19,QUILMES ,Ensalada,Comidas,,6500
+367,2026-10-18,Quilmes,Café,Bebidas,3,2500
+368,2026-10-07,San Isidro,Medialuna,Panadería,4,900
+369,2026-10-17,Quilmes,Medialuna,Panadería,2,900
+370,2026-10-17,Palermo,Café,Bebidas,1,2500
+371,2026-10-15,Palermo,Budín,Panadería,4,3800
+372,2026-10-05,Caballito,Ensalada,Comidas,2,6500
+373,2026-10-28,Caballito,Budín,Panadería,1,3800
+373,2026-10-28,Caballito,Budín,Panadería,1,3800
+374,2026-10-08,Quilmes,Jugo,Bebidas,1,3100
+375,2026-10-06,CABALLITO ,Budín,Panadería,2,3800
+376,2026-10-14,Quilmes,Budín,Panadería,3,3800
+377,2026-10-22,Quilmes,Ensalada,Comidas,2,6500
+378,2026-10-26,Belgrano,Medialuna,Panadería,1,900
+378,2026-10-26,Belgrano,Medialuna,Panadería,1,900
+379,2026-10-29,San Isidro,Tostado,Comidas,4,4200
+380,2026-10-11,Palermo,Jugo,Bebidas,1,3100
+381,2026-10-13,Caballito,Medialuna,Panadería,4,900
+382,2026-10-01,Belgrano,Tostado,Comidas,2,4200
+383,2026-10-27,Quilmes,Medialuna,Panadería,4,900
+384,2026-10-12,Quilmes,Medialuna,Panadería,4,900
+385,2026-10-16,Belgrano,Budín,Panadería,2,3800
+386,2026-10-09,San Isidro,Budín,Panadería,4,3800
+387,2026-10-17,Palermo,Medialuna,Panadería,2,900
+388,2026-10-24,San Isidro,Jugo,Bebidas,,3100
+389,2026-10-23,Caballito,Medialuna,Panadería,2,900
+390,2026-10-30,Belgrano,Tostado,Comidas,3,4200
+391,2026-10-05,Caballito,Ensalada,Comidas,4,6500
+392,2026-10-21,Caballito,Ensalada,Comidas,2,6500
+393,2026-10-23,Palermo,Tostado,Comidas,4,4200
+394,2026-10-28,Palermo,Jugo,Bebidas,3,3100
+395,2026-10-24,Quilmes,Medialuna,Panadería,1,900
+396,2026-10-10,Palermo,Medialuna,Panadería,4,900
+397,2026-10-19,San Isidro,Medialuna,Panadería,4,900
+398,2026-10-12,Caballito,Café,Bebidas,1,2500
+399,2026-10-23,Palermo,Café,Bebidas,2,2500
+400,2026-10-12,Quilmes,Ensalada,Comidas,1,6500
+401,2026-10-27,San Isidro,Medialuna,Panadería,3,900
+402,2026-10-30,San Isidro,Tostado,Comidas,4,4200
+403,2026-10-17,Belgrano,Medialuna,Panadería,4,900
+404,2026-10-09,Belgrano,Medialuna,Panadería,2,900
+405,2026-10-12,Palermo,Tostado,Comidas,4,4200
+406,2026-10-23,Belgrano,Jugo,Bebidas,,3100
+407,2026-10-05,Caballito,Ensalada,Comidas,3,6500
+408,2026-10-08,San Isidro,Tostado,Comidas,1,4200
+409,2026-10-05,Quilmes,Budín,Panadería,4,3800
+410,2026-10-12,Palermo,Jugo,Bebidas,2,3100
+411,2026-10-23,Palermo,Tostado,Comidas,4,4200
+412,2026-10-10,PALERMO ,Medialuna,Panadería,1,900
+413,2026-10-03,San Isidro,Ensalada,Comidas,3,6500
+414,2026-10-16,Palermo,Medialuna,Panadería,3,900
+415,2026-10-20,Belgrano,Ensalada,Comidas,3,6500
+416,2026-10-13,Caballito,Medialuna,Panadería,3,900
+417,2026-10-30,Palermo,Ensalada,Comidas,2,6500
+418,2026-10-11,Caballito,Jugo,Bebidas,2,3100
+419,2026-10-12,Palermo,Tostado,Comidas,2,4200
+420,2026-10-27,Palermo,Ensalada,Comidas,4,6500
+421,2026-10-06,Belgrano,Tostado,Comidas,1,4200
+422,2026-10-13,Quilmes,Café,Bebidas,1,2500
+423,2026-10-02,Belgrano,Budín,Panadería,4,3800
+424,2026-10-14,QUILMES ,Tostado,Comidas,1,4200
+425,2026-10-24,CABALLITO ,Medialuna,Panadería,4,900
+426,2026-10-19,Palermo,Medialuna,Panadería,4,900
+427,2026-10-18,Quilmes,Ensalada,Comidas,2,6500
+428,2026-10-02,San Isidro,Ensalada,Comidas,3,6500
+429,2026-10-12,Caballito,Jugo,Bebidas,2,3100
+430,2026-10-28,Quilmes,Medialuna,Panadería,2,900
+431,2026-10-18,Caballito,Budín,Panadería,4,3800
+432,2026-10-04,Belgrano,Medialuna,Panadería,2,900
+433,2026-10-09,Belgrano,Ensalada,Comidas,1,6500
+434,2026-10-18,San Isidro,Jugo,Bebidas,2,3100
+435,2026-10-19,Quilmes,Budín,Panadería,1,3800
+436,2026-10-17,San Isidro,Budín,Panadería,1,3800
+437,2026-10-06,Palermo,Medialuna,Panadería,4,900
+438,2026-10-08,PALERMO ,Café,Bebidas,3,2500
+439,2026-10-10,Quilmes,Café,Bebidas,2,2500
+440,2026-10-07,Caballito,Budín,Panadería,1,3800
+441,2026-10-25,Caballito,Ensalada,Comidas,1,6500
+442,2026-10-31,Palermo,Tostado,Comidas,4,4200
+443,2026-10-11,Palermo,Budín,Panadería,1,3800
+444,2026-10-07,Palermo,Ensalada,Comidas,4,6500
+445,2026-10-01,Palermo,Jugo,Bebidas,1,3100
+446,2026-10-10,Belgrano,Ensalada,Comidas,4,6500
+447,2026-10-25,PALERMO ,Tostado,Comidas,4,4200
+448,2026-10-16,Palermo,Café,Bebidas,1,2500
+449,2026-10-13,Quilmes,Jugo,Bebidas,2,3100
+450,2026-10-03,San Isidro,Tostado,Comidas,3,4200
+451,2026-10-02,Caballito,Medialuna,Panadería,2,900
+452,2026-10-30,Palermo,Tostado,Comidas,3,4200
+453,2026-10-08,Belgrano,Jugo,Bebidas,1,3100
+454,2026-10-03,Caballito,Budín,Panadería,3,3800
+455,2026-10-23,Belgrano,Café,Bebidas,1,2500
+456,2026-10-12,Belgrano,Tostado,Comidas,2,4200
+457,2026-10-24,Caballito,Tostado,Comidas,2,4200
+458,2026-10-23,Quilmes,Tostado,Comidas,3,4200
+459,2026-10-12,BELGRANO ,Medialuna,Panadería,2,900
+460,2026-10-15,Belgrano,Jugo,Bebidas,3,3100
+461,2026-10-09,Palermo,Ensalada,Comidas,3,6500
+462,2026-10-06,Quilmes,Tostado,Comidas,3,4200
+463,2026-10-28,Caballito,Café,Bebidas,4,2500
+464,2026-10-01,Belgrano,Medialuna,Panadería,3,900
+465,2026-10-07,San Isidro,Budín,Panadería,3,3800
+466,2026-10-31,Palermo,Medialuna,Panadería,1,900
+467,2026-10-24,Belgrano,Medialuna,Panadería,1,900
+467,2026-10-24,Belgrano,Medialuna,Panadería,1,900
+468,2026-10-11,Caballito,Café,Bebidas,2,2500
+469,2026-10-13,Belgrano,Budín,Panadería,3,3800
+470,2026-10-21,Quilmes,Budín,Panadería,3,3800
+471,2026-10-28,Caballito,Café,Bebidas,1,2500
+472,2026-10-20,Belgrano,Ensalada,Comidas,3,6500
+473,2026-10-25,Caballito,Café,Bebidas,3,2500
+474,2026-10-18,Belgrano,Medialuna,Panadería,3,900
+475,2026-10-25,San Isidro,Café,Bebidas,3,2500
+476,2026-10-17,Belgrano,Budín,Panadería,3,3800
+477,2026-10-26,Belgrano,Tostado,Comidas,2,4200
+478,2026-10-20,Palermo,Medialuna,Panadería,1,900
+479,2026-10-09,Belgrano,Budín,Panadería,3,3800
+480,2026-10-25,Caballito,Medialuna,Panadería,1,900
+481,2026-10-16,Quilmes,Medialuna,Panadería,3,900
+482,2026-10-04,Palermo,Ensalada,Comidas,1,6500
+483,2026-10-12,San Isidro,Café,Bebidas,2,2500
+484,2026-10-22,Palermo,Ensalada,Comidas,2,6500
+485,2026-10-08,Caballito,Tostado,Comidas,2,4200
+486,2026-10-16,Quilmes,Medialuna,Panadería,2,900
+487,2026-10-25,Caballito,Medialuna,Panadería,,900
+488,2026-10-08,San Isidro,Medialuna,Panadería,3,900
+489,2026-10-29,Palermo,Medialuna,Panadería,3,900
+490,2026-10-28,Palermo,Medialuna,Panadería,3,900
+491,2026-10-05,San Isidro,Tostado,Comidas,2,4200
+492,2026-10-22,Quilmes,Jugo,Bebidas,1,3100
+493,2026-10-29,San Isidro,Tostado,Comidas,1,4200
+494,2026-10-02,San Isidro,Medialuna,Panadería,2,900
+494,2026-10-02,San Isidro,Medialuna,Panadería,2,900
+495,2026-10-29,Palermo,Tostado,Comidas,1,4200
+496,2026-10-14,Belgrano,Café,Bebidas,2,2500
+497,2026-10-17,Quilmes,Café,Bebidas,3,2500
+498,2026-10-28,Caballito,Medialuna,Panadería,,900
+499,2026-10-31,San Isidro,Café,Bebidas,2,2500
+500,2026-10-09,Palermo,Café,Bebidas,3,2500
+501,2026-10-23,Quilmes,Jugo,Bebidas,3,3100
+502,2026-10-05,Quilmes,Jugo,Bebidas,4,3100
+503,2026-10-08,San Isidro,Budín,Panadería,3,3800
+504,2026-10-22,San Isidro,Café,Bebidas,1,2500
+505,2026-10-23,Quilmes,Budín,Panadería,3,3800
+506,2026-10-01,San Isidro,Jugo,Bebidas,4,3100
+507,2026-10-27,Caballito,Ensalada,Comidas,4,6500
+508,2026-10-20,Palermo,Ensalada,Comidas,3,6500
+509,2026-10-20,Quilmes,Tostado,Comidas,3,4200
+510,2026-10-19,Palermo,Medialuna,Panadería,2,900
+511,2026-10-17,Belgrano,Medialuna,Panadería,3,900
+512,2026-10-06,Caballito,Ensalada,Comidas,1,6500
+513,2026-10-04,Caballito,Jugo,Bebidas,2,3100
+514,2026-10-17,Quilmes,Budín,Panadería,3,3800
+515,2026-10-15,Quilmes,Ensalada,Comidas,1,6500
+516,2026-10-17,Belgrano,Medialuna,Panadería,1,900
+517,2026-10-12,Quilmes,Budín,Panadería,3,3800
+517,2026-10-12,Quilmes,Budín,Panadería,3,3800
+518,2026-10-09,Caballito,Café,Bebidas,2,2500
+519,2026-10-08,Palermo,Tostado,Comidas,4,4200
+520,2026-10-05,San Isidro,Jugo,Bebidas,3,3100
+521,2026-10-13,Caballito,Tostado,Comidas,1,4200
+522,2026-10-09,Quilmes,Tostado,Comidas,2,4200
+523,2026-10-28,Palermo,Ensalada,Comidas,3,6500
+524,2026-10-25,Quilmes,Jugo,Bebidas,4,3100
+525,2026-10-25,San Isidro,Café,Bebidas,1,2500
+526,2026-10-14,Belgrano,Jugo,Bebidas,4,3100
+527,2026-10-17,Belgrano,Café,Bebidas,2,2500
+528,2026-10-18,Quilmes,Tostado,Comidas,4,4200
+529,2026-10-27,Quilmes,Café,Bebidas,1,2500
+530,2026-10-02,Caballito,Ensalada,Comidas,2,6500
+531,2026-10-14,Quilmes,Budín,Panadería,2,3800
+532,2026-10-11,Belgrano,Medialuna,Panadería,1,900
+533,2026-10-11,Caballito,Jugo,Bebidas,3,3100
+534,2026-10-02,Belgrano,Tostado,Comidas,3,4200
+535,2026-10-09,Belgrano,Tostado,Comidas,2,4200
+536,2026-10-15,San Isidro,Ensalada,Comidas,4,6500
+537,2026-10-15,CABALLITO ,Ensalada,Comidas,1,6500
+538,2026-10-27,Caballito,Tostado,Comidas,1,4200
+539,2026-10-07,Quilmes,Budín,Panadería,4,3800
+540,2026-10-02,Palermo,Medialuna,Panadería,4,900
+541,2026-10-20,Palermo,Jugo,Bebidas,2,3100
+542,2026-10-16,Belgrano,Medialuna,Panadería,3,900
+543,2026-10-23,Quilmes,Medialuna,Panadería,1,900
+544,2026-10-14,Quilmes,Medialuna,Panadería,3,900
+545,2026-10-23,Belgrano,Medialuna,Panadería,1,900
+546,2026-10-19,Caballito,Tostado,Comidas,2,4200
+547,2026-10-05,Quilmes,Ensalada,Comidas,2,6500
+548,2026-10-10,Belgrano,Medialuna,Panadería,1,900
+549,2026-10-22,Palermo,Jugo,Bebidas,1,3100
+550,2026-10-21,Caballito,Budín,Panadería,,3800
+551,2026-10-29,Quilmes,Café,Bebidas,2,2500
+552,2026-10-25,Belgrano,Café,Bebidas,2,2500
+553,2026-10-29,Palermo,Medialuna,Panadería,3,900
+553,2026-10-29,Palermo,Medialuna,Panadería,3,900
+554,2026-10-07,Palermo,Medialuna,Panadería,3,900
+555,2026-10-11,Belgrano,Ensalada,Comidas,3,6500
+556,2026-10-24,Palermo,Budín,Panadería,4,3800
+557,2026-10-13,Palermo,Jugo,Bebidas,1,3100
+558,2026-10-23,San Isidro,Medialuna,Panadería,4,900
+559,2026-10-24,Belgrano,Medialuna,Panadería,3,900
+559,2026-10-24,Belgrano,Medialuna,Panadería,3,900
+560,2026-10-21,Belgrano,Jugo,Bebidas,3,3100
+561,2026-10-05,San Isidro,Jugo,Bebidas,3,3100
+562,2026-10-19,San Isidro,Budín,Panadería,1,3800
+563,2026-10-18,Belgrano,Medialuna,Panadería,2,900
+564,2026-10-04,Palermo,Café,Bebidas,1,2500
+565,2026-10-23,Palermo,Ensalada,Comidas,2,6500
+566,2026-10-01,San Isidro,Jugo,Bebidas,4,3100
+567,2026-10-03,Belgrano,Ensalada,Comidas,2,6500
+568,2026-10-27,Palermo,Café,Bebidas,2,2500
+569,2026-10-20,Caballito,Ensalada,Comidas,2,6500
+570,2026-10-30,Caballito,Medialuna,Panadería,1,900
+571,2026-10-03,San Isidro,Medialuna,Panadería,2,900
+572,2026-10-05,Belgrano,Medialuna,Panadería,2,900
+573,2026-10-01,Quilmes,Jugo,Bebidas,1,3100
+574,2026-10-20,Belgrano,Ensalada,Comidas,1,6500
+575,2026-10-14,San Isidro,Café,Bebidas,3,2500
+576,2026-10-24,Caballito,Jugo,Bebidas,2,3100
+577,2026-10-24,Quilmes,Jugo,Bebidas,2,3100
+578,2026-10-17,Palermo,Tostado,Comidas,1,4200
+579,2026-10-27,Belgrano,Medialuna,Panadería,2,900
+580,2026-10-19,Quilmes,Ensalada,Comidas,1,6500
+581,2026-10-25,Quilmes,Tostado,Comidas,4,4200
+582,2026-10-26,CABALLITO ,Tostado,Comidas,4,4200
+582,2026-10-26,CABALLITO ,Tostado,Comidas,4,4200
+583,2026-10-04,Quilmes,Jugo,Bebidas,4,3100
+584,2026-10-07,Quilmes,Café,Bebidas,3,2500
+585,2026-10-03,Quilmes,Tostado,Comidas,2,4200
+586,2026-10-07,Quilmes,Ensalada,Comidas,1,6500
+587,2026-10-31,Belgrano,Medialuna,Panadería,3,900
+588,2026-10-29,Quilmes,Jugo,Bebidas,3,3100
+589,2026-10-20,Quilmes,Medialuna,Panadería,,900
+590,2026-10-31,San Isidro,Medialuna,Panadería,4,900
+591,2026-10-04,Belgrano,Budín,Panadería,4,3800
+592,2026-10-03,Quilmes,Budín,Panadería,3,3800
+593,2026-10-23,San Isidro,Ensalada,Comidas,4,6500
+594,2026-10-16,Palermo,Tostado,Comidas,1,4200
+595,2026-10-13,San Isidro,Jugo,Bebidas,3,3100
+596,2026-10-02,BELGRANO ,Tostado,Comidas,4,4200
+597,2026-10-07,Quilmes,Budín,Panadería,1,3800
+598,2026-10-21,SAN ISIDRO ,Medialuna,Panadería,3,900
+599,2026-10-03,Quilmes,Ensalada,Comidas,4,6500
+600,2026-10-09,San Isidro,Tostado,Comidas,2,4200
+601,2026-10-29,San Isidro,Medialuna,Panadería,2,900
+602,2026-10-17,Palermo,Medialuna,Panadería,3,900
+603,2026-10-12,Caballito,Ensalada,Comidas,2,6500
+604,2026-10-11,Palermo,Jugo,Bebidas,4,3100
+605,2026-10-26,Palermo,Jugo,Bebidas,3,3100
+606,2026-10-27,Caballito,Jugo,Bebidas,2,3100
+607,2026-10-22,Palermo,Budín,Panadería,4,3800
+608,2026-10-17,Caballito,Tostado,Comidas,,4200
+609,2026-10-23,Caballito,Budín,Panadería,3,3800
+610,2026-10-29,San Isidro,Café,Bebidas,1,2500
+611,2026-10-04,Belgrano,Tostado,Comidas,2,4200
+612,2026-10-25,Caballito,Jugo,Bebidas,4,3100
+613,2026-10-28,San Isidro,Medialuna,Panadería,2,900
+614,2026-10-10,Caballito,Medialuna,Panadería,2,900
+615,2026-10-01,San Isidro,Budín,Panadería,2,3800
+616,2026-10-26,Belgrano,Ensalada,Comidas,2,6500
+617,2026-10-04,Quilmes,Tostado,Comidas,1,4200
+618,2026-10-23,Palermo,Jugo,Bebidas,3,3100
+619,2026-10-20,Caballito,Medialuna,Panadería,2,900
+620,2026-10-26,Palermo,Café,Bebidas,3,2500
+621,2026-10-11,Quilmes,Medialuna,Panadería,1,900
+622,2026-10-02,Palermo,Jugo,Bebidas,1,3100
+623,2026-10-10,Caballito,Ensalada,Comidas,3,6500
+624,2026-10-27,San Isidro,Medialuna,Panadería,3,900
+625,2026-10-01,Quilmes,Budín,Panadería,3,3800
+626,2026-10-03,Quilmes,Budín,Panadería,1,3800
+627,2026-10-22,San Isidro,Café,Bebidas,3,2500
+628,2026-10-16,Quilmes,Budín,Panadería,2,3800
+629,2026-10-15,San Isidro,Medialuna,Panadería,3,900
+630,2026-10-07,Quilmes,Café,Bebidas,1,2500
+631,2026-10-25,San Isidro,Tostado,Comidas,2,4200
+632,2026-10-26,Palermo,Café,Bebidas,1,2500
+633,2026-10-21,San Isidro,Ensalada,Comidas,3,6500
+634,2026-10-12,Palermo,Tostado,Comidas,1,4200
+635,2026-10-01,Palermo,Ensalada,Comidas,4,6500
+636,2026-10-29,Palermo,Jugo,Bebidas,4,3100
+637,2026-10-27,San Isidro,Medialuna,Panadería,1,900
+638,2026-10-09,Belgrano,Ensalada,Comidas,1,6500
+639,2026-10-14,Belgrano,Ensalada,Comidas,4,6500
+640,2026-10-01,San Isidro,Café,Bebidas,2,2500
+641,2026-10-26,Palermo,Café,Bebidas,4,2500
+642,2026-10-28,San Isidro,Tostado,Comidas,3,4200
+643,2026-10-29,Belgrano,Medialuna,Panadería,1,900
+644,2026-10-04,Belgrano,Budín,Panadería,2,3800
+645,2026-10-22,Palermo,Ensalada,Comidas,4,6500
+646,2026-10-06,Quilmes,Jugo,Bebidas,2,3100
+647,2026-10-30,Palermo,Jugo,Bebidas,4,3100
+648,2026-10-01,Palermo,Jugo,Bebidas,2,3100
+649,2026-10-01,Palermo,Café,Bebidas,4,2500
+650,2026-10-25,San Isidro,Ensalada,Comidas,1,6500
+651,2026-10-05,Quilmes,Jugo,Bebidas,1,3100
+652,2026-10-23,Belgrano,Café,Bebidas,2,2500
+653,2026-10-04,Palermo,Budín,Panadería,4,3800
+654,2026-10-03,Palermo,Budín,Panadería,1,3800
+655,2026-10-22,Palermo,Café,Bebidas,2,2500
+656,2026-10-07,Quilmes,Café,Bebidas,2,2500
+657,2026-10-17,Palermo,Tostado,Comidas,1,4200
+658,2026-10-04,Caballito,Café,Bebidas,3,2500
+659,2026-10-20,BELGRANO ,Budín,Panadería,3,3800
+660,2026-10-23,San Isidro,Budín,Panadería,2,3800
+661,2026-10-19,Palermo,Ensalada,Comidas,2,6500
+662,2026-10-01,Quilmes,Ensalada,Comidas,2,6500
+663,2026-10-10,Belgrano,Jugo,Bebidas,3,3100
+664,2026-10-11,Belgrano,Jugo,Bebidas,1,3100
+665,2026-10-30,Caballito,Jugo,Bebidas,,3100
+666,2026-10-11,CABALLITO ,Medialuna,Panadería,3,900
+667,2026-10-11,Palermo,Café,Bebidas,2,2500
+668,2026-10-11,San Isidro,Tostado,Comidas,1,4200
+669,2026-10-02,Quilmes,Ensalada,Comidas,2,6500
+670,2026-10-21,Belgrano,Café,Bebidas,2,2500
+670,2026-10-21,Belgrano,Café,Bebidas,2,2500
+671,2026-10-09,Belgrano,Jugo,Bebidas,1,3100
+672,2026-10-31,Quilmes,Ensalada,Comidas,3,6500
+673,2026-10-23,San Isidro,Medialuna,Panadería,3,900
+674,2026-10-21,Quilmes,Café,Bebidas,1,2500
+675,2026-10-01,Palermo,Café,Bebidas,3,2500
+676,2026-10-17,Quilmes,Ensalada,Comidas,3,6500
+677,2026-10-14,Quilmes,Ensalada,Comidas,2,6500
+678,2026-10-15,Belgrano,Tostado,Comidas,3,4200
+679,2026-10-28,Caballito,Medialuna,Panadería,,900
+680,2026-10-29,San Isidro,Café,Bebidas,2,2500
+681,2026-10-16,Quilmes,Café,Bebidas,1,2500
+682,2026-10-02,Palermo,Café,Bebidas,3,2500
+683,2026-10-12,Belgrano,Tostado,Comidas,2,4200
+684,2026-10-06,Belgrano,Budín,Panadería,1,3800
+685,2026-10-30,Belgrano,Café,Bebidas,2,2500
+686,2026-10-08,Caballito,Ensalada,Comidas,4,6500
+687,2026-10-27,CABALLITO ,Tostado,Comidas,2,4200
+688,2026-10-15,Palermo,Budín,Panadería,4,3800
+689,2026-10-30,Quilmes,Medialuna,Panadería,4,900
+690,2026-10-15,Caballito,Jugo,Bebidas,2,3100
+691,2026-10-24,Palermo,Medialuna,Panadería,4,900
+692,2026-10-17,Belgrano,Medialuna,Panadería,3,900
+693,2026-10-31,Palermo,Jugo,Bebidas,2,3100
+694,2026-10-09,Palermo,Ensalada,Comidas,3,6500
+695,2026-10-06,San Isidro,Budín,Panadería,1,3800
+696,2026-10-02,Quilmes,Budín,Panadería,2,3800
+697,2026-10-13,Caballito,Tostado,Comidas,1,4200
+698,2026-10-01,Palermo,Budín,Panadería,4,3800
+699,2026-10-05,Caballito,Medialuna,Panadería,3,900
+700,2026-10-22,Caballito,Medialuna,Panadería,1,900
+701,2026-10-17,Belgrano,Ensalada,Comidas,4,6500
+702,2026-10-07,Caballito,Tostado,Comidas,4,4200
+703,2026-10-14,Quilmes,Medialuna,Panadería,3,900
+704,2026-10-06,Belgrano,Medialuna,Panadería,1,900
+705,2026-10-18,Belgrano,Budín,Panadería,4,3800
+706,2026-10-14,San Isidro,Medialuna,Panadería,2,900
+707,2026-10-06,Belgrano,Medialuna,Panadería,4,900
+708,2026-10-09,Belgrano,Budín,Panadería,2,3800
+709,2026-10-14,Quilmes,Café,Bebidas,1,2500
+709,2026-10-14,Quilmes,Café,Bebidas,1,2500
+710,2026-10-10,Belgrano,Café,Bebidas,3,2500
+711,2026-10-28,Quilmes,Tostado,Comidas,1,4200
+712,2026-10-26,Quilmes,Tostado,Comidas,2,4200
+713,2026-10-06,Belgrano,Ensalada,Comidas,3,6500
+714,2026-10-27,San Isidro,Café,Bebidas,1,2500
+715,2026-10-30,Quilmes,Café,Bebidas,4,2500
+716,2026-10-29,Caballito,Medialuna,Panadería,4,900
+717,2026-10-31,Quilmes,Medialuna,Panadería,4,900
+718,2026-10-24,Quilmes,Ensalada,Comidas,3,6500
+719,2026-10-08,Caballito,Ensalada,Comidas,2,6500
+720,2026-10-20,Quilmes,Jugo,Bebidas,1,3100
+721,2026-10-12,Caballito,Tostado,Comidas,4,4200
+721,2026-10-12,Caballito,Tostado,Comidas,4,4200
+722,2026-10-22,Caballito,Medialuna,Panadería,4,900
+723,2026-10-18,Belgrano,Ensalada,Comidas,2,6500
+724,2026-10-25,Belgrano,Tostado,Comidas,3,4200
+725,2026-10-29,Belgrano,Budín,Panadería,1,3800
+726,2026-10-18,Palermo,Tostado,Comidas,1,4200
+727,2026-10-08,Belgrano,Café,Bebidas,2,2500
+728,2026-10-08,Palermo,Café,Bebidas,1,2500
+729,2026-10-16,San Isidro,Tostado,Comidas,1,4200
+730,2026-10-28,Palermo,Tostado,Comidas,3,4200
+731,2026-10-03,Caballito,Budín,Panadería,1,3800
+732,2026-10-17,Belgrano,Jugo,Bebidas,2,3100
+733,2026-10-25,Quilmes,Medialuna,Panadería,,900
+734,2026-10-03,Palermo,Jugo,Bebidas,1,3100
+735,2026-10-26,San Isidro,Jugo,Bebidas,2,3100
+736,2026-10-05,San Isidro,Café,Bebidas,2,2500
+737,2026-10-25,San Isidro,Tostado,Comidas,4,4200
+738,2026-10-24,San Isidro,Café,Bebidas,2,2500
+739,2026-10-20,Belgrano,Medialuna,Panadería,2,900
+740,2026-10-05,Belgrano,Medialuna,Panadería,1,900
+741,2026-10-22,Quilmes,Ensalada,Comidas,3,6500
+742,2026-10-20,Caballito,Tostado,Comidas,1,4200
+743,2026-10-30,Quilmes,Ensalada,Comidas,2,6500
+744,2026-10-23,Quilmes,Budín,Panadería,3,3800
+745,2026-10-03,Quilmes,Budín,Panadería,4,3800
+746,2026-10-08,Quilmes,Jugo,Bebidas,3,3100
+747,2026-10-18,San Isidro,Jugo,Bebidas,3,3100
+748,2026-10-30,Palermo,Tostado,Comidas,2,4200
+749,2026-10-03,Caballito,Jugo,Bebidas,1,3100
+750,2026-10-11,Belgrano,Jugo,Bebidas,1,3100
+751,2026-10-02,Belgrano,Café,Bebidas,3,2500
+752,2026-10-27,Belgrano,Budín,Panadería,4,3800
+753,2026-10-23,Palermo,Tostado,Comidas,3,4200
+754,2026-10-03,Quilmes,Tostado,Comidas,4,4200
+755,2026-10-25,Belgrano,Jugo,Bebidas,4,3100
+756,2026-10-31,San Isidro,Jugo,Bebidas,1,3100
+757,2026-10-16,San Isidro,Ensalada,Comidas,2,6500
+758,2026-10-11,Quilmes,Ensalada,Comidas,,6500
+759,2026-10-12,San Isidro,Café,Bebidas,3,2500
+760,2026-10-08,Caballito,Tostado,Comidas,3,4200
+761,2026-10-10,Palermo,Café,Bebidas,2,2500
+762,2026-10-29,Palermo,Budín,Panadería,2,3800
+763,2026-10-27,San Isidro,Tostado,Comidas,3,4200
+764,2026-10-05,Palermo,Medialuna,Panadería,3,900
+765,2026-10-29,San Isidro,Medialuna,Panadería,1,900
+766,2026-10-15,Caballito,Ensalada,Comidas,2,6500
+767,2026-10-29,Belgrano,Café,Bebidas,1,2500
+768,2026-10-02,Quilmes,Medialuna,Panadería,4,900
+769,2026-10-21,Caballito,Ensalada,Comidas,4,6500
+770,2026-10-28,San Isidro,Tostado,Comidas,1,4200
+771,2026-10-16,Palermo,Jugo,Bebidas,4,3100
+772,2026-10-12,Palermo,Budín,Panadería,3,3800
+773,2026-10-19,Belgrano,Jugo,Bebidas,1,3100
+774,2026-10-27,Palermo,Budín,Panadería,3,3800
+775,2026-10-08,Belgrano,Tostado,Comidas,4,4200
+776,2026-10-07,Caballito,Tostado,Comidas,3,4200
+777,2026-10-25,Belgrano,Budín,Panadería,1,3800
+778,2026-10-29,Palermo,Medialuna,Panadería,2,900
+779,2026-10-28,Palermo,Budín,Panadería,3,3800
+780,2026-10-17,San Isidro,Ensalada,Comidas,2,6500
+781,2026-10-05,Palermo,Ensalada,Comidas,4,6500
+782,2026-10-09,Belgrano,Medialuna,Panadería,4,900
+783,2026-10-01,Belgrano,Tostado,Comidas,2,4200
+784,2026-10-08,Belgrano,Budín,Panadería,2,3800
+785,2026-10-15,Caballito,Ensalada,Comidas,2,6500
+786,2026-10-16,Palermo,Café,Bebidas,4,2500
+787,2026-10-14,Quilmes,Medialuna,Panadería,3,900
+788,2026-10-14,Belgrano,Ensalada,Comidas,2,6500
+789,2026-10-14,Belgrano,Tostado,Comidas,3,4200
+790,2026-10-19,San Isidro,Tostado,Comidas,1,4200
+791,2026-10-25,Quilmes,Budín,Panadería,4,3800
+792,2026-10-19,San Isidro,Budín,Panadería,2,3800
+793,2026-10-31,Palermo,Café,Bebidas,4,2500
+794,2026-10-23,Quilmes,Jugo,Bebidas,2,3100
+794,2026-10-23,Quilmes,Jugo,Bebidas,2,3100
+795,2026-10-28,Caballito,Ensalada,Comidas,4,6500
+796,2026-10-31,Belgrano,Jugo,Bebidas,3,3100
+797,2026-10-31,Caballito,Ensalada,Comidas,2,6500
+798,2026-10-19,Caballito,Ensalada,Comidas,2,6500
+799,2026-10-21,Palermo,Medialuna,Panadería,3,900
+800,2026-10-20,Quilmes,Tostado,Comidas,4,4200
+801,2026-10-12,Quilmes,Budín,Panadería,3,3800
+802,2026-10-19,Caballito,Tostado,Comidas,1,4200
+803,2026-10-21,Caballito,Budín,Panadería,1,3800
+804,2026-10-31,Palermo,Ensalada,Comidas,4,6500
+805,2026-10-05,Belgrano,Medialuna,Panadería,3,900
+806,2026-10-24,San Isidro,Café,Bebidas,2,2500
+807,2026-10-05,Palermo,Jugo,Bebidas,2,3100
+808,2026-10-03,San Isidro,Ensalada,Comidas,2,6500
+809,2026-10-06,Palermo,Café,Bebidas,1,2500
+810,2026-10-15,Belgrano,Medialuna,Panadería,1,900
+811,2026-10-07,Quilmes,Tostado,Comidas,1,4200
+812,2026-10-16,Belgrano,Café,Bebidas,2,2500
+813,2026-10-24,Quilmes,Ensalada,Comidas,1,6500
+814,2026-10-15,Quilmes,Budín,Panadería,1,3800
+815,2026-10-22,Palermo,Jugo,Bebidas,2,3100
+816,2026-10-06,Belgrano,Ensalada,Comidas,,6500
+817,2026-10-26,Caballito,Ensalada,Comidas,1,6500
+818,2026-10-24,Caballito,Ensalada,Comidas,4,6500
+819,2026-10-20,Quilmes,Medialuna,Panadería,3,900
+820,2026-10-22,San Isidro,Budín,Panadería,1,3800
+821,2026-10-09,Belgrano,Budín,Panadería,3,3800
+822,2026-10-28,Palermo,Café,Bebidas,4,2500
+823,2026-10-30,Palermo,Tostado,Comidas,4,4200
+824,2026-10-09,Quilmes,Café,Bebidas,4,2500
+825,2026-10-15,Palermo,Ensalada,Comidas,3,6500
+826,2026-10-03,Caballito,Ensalada,Comidas,3,6500
+827,2026-10-17,San Isidro,Budín,Panadería,4,3800
+828,2026-10-21,Quilmes,Tostado,Comidas,4,4200
+829,2026-10-26,Palermo,Ensalada,Comidas,3,6500
+830,2026-10-31,Quilmes,Medialuna,Panadería,3,900
+831,2026-10-15,Palermo,Jugo,Bebidas,1,3100
+832,2026-10-07,Palermo,Jugo,Bebidas,4,3100
+833,2026-10-06,Belgrano,Medialuna,Panadería,1,900
+834,2026-10-30,Belgrano,Medialuna,Panadería,4,900
+835,2026-10-30,Palermo,Budín,Panadería,3,3800
+836,2026-10-15,Quilmes,Medialuna,Panadería,1,900
+837,2026-10-24,Quilmes,Jugo,Bebidas,2,3100
+838,2026-10-09,San Isidro,Medialuna,Panadería,1,900
+839,2026-10-29,Quilmes,Jugo,Bebidas,4,3100
+840,2026-10-16,Belgrano,Budín,Panadería,3,3800
+841,2026-10-04,San Isidro,Medialuna,Panadería,4,900
+842,2026-10-06,Caballito,Tostado,Comidas,1,4200
+843,2026-10-21,Quilmes,Tostado,Comidas,3,4200
+844,2026-10-28,Caballito,Ensalada,Comidas,2,6500
+845,2026-10-23,QUILMES ,Medialuna,Panadería,1,900
+846,2026-10-17,Belgrano,Ensalada,Comidas,1,6500
+847,2026-10-07,Caballito,Ensalada,Comidas,1,6500
+848,2026-10-11,San Isidro,Budín,Panadería,1,3800
+849,2026-10-27,San Isidro,Medialuna,Panadería,1,900
+850,2026-10-04,Caballito,Medialuna,Panadería,1,900
+851,2026-10-22,Palermo,Jugo,Bebidas,4,3100
+852,2026-10-04,San Isidro,Ensalada,Comidas,3,6500
+853,2026-10-31,Quilmes,Café,Bebidas,1,2500
+854,2026-10-24,Caballito,Tostado,Comidas,2,4200
+855,2026-10-06,Belgrano,Medialuna,Panadería,2,900
+856,2026-10-10,San Isidro,Budín,Panadería,1,3800
+857,2026-10-24,Quilmes,Café,Bebidas,2,2500
+857,2026-10-24,Quilmes,Café,Bebidas,2,2500
+858,2026-10-29,Palermo,Tostado,Comidas,2,4200
+859,2026-10-16,Palermo,Café,Bebidas,2,2500
+860,2026-10-20,Palermo,Medialuna,Panadería,2,900
+861,2026-10-11,Quilmes,Ensalada,Comidas,1,6500
+862,2026-10-15,Belgrano,Medialuna,Panadería,2,900
+863,2026-10-23,Belgrano,Budín,Panadería,4,3800
+864,2026-10-24,Palermo,Ensalada,Comidas,2,6500
+865,2026-10-17,San Isidro,Ensalada,Comidas,2,6500
+866,2026-10-09,Palermo,Ensalada,Comidas,4,6500
+867,2026-10-22,Belgrano,Jugo,Bebidas,1,3100
+868,2026-10-12,Caballito,Tostado,Comidas,2,4200
+869,2026-10-14,Palermo,Ensalada,Comidas,4,6500
+870,2026-10-09,Quilmes,Ensalada,Comidas,1,6500
+871,2026-10-22,Caballito,Jugo,Bebidas,4,3100
+872,2026-10-05,Quilmes,Medialuna,Panadería,1,900
+873,2026-10-06,Palermo,Budín,Panadería,1,3800
+874,2026-10-19,Caballito,Ensalada,Comidas,3,6500
+875,2026-10-27,Quilmes,Tostado,Comidas,,4200
+876,2026-10-24,Belgrano,Jugo,Bebidas,2,3100
+877,2026-10-26,BELGRANO ,Jugo,Bebidas,1,3100
+878,2026-10-28,San Isidro,Tostado,Comidas,3,4200
+879,2026-10-21,Caballito,Budín,Panadería,2,3800
+880,2026-10-12,San Isidro,Tostado,Comidas,2,4200
+881,2026-10-14,Palermo,Jugo,Bebidas,2,3100
+882,2026-10-23,San Isidro,Jugo,Bebidas,3,3100
+883,2026-10-18,Caballito,Jugo,Bebidas,3,3100
+884,2026-10-16,Quilmes,Tostado,Comidas,2,4200
+885,2026-10-03,Belgrano,Tostado,Comidas,2,4200
+886,2026-10-09,Palermo,Ensalada,Comidas,3,6500
+887,2026-10-02,Belgrano,Jugo,Bebidas,3,3100
+888,2026-10-24,Quilmes,Ensalada,Comidas,2,6500
+889,2026-10-02,Caballito,Ensalada,Comidas,2,6500
+890,2026-10-14,Belgrano,Medialuna,Panadería,3,900
+891,2026-10-09,Caballito,Café,Bebidas,2,2500
+892,2026-10-14,Caballito,Medialuna,Panadería,2,900
+893,2026-10-17,Palermo,Jugo,Bebidas,3,3100
+894,2026-10-24,Caballito,Tostado,Comidas,1,4200
+895,2026-10-07,San Isidro,Medialuna,Panadería,1,900
+896,2026-10-07,Belgrano,Ensalada,Comidas,2,6500
+897,2026-10-04,San Isidro,Café,Bebidas,3,2500
+898,2026-10-04,Quilmes,Medialuna,Panadería,2,900
+899,2026-10-29,Caballito,Medialuna,Panadería,1,900
+900,2026-10-08,Quilmes,Tostado,Comidas,2,4200
+901,2026-10-10,Quilmes,Tostado,Comidas,,4200
+902,2026-10-15,San Isidro,Medialuna,Panadería,2,900
+903,2026-10-26,Quilmes,Café,Bebidas,3,2500
+904,2026-10-28,Palermo,Medialuna,Panadería,1,900
+905,2026-10-14,Caballito,Jugo,Bebidas,4,3100
+906,2026-10-23,San Isidro,Medialuna,Panadería,1,900
+907,2026-10-18,Quilmes,Medialuna,Panadería,2,900
+908,2026-10-19,Palermo,Tostado,Comidas,3,4200
+909,2026-10-12,Belgrano,Ensalada,Comidas,3,6500
+910,2026-10-14,Belgrano,Café,Bebidas,3,2500
+911,2026-10-22,Caballito,Budín,Panadería,4,3800
+912,2026-10-15,PALERMO ,Medialuna,Panadería,3,900
+913,2026-10-22,Quilmes,Jugo,Bebidas,1,3100
+914,2026-10-03,Belgrano,Ensalada,Comidas,2,6500
+915,2026-10-20,Caballito,Medialuna,Panadería,3,900
+916,2026-10-20,Caballito,Café,Bebidas,2,2500
+917,2026-10-20,Quilmes,Budín,Panadería,2,3800
+918,2026-10-28,Quilmes,Tostado,Comidas,4,4200
+919,2026-10-30,San Isidro,Café,Bebidas,1,2500
+920,2026-10-17,Caballito,Ensalada,Comidas,2,6500
+921,2026-10-31,Palermo,Budín,Panadería,1,3800
+922,2026-10-27,San Isidro,Ensalada,Comidas,4,6500
+923,2026-10-21,Belgrano,Tostado,Comidas,1,4200
+924,2026-10-20,Palermo,Ensalada,Comidas,1,6500
+925,2026-10-30,Belgrano,Ensalada,Comidas,1,6500
+926,2026-10-09,Palermo,Budín,Panadería,1,3800
+927,2026-10-30,San Isidro,Ensalada,Comidas,4,6500
+928,2026-10-18,Quilmes,Jugo,Bebidas,4,3100
+929,2026-10-09,Belgrano,Ensalada,Comidas,2,6500
+930,2026-10-07,Quilmes,Jugo,Bebidas,3,3100
+931,2026-10-25,Quilmes,Ensalada,Comidas,3,6500
+932,2026-10-22,San Isidro,Jugo,Bebidas,2,3100
+933,2026-10-17,Belgrano,Medialuna,Panadería,2,900
+934,2026-10-09,Quilmes,Tostado,Comidas,1,4200
+935,2026-10-11,Caballito,Jugo,Bebidas,1,3100
+936,2026-10-20,Belgrano,Budín,Panadería,2,3800
+937,2026-10-22,Quilmes,Jugo,Bebidas,4,3100
+938,2026-10-28,Quilmes,Café,Bebidas,2,2500
+939,2026-10-21,Caballito,Jugo,Bebidas,4,3100
+940,2026-10-07,San Isidro,Medialuna,Panadería,4,900
+941,2026-10-27,Belgrano,Café,Bebidas,1,2500
+942,2026-10-04,Belgrano,Budín,Panadería,4,3800
+943,2026-10-20,Caballito,Medialuna,Panadería,2,900
+944,2026-10-21,Belgrano,Medialuna,Panadería,3,900
+945,2026-10-02,Belgrano,Budín,Panadería,1,3800
+946,2026-10-03,Belgrano,Tostado,Comidas,4,4200
+947,2026-10-12,Palermo,Medialuna,Panadería,4,900
+948,2026-10-24,Quilmes,Café,Bebidas,4,2500
+949,2026-10-02,Quilmes,Tostado,Comidas,4,4200
+950,2026-10-14,Quilmes,Café,Bebidas,4,2500
+951,2026-10-09,Quilmes,Medialuna,Panadería,4,900
+952,2026-10-31,San Isidro,Budín,Panadería,2,3800
+953,2026-10-29,Palermo,Jugo,Bebidas,1,3100
+954,2026-10-07,Caballito,Jugo,Bebidas,2,3100
+955,2026-10-05,Palermo,Ensalada,Comidas,4,6500
+956,2026-10-11,Caballito,Budín,Panadería,2,3800
+957,2026-10-02,San Isidro,Tostado,Comidas,3,4200
+958,2026-10-21,Palermo,Café,Bebidas,3,2500
+959,2026-10-20,Palermo,Jugo,Bebidas,4,3100
+960,2026-10-15,Quilmes,Jugo,Bebidas,1,3100
+961,2026-10-16,Quilmes,Ensalada,Comidas,4,6500
+962,2026-10-19,Caballito,Café,Bebidas,4,2500
+963,2026-10-25,Caballito,Budín,Panadería,3,3800
+964,2026-10-31,Palermo,Tostado,Comidas,2,4200
+965,2026-10-15,San Isidro,Ensalada,Comidas,3,6500
+966,2026-10-26,Caballito,Café,Bebidas,4,2500
+967,2026-10-12,PALERMO ,Medialuna,Panadería,4,900
+968,2026-10-03,San Isidro,Café,Bebidas,2,2500
+969,2026-10-14,San Isidro,Jugo,Bebidas,3,3100
+970,2026-10-24,Caballito,Café,Bebidas,4,2500
+971,2026-10-03,San Isidro,Budín,Panadería,2,3800
+972,2026-10-10,Palermo,Medialuna,Panadería,4,900
+973,2026-10-09,Palermo,Ensalada,Comidas,1,6500
+974,2026-10-04,Caballito,Tostado,Comidas,3,4200
+975,2026-10-09,Quilmes,Budín,Panadería,2,3800
+976,2026-10-20,San Isidro,Medialuna,Panadería,2,900
+977,2026-10-03,Caballito,Tostado,Comidas,2,4200
+978,2026-10-15,Caballito,Medialuna,Panadería,1,900
+979,2026-10-21,Palermo,Budín,Panadería,4,3800
+980,2026-10-22,Caballito,Jugo,Bebidas,2,3100
+981,2026-10-10,San Isidro,Jugo,Bebidas,4,3100
+982,2026-10-17,Palermo,Tostado,Comidas,4,4200
+983,2026-10-23,Caballito,Budín,Panadería,2,3800
+984,2026-10-16,San Isidro,Tostado,Comidas,3,4200
+985,2026-10-28,Belgrano,Budín,Panadería,2,3800
+986,2026-10-16,San Isidro,Tostado,Comidas,1,4200
+987,2026-10-28,Caballito,Tostado,Comidas,3,4200
+988,2026-10-31,Quilmes,Jugo,Bebidas,2,3100
+989,2026-10-26,Belgrano,Café,Bebidas,1,2500
+990,2026-10-15,San Isidro,Ensalada,Comidas,4,6500
+991,2026-10-07,San Isidro,Café,Bebidas,3,2500
+992,2026-10-28,San Isidro,Budín,Panadería,1,3800
+993,2026-10-27,San Isidro,Jugo,Bebidas,2,3100
+994,2026-10-03,San Isidro,Ensalada,Comidas,3,6500
+995,2026-10-22,San Isidro,Tostado,Comidas,1,4200
+996,2026-10-23,Caballito,Ensalada,Comidas,3,6500
+997,2026-10-15,Palermo,Jugo,Bebidas,3,3100
+998,2026-10-24,Belgrano,Ensalada,Comidas,2,6500
+999,2026-10-31,Quilmes,Tostado,Comidas,4,4200
+1000,2026-10-02,Palermo,Medialuna,Panadería,4,900
+1001,2026-10-24,Quilmes,Jugo,Bebidas,1,3100
+1002,2026-10-14,Caballito,Medialuna,Panadería,3,900
+1003,2026-10-29,Caballito,Budín,Panadería,1,3800
+1004,2026-10-08,Palermo,Tostado,Comidas,1,4200
+1005,2026-10-27,Caballito,Jugo,Bebidas,4,3100
+1006,2026-10-01,Quilmes,Jugo,Bebidas,3,3100
+1007,2026-10-13,Palermo,Café,Bebidas,4,2500
+1008,2026-10-26,Palermo,Budín,Panadería,1,3800
+1009,2026-10-28,San Isidro,Tostado,Comidas,1,4200
+1010,2026-10-30,Belgrano,Café,Bebidas,4,2500
+1011,2026-10-21,Caballito,Budín,Panadería,1,3800
+1012,2026-10-13,Quilmes,Budín,Panadería,1,3800
+1013,2026-10-31,Caballito,Medialuna,Panadería,4,900
+1014,2026-10-31,Belgrano,Ensalada,Comidas,1,6500
+1015,2026-10-26,Belgrano,Medialuna,Panadería,1,900
+1016,2026-10-08,San Isidro,Ensalada,Comidas,3,6500
+1017,2026-10-31,Quilmes,Café,Bebidas,2,2500
+1018,2026-10-26,San Isidro,Jugo,Bebidas,2,3100
+1019,2026-10-17,Palermo,Tostado,Comidas,4,4200
+1020,2026-10-13,Caballito,Budín,Panadería,1,3800
+1021,2026-10-10,San Isidro,Budín,Panadería,1,3800
+1022,2026-10-25,Palermo,Medialuna,Panadería,4,900
+1023,2026-10-08,Caballito,Café,Bebidas,1,2500
+1024,2026-10-21,Belgrano,Budín,Panadería,3,3800
+1025,2026-10-22,Caballito,Medialuna,Panadería,4,900
+1026,2026-10-20,Belgrano,Tostado,Comidas,2,4200
+1027,2026-10-07,Caballito,Tostado,Comidas,1,4200
+1028,2026-10-22,Quilmes,Jugo,Bebidas,2,3100
+1029,2026-10-06,Palermo,Medialuna,Panadería,1,900
+1030,2026-10-08,Quilmes,Jugo,Bebidas,1,3100
+1031,2026-10-07,Caballito,Medialuna,Panadería,4,900
+1032,2026-10-05,Caballito,Jugo,Bebidas,1,3100
+1033,2026-10-14,Caballito,Tostado,Comidas,4,4200
+1034,2026-10-10,Palermo,Jugo,Bebidas,1,3100
+1035,2026-10-09,Quilmes,Jugo,Bebidas,3,3100
+1036,2026-10-06,Belgrano,Budín,Panadería,4,3800
+1037,2026-10-27,Palermo,Tostado,Comidas,4,4200
+1038,2026-10-13,Caballito,Ensalada,Comidas,2,6500
+1039,2026-10-27,San Isidro,Jugo,Bebidas,3,3100
+1040,2026-10-30,Quilmes,Tostado,Comidas,1,4200
+1041,2026-10-18,Belgrano,Jugo,Bebidas,3,3100
+1042,2026-10-24,Palermo,Medialuna,Panadería,1,900
+1043,2026-10-07,San Isidro,Jugo,Bebidas,3,3100
+1044,2026-10-14,Palermo,Tostado,Comidas,4,4200
+1045,2026-10-24,Caballito,Jugo,Bebidas,4,3100
+1046,2026-10-21,Caballito,Budín,Panadería,4,3800
+1047,2026-10-15,San Isidro,Café,Bebidas,4,2500
+1048,2026-10-02,Palermo,Tostado,Comidas,3,4200
+1049,2026-10-15,San Isidro,Budín,Panadería,4,3800
+1050,2026-10-07,Quilmes,Ensalada,Comidas,1,6500
+1051,2026-10-12,San Isidro,Café,Bebidas,2,2500
+1052,2026-10-03,Palermo,Jugo,Bebidas,3,3100
+1053,2026-10-12,Caballito,Jugo,Bebidas,2,3100
+1054,2026-10-15,Belgrano,Ensalada,Comidas,3,6500
+1055,2026-10-18,Caballito,Café,Bebidas,2,2500
+1056,2026-10-21,Quilmes,Café,Bebidas,3,2500
+1056,2026-10-21,Quilmes,Café,Bebidas,3,2500
+1057,2026-10-15,Caballito,Ensalada,Comidas,4,6500
+1058,2026-10-10,San Isidro,Medialuna,Panadería,3,900
+1059,2026-10-30,Palermo,Jugo,Bebidas,1,3100
+1060,2026-10-23,Quilmes,Jugo,Bebidas,3,3100
+1061,2026-10-25,Palermo,Medialuna,Panadería,4,900
+1062,2026-10-25,Caballito,Café,Bebidas,3,2500
+1063,2026-10-15,Caballito,Ensalada,Comidas,2,6500
+1064,2026-10-07,CABALLITO ,Tostado,Comidas,4,4200
+1065,2026-10-07,Belgrano,Budín,Panadería,2,3800
+1066,2026-10-19,Caballito,Medialuna,Panadería,1,900
+1067,2026-10-29,San Isidro,Jugo,Bebidas,3,3100
+1068,2026-10-24,Caballito,Café,Bebidas,2,2500
+1069,2026-10-09,Caballito,Tostado,Comidas,1,4200
+1070,2026-10-05,Palermo,Medialuna,Panadería,3,900
+1071,2026-10-14,San Isidro,Tostado,Comidas,1,4200
+1072,2026-10-17,Caballito,Ensalada,Comidas,1,6500
+1073,2026-10-06,Caballito,Jugo,Bebidas,4,3100
+1074,2026-10-23,Belgrano,Café,Bebidas,2,2500
+1075,2026-10-08,Caballito,Medialuna,Panadería,4,900
+1076,2026-10-22,Quilmes,Ensalada,Comidas,2,6500
+1077,2026-10-11,Caballito,Café,Bebidas,1,2500
+1078,2026-10-29,San Isidro,Medialuna,Panadería,1,900
+1079,2026-10-07,Quilmes,Budín,Panadería,3,3800
+1080,2026-10-07,Quilmes,Tostado,Comidas,1,4200
+1081,2026-10-31,Belgrano,Café,Bebidas,4,2500
+1082,2026-10-04,Caballito,Medialuna,Panadería,3,900
+1083,2026-10-02,Quilmes,Tostado,Comidas,4,4200
+1084,2026-10-18,Quilmes,Café,Bebidas,2,2500
+1085,2026-10-19,Palermo,Jugo,Bebidas,2,3100
+1086,2026-10-24,Palermo,Café,Bebidas,2,2500
+1087,2026-10-22,Palermo,Tostado,Comidas,3,4200
+1088,2026-10-09,Belgrano,Medialuna,Panadería,4,900
+1089,2026-10-29,Belgrano,Ensalada,Comidas,3,6500
+1090,2026-10-14,San Isidro,Jugo,Bebidas,1,3100
+1091,2026-10-27,Quilmes,Ensalada,Comidas,1,6500
+1092,2026-10-05,Belgrano,Budín,Panadería,4,3800
+1093,2026-10-03,Quilmes,Medialuna,Panadería,1,900
+1094,2026-10-28,San Isidro,Budín,Panadería,,3800
+1095,2026-10-11,Palermo,Medialuna,Panadería,1,900
+1096,2026-10-16,Quilmes,Ensalada,Comidas,2,6500
+1097,2026-10-18,Quilmes,Ensalada,Comidas,4,6500
+1098,2026-10-26,Belgrano,Tostado,Comidas,1,4200
+1099,2026-10-11,Palermo,Ensalada,Comidas,2,6500
+1100,2026-10-25,Belgrano,Jugo,Bebidas,1,3100
+1101,2026-10-08,San Isidro,Budín,Panadería,3,3800
+1102,2026-10-20,Palermo,Café,Bebidas,4,2500
+1103,2026-10-06,Caballito,Budín,Panadería,1,3800
+1104,2026-10-02,Quilmes,Ensalada,Comidas,3,6500
+1105,2026-10-08,Quilmes,Ensalada,Comidas,2,6500
+1106,2026-10-16,Palermo,Jugo,Bebidas,4,3100
+1107,2026-10-28,Caballito,Tostado,Comidas,1,4200
+1108,2026-10-15,Quilmes,Medialuna,Panadería,1,900
+1109,2026-10-22,San Isidro,Budín,Panadería,4,3800
+1109,2026-10-22,San Isidro,Budín,Panadería,4,3800
+1110,2026-10-14,San Isidro,Medialuna,Panadería,1,900
+1111,2026-10-11,San Isidro,Café,Bebidas,4,2500
+1112,2026-10-11,Caballito,Ensalada,Comidas,,6500
+1113,2026-10-30,San Isidro,Budín,Panadería,2,3800
+1114,2026-10-18,Caballito,Medialuna,Panadería,2,900
+1115,2026-10-09,Quilmes,Tostado,Comidas,3,4200
+1116,2026-10-15,San Isidro,Medialuna,Panadería,2,900
+1117,2026-10-11,Caballito,Medialuna,Panadería,4,900
+1118,2026-10-25,Quilmes,Tostado,Comidas,1,4200
+1119,2026-10-30,Belgrano,Budín,Panadería,3,3800
+1120,2026-10-29,San Isidro,Tostado,Comidas,4,4200
+1121,2026-10-11,Palermo,Ensalada,Comidas,3,6500
+1122,2026-10-31,Belgrano,Tostado,Comidas,1,4200
+1123,2026-10-20,Caballito,Medialuna,Panadería,3,900
+1124,2026-10-02,San Isidro,Ensalada,Comidas,1,6500
+1125,2026-10-17,Belgrano,Café,Bebidas,4,2500
+1126,2026-10-11,Caballito,Jugo,Bebidas,1,3100
+1127,2026-10-21,Palermo,Tostado,Comidas,3,4200
+1128,2026-10-20,Caballito,Ensalada,Comidas,3,6500
+1129,2026-10-25,San Isidro,Café,Bebidas,1,2500
+1130,2026-10-11,Belgrano,Tostado,Comidas,2,4200
+1131,2026-10-10,San Isidro,Medialuna,Panadería,1,900
+1132,2026-10-16,San Isidro,Medialuna,Panadería,4,900
+1133,2026-10-01,BELGRANO ,Ensalada,Comidas,3,6500
+1134,2026-10-10,San Isidro,Tostado,Comidas,1,4200
+1135,2026-10-05,Caballito,Budín,Panadería,3,3800
+1136,2026-10-06,Quilmes,Medialuna,Panadería,3,900
+1137,2026-10-12,San Isidro,Café,Bebidas,3,2500
+1138,2026-10-25,San Isidro,Budín,Panadería,1,3800
+1139,2026-10-11,San Isidro,Jugo,Bebidas,1,3100
+1140,2026-10-14,Palermo,Tostado,Comidas,3,4200
+1141,2026-10-12,Belgrano,Tostado,Comidas,3,4200
+1142,2026-10-02,Caballito,Tostado,Comidas,3,4200
+1143,2026-10-02,Caballito,Tostado,Comidas,4,4200
+1144,2026-10-09,Caballito,Medialuna,Panadería,1,900
+1145,2026-10-14,San Isidro,Café,Bebidas,1,2500
+1146,2026-10-30,Belgrano,Budín,Panadería,1,3800
+1147,2026-10-22,Belgrano,Jugo,Bebidas,,3100
+1148,2026-10-25,San Isidro,Medialuna,Panadería,4,900
+1149,2026-10-28,Quilmes,Ensalada,Comidas,,6500
+1150,2026-10-08,Caballito,Ensalada,Comidas,3,6500
+1151,2026-10-02,Belgrano,Tostado,Comidas,4,4200
+1152,2026-10-26,Palermo,Ensalada,Comidas,3,6500
+1153,2026-10-18,Palermo,Budín,Panadería,2,3800
+1154,2026-10-12,Quilmes,Budín,Panadería,1,3800
+1155,2026-10-19,Belgrano,Jugo,Bebidas,3,3100
+1156,2026-10-30,San Isidro,Budín,Panadería,4,3800
+1157,2026-10-28,Quilmes,Ensalada,Comidas,2,6500
+1158,2026-10-05,Belgrano,Budín,Panadería,4,3800
+1159,2026-10-01,Caballito,Jugo,Bebidas,3,3100
+1160,2026-10-22,San Isidro,Budín,Panadería,4,3800
+1161,2026-10-21,Quilmes,Ensalada,Comidas,2,6500
+1162,2026-10-04,Belgrano,Jugo,Bebidas,3,3100
+1163,2026-10-24,Belgrano,Jugo,Bebidas,2,3100
+1164,2026-10-04,San Isidro,Tostado,Comidas,1,4200
+1165,2026-10-04,Caballito,Tostado,Comidas,3,4200
+1166,2026-10-01,Quilmes,Budín,Panadería,1,3800
+1167,2026-10-30,Palermo,Budín,Panadería,1,3800
+1168,2026-10-31,SAN ISIDRO ,Tostado,Comidas,3,4200
+1169,2026-10-18,Palermo,Ensalada,Comidas,3,6500
+1170,2026-10-29,Palermo,Budín,Panadería,3,3800
+1171,2026-10-01,San Isidro,Tostado,Comidas,1,4200
+1172,2026-10-15,Palermo,Café,Bebidas,3,2500
+1173,2026-10-31,Quilmes,Café,Bebidas,4,2500
+1174,2026-10-18,Quilmes,Tostado,Comidas,3,4200
+1175,2026-10-18,Palermo,Budín,Panadería,2,3800
+1176,2026-10-19,Quilmes,Café,Bebidas,2,2500
+1177,2026-10-10,Palermo,Jugo,Bebidas,2,3100
+1178,2026-10-05,San Isidro,Tostado,Comidas,4,4200
+1179,2026-10-01,CABALLITO ,Café,Bebidas,3,2500
+1180,2026-10-19,Belgrano,Café,Bebidas,4,2500
+1181,2026-10-08,Quilmes,Medialuna,Panadería,1,900
+1182,2026-10-16,Quilmes,Medialuna,Panadería,4,900
+1183,2026-10-06,Palermo,Budín,Panadería,1,3800
+1184,2026-10-24,Belgrano,Medialuna,Panadería,3,900
+1185,2026-10-16,San Isidro,Jugo,Bebidas,2,3100
+1186,2026-10-10,San Isidro,Budín,Panadería,1,3800
+1187,2026-10-08,Belgrano,Budín,Panadería,2,3800
+1188,2026-10-17,San Isidro,Jugo,Bebidas,4,3100
+1189,2026-10-12,Palermo,Tostado,Comidas,1,4200
+1190,2026-10-21,Palermo,Ensalada,Comidas,4,6500
+1191,2026-10-07,Belgrano,Café,Bebidas,2,2500
+1192,2026-10-07,San Isidro,Tostado,Comidas,2,4200
+1193,2026-10-31,San Isidro,Medialuna,Panadería,3,900
+1193,2026-10-31,San Isidro,Medialuna,Panadería,3,900
+1194,2026-10-23,Quilmes,Café,Bebidas,1,2500
+1195,2026-10-12,Belgrano,Café,Bebidas,4,2500
+1196,2026-10-23,Caballito,Ensalada,Comidas,4,6500
+1197,2026-10-15,Caballito,Café,Bebidas,,2500
+1198,2026-10-03,San Isidro,Jugo,Bebidas,1,3100
+1199,2026-10-26,CABALLITO ,Café,Bebidas,1,2500
+1200,2026-10-27,Quilmes,Ensalada,Comidas,2,6500
+1201,2026-10-01,San Isidro,Ensalada,Comidas,4,6500
+1202,2026-10-30,Palermo,Ensalada,Comidas,1,6500
+1203,2026-10-11,Caballito,Jugo,Bebidas,1,3100
+1204,2026-10-16,SAN ISIDRO ,Medialuna,Panadería,3,900
+1205,2026-10-07,Belgrano,Ensalada,Comidas,4,6500
+1206,2026-10-19,San Isidro,Medialuna,Panadería,4,900
+1207,2026-10-18,Palermo,Café,Bebidas,4,2500
+1208,2026-10-02,Belgrano,Medialuna,Panadería,1,900
+1209,2026-10-19,Belgrano,Jugo,Bebidas,4,3100
+1210,2026-10-21,Quilmes,Jugo,Bebidas,2,3100
+1211,2026-10-10,Quilmes,Medialuna,Panadería,2,900
+1212,2026-10-19,Palermo,Budín,Panadería,3,3800
+1213,2026-10-03,Belgrano,Café,Bebidas,2,2500
+1214,2026-10-18,Quilmes,Tostado,Comidas,3,4200
+1215,2026-10-22,Belgrano,Medialuna,Panadería,3,900
+1216,2026-10-01,San Isidro,Budín,Panadería,,3800
+1217,2026-10-29,Belgrano,Jugo,Bebidas,4,3100
+1218,2026-10-31,San Isidro,Budín,Panadería,,3800
+1219,2026-10-18,San Isidro,Ensalada,Comidas,2,6500
+1220,2026-10-01,Palermo,Medialuna,Panadería,3,900
+1221,2026-10-04,Caballito,Medialuna,Panadería,4,900
+1222,2026-10-22,Caballito,Jugo,Bebidas,2,3100
+1223,2026-10-06,Caballito,Medialuna,Panadería,2,900
+1224,2026-10-25,Quilmes,Ensalada,Comidas,2,6500
+1225,2026-10-05,Quilmes,Jugo,Bebidas,1,3100
+1226,2026-10-03,San Isidro,Medialuna,Panadería,,900
+1227,2026-10-19,Palermo,Budín,Panadería,1,3800
+1228,2026-10-17,Quilmes,Tostado,Comidas,3,4200
+1229,2026-10-23,Caballito,Medialuna,Panadería,1,900
+1230,2026-10-15,Quilmes,Medialuna,Panadería,4,900
+1231,2026-10-14,Caballito,Jugo,Bebidas,3,3100
+1232,2026-10-09,Palermo,Ensalada,Comidas,4,6500
+1233,2026-10-16,Caballito,Medialuna,Panadería,3,900
+1234,2026-10-06,Caballito,Jugo,Bebidas,4,3100
+1235,2026-10-20,Palermo,Medialuna,Panadería,4,900
+1236,2026-10-05,Caballito,Tostado,Comidas,3,4200
+1237,2026-10-01,Belgrano,Medialuna,Panadería,2,900
+1238,2026-10-05,San Isidro,Budín,Panadería,4,3800
+1239,2026-10-20,Palermo,Medialuna,Panadería,3,900
+1240,2026-10-19,Caballito,Café,Bebidas,3,2500
+1241,2026-10-17,Caballito,Tostado,Comidas,2,4200
+1242,2026-10-06,Belgrano,Jugo,Bebidas,1,3100
+1243,2026-10-17,Palermo,Ensalada,Comidas,3,6500
+1244,2026-10-27,Palermo,Medialuna,Panadería,4,900
+1245,2026-10-05,Palermo,Jugo,Bebidas,2,3100
+1246,2026-10-16,Belgrano,Budín,Panadería,2,3800
+1247,2026-10-09,San Isidro,Ensalada,Comidas,2,6500
+1248,2026-10-10,Caballito,Budín,Panadería,1,3800
+1249,2026-10-05,Belgrano,Budín,Panadería,4,3800
+1250,2026-10-18,Caballito,Tostado,Comidas,3,4200
+1251,2026-10-15,Quilmes,Café,Bebidas,2,2500
+1252,2026-10-28,Belgrano,Café,Bebidas,2,2500
+1253,2026-10-15,Caballito,Medialuna,Panadería,1,900
+1254,2026-10-06,QUILMES ,Medialuna,Panadería,3,900
+1255,2026-10-25,Belgrano,Café,Bebidas,4,2500
+1256,2026-10-02,Palermo,Tostado,Comidas,1,4200
+1257,2026-10-04,San Isidro,Ensalada,Comidas,1,6500
+1258,2026-10-24,Palermo,Jugo,Bebidas,3,3100
+1259,2026-10-04,Belgrano,Tostado,Comidas,1,4200
+1260,2026-10-11,Quilmes,Tostado,Comidas,1,4200
+1261,2026-10-07,Palermo,Medialuna,Panadería,2,900
+1262,2026-10-01,Belgrano,Café,Bebidas,1,2500
+1263,2026-10-04,Belgrano,Café,Bebidas,3,2500
+1263,2026-10-04,Belgrano,Café,Bebidas,3,2500
+1264,2026-10-20,San Isidro,Medialuna,Panadería,4,900
+1265,2026-10-21,Palermo,Café,Bebidas,1,2500
+1266,2026-10-13,Palermo,Tostado,Comidas,4,4200
+1267,2026-10-28,Quilmes,Café,Bebidas,3,2500
+1268,2026-10-14,San Isidro,Medialuna,Panadería,1,900
+1268,2026-10-14,San Isidro,Medialuna,Panadería,1,900
+1269,2026-10-05,Caballito,Café,Bebidas,3,2500
+1270,2026-10-30,Caballito,Ensalada,Comidas,1,6500
+1271,2026-10-28,Quilmes,Medialuna,Panadería,4,900
+1272,2026-10-10,Belgrano,Ensalada,Comidas,3,6500
+1273,2026-10-01,Caballito,Ensalada,Comidas,3,6500
+1274,2026-10-13,Palermo,Tostado,Comidas,2,4200
+1275,2026-10-07,Palermo,Budín,Panadería,3,3800
+1276,2026-10-16,QUILMES ,Budín,Panadería,4,3800
+1277,2026-10-02,Palermo,Jugo,Bebidas,4,3100
+1278,2026-10-01,Caballito,Budín,Panadería,4,3800
+1279,2026-10-01,San Isidro,Tostado,Comidas,4,4200
+1280,2026-10-13,San Isidro,Jugo,Bebidas,1,3100
+1281,2026-10-03,Belgrano,Budín,Panadería,2,3800
+1282,2026-10-21,Quilmes,Café,Bebidas,3,2500
+1283,2026-10-06,Palermo,Budín,Panadería,3,3800
+1284,2026-10-25,Palermo,Budín,Panadería,4,3800
+1285,2026-10-30,Palermo,Medialuna,Panadería,4,900
+1286,2026-10-05,San Isidro,Café,Bebidas,1,2500
+1287,2026-10-03,San Isidro,Tostado,Comidas,2,4200
+1288,2026-10-09,Belgrano,Ensalada,Comidas,3,6500
+1289,2026-10-23,Belgrano,Budín,Panadería,2,3800
+1290,2026-10-03,Palermo,Tostado,Comidas,4,4200
+1291,2026-10-03,Belgrano,Café,Bebidas,4,2500
+1292,2026-10-23,Quilmes,Budín,Panadería,4,3800
+1293,2026-10-03,Belgrano,Ensalada,Comidas,4,6500
+1294,2026-10-27,Quilmes,Budín,Panadería,4,3800
+1295,2026-10-22,Palermo,Tostado,Comidas,4,4200
+1296,2026-10-12,Belgrano,Medialuna,Panadería,4,900
+1297,2026-10-20,Caballito,Ensalada,Comidas,3,6500
+1298,2026-10-27,Palermo,Medialuna,Panadería,3,900
+1299,2026-10-29,Quilmes,Budín,Panadería,3,3800
+1300,2026-10-02,Belgrano,Tostado,Comidas,1,4200
+1301,2026-10-08,CABALLITO ,Ensalada,Comidas,1,6500
+1302,2026-10-11,Palermo,Tostado,Comidas,2,4200
+1303,2026-10-04,Caballito,Jugo,Bebidas,2,3100
+1304,2026-10-24,Palermo,Budín,Panadería,2,3800
+1305,2026-10-14,San Isidro,Tostado,Comidas,3,4200
+1306,2026-10-07,Quilmes,Café,Bebidas,1,2500
+1307,2026-10-16,San Isidro,Café,Bebidas,2,2500
+1308,2026-10-24,Belgrano,Budín,Panadería,2,3800
+1309,2026-10-26,Belgrano,Medialuna,Panadería,3,900
+1310,2026-10-21,Caballito,Ensalada,Comidas,2,6500
+1311,2026-10-07,San Isidro,Tostado,Comidas,4,4200
+1312,2026-10-03,Caballito,Budín,Panadería,2,3800
+1313,2026-10-07,San Isidro,Ensalada,Comidas,4,6500
+1314,2026-10-17,Belgrano,Ensalada,Comidas,4,6500
+1315,2026-10-13,Palermo,Jugo,Bebidas,1,3100
+1316,2026-10-23,Caballito,Café,Bebidas,2,2500
+1317,2026-10-23,Quilmes,Jugo,Bebidas,3,3100
+1318,2026-10-17,San Isidro,Medialuna,Panadería,2,900
+1319,2026-10-12,Belgrano,Ensalada,Comidas,3,6500
+1320,2026-10-11,Caballito,Budín,Panadería,1,3800
+1321,2026-10-11,Quilmes,Tostado,Comidas,2,4200
+1322,2026-10-14,Caballito,Jugo,Bebidas,1,3100
+1323,2026-10-06,Belgrano,Ensalada,Comidas,3,6500
+1324,2026-10-06,San Isidro,Jugo,Bebidas,2,3100
+1325,2026-10-16,Palermo,Jugo,Bebidas,4,3100
+1326,2026-10-04,Palermo,Ensalada,Comidas,1,6500
+1327,2026-10-10,Palermo,Tostado,Comidas,3,4200
+1328,2026-10-17,Quilmes,Medialuna,Panadería,3,900
+1329,2026-10-05,Caballito,Medialuna,Panadería,3,900
+1330,2026-10-14,San Isidro,Budín,Panadería,2,3800
+1331,2026-10-14,San Isidro,Budín,Panadería,3,3800
+1332,2026-10-27,San Isidro,Ensalada,Comidas,2,6500
+1333,2026-10-30,Quilmes,Budín,Panadería,2,3800
+1334,2026-10-08,Palermo,Medialuna,Panadería,2,900
+1335,2026-10-12,Caballito,Café,Bebidas,4,2500
+1336,2026-10-14,Quilmes,Ensalada,Comidas,1,6500
+1337,2026-10-10,San Isidro,Medialuna,Panadería,4,900
+1338,2026-10-05,San Isidro,Ensalada,Comidas,2,6500
+1339,2026-10-08,San Isidro,Ensalada,Comidas,1,6500
+1339,2026-10-08,San Isidro,Ensalada,Comidas,1,6500
+1340,2026-10-31,Belgrano,Jugo,Bebidas,1,3100
+1341,2026-10-13,Belgrano,Café,Bebidas,4,2500
+1342,2026-10-16,Quilmes,Budín,Panadería,1,3800
+1343,2026-10-13,Caballito,Tostado,Comidas,2,4200
+1344,2026-10-05,Quilmes,Tostado,Comidas,1,4200
+1345,2026-10-13,San Isidro,Tostado,Comidas,4,4200
+1346,2026-10-08,San Isidro,Jugo,Bebidas,1,3100
+1347,2026-10-08,Caballito,Café,Bebidas,2,2500
+1348,2026-10-20,San Isidro,Café,Bebidas,3,2500
+1349,2026-10-06,Quilmes,Ensalada,Comidas,1,6500
+1350,2026-10-12,San Isidro,Tostado,Comidas,1,4200
+1351,2026-10-28,Caballito,Budín,Panadería,2,3800
+1352,2026-10-28,Belgrano,Jugo,Bebidas,2,3100
+1353,2026-10-15,Quilmes,Jugo,Bebidas,3,3100
+1354,2026-10-16,Caballito,Jugo,Bebidas,4,3100
+1355,2026-10-07,San Isidro,Tostado,Comidas,3,4200
+1356,2026-10-03,Belgrano,Medialuna,Panadería,3,900
+1357,2026-10-22,Belgrano,Tostado,Comidas,3,4200
+1358,2026-10-18,Palermo,Medialuna,Panadería,,900
+1359,2026-10-26,Caballito,Budín,Panadería,4,3800
+1360,2026-10-25,Quilmes,Budín,Panadería,2,3800
+1361,2026-10-03,Palermo,Budín,Panadería,4,3800
+1362,2026-10-18,San Isidro,Ensalada,Comidas,1,6500
+1363,2026-10-16,Belgrano,Café,Bebidas,2,2500
+1363,2026-10-16,Belgrano,Café,Bebidas,2,2500
+1364,2026-10-24,San Isidro,Ensalada,Comidas,3,6500
+1365,2026-10-02,Belgrano,Ensalada,Comidas,1,6500
+1366,2026-10-07,Palermo,Tostado,Comidas,3,4200
+1367,2026-10-04,Belgrano,Jugo,Bebidas,1,3100
+1368,2026-10-22,Belgrano,Budín,Panadería,2,3800
+1369,2026-10-11,Caballito,Budín,Panadería,1,3800
+1370,2026-10-12,Caballito,Café,Bebidas,3,2500
+1371,2026-10-23,Belgrano,Jugo,Bebidas,3,3100
+1372,2026-10-05,Palermo,Ensalada,Comidas,3,6500
+1373,2026-10-24,Caballito,Café,Bebidas,2,2500
+1374,2026-10-06,San Isidro,Medialuna,Panadería,4,900
+1375,2026-10-09,Palermo,Tostado,Comidas,1,4200
+1376,2026-10-25,Palermo,Tostado,Comidas,4,4200
+1377,2026-10-09,Quilmes,Ensalada,Comidas,1,6500
+1378,2026-10-08,Quilmes,Café,Bebidas,2,2500
+1379,2026-10-31,San Isidro,Tostado,Comidas,2,4200
+1380,2026-10-17,Caballito,Budín,Panadería,2,3800
+1381,2026-10-09,San Isidro,Ensalada,Comidas,1,6500
+1382,2026-10-30,Quilmes,Jugo,Bebidas,3,3100
+1383,2026-10-09,Palermo,Jugo,Bebidas,2,3100
+1384,2026-10-05,Caballito,Tostado,Comidas,4,4200
+1385,2026-10-12,Palermo,Ensalada,Comidas,1,6500
+1386,2026-10-03,Caballito,Medialuna,Panadería,2,900
+1387,2026-10-02,Caballito,Café,Bebidas,2,2500
+1388,2026-10-15,Belgrano,Budín,Panadería,2,3800
+1389,2026-10-18,Quilmes,Café,Bebidas,1,2500
+1390,2026-10-12,San Isidro,Ensalada,Comidas,3,6500
+1391,2026-10-17,Caballito,Budín,Panadería,3,3800
+1392,2026-10-11,Belgrano,Ensalada,Comidas,1,6500
+1393,2026-10-31,San Isidro,Café,Bebidas,3,2500
+1394,2026-10-25,Quilmes,Café,Bebidas,1,2500
+1395,2026-10-11,San Isidro,Jugo,Bebidas,2,3100
+1396,2026-10-10,Palermo,Tostado,Comidas,2,4200
+1397,2026-10-23,San Isidro,Tostado,Comidas,1,4200
+1398,2026-10-03,San Isidro,Medialuna,Panadería,2,900
+1399,2026-10-19,Palermo,Ensalada,Comidas,2,6500
+1400,2026-10-23,San Isidro,Café,Bebidas,1,2500
+1401,2026-10-10,Palermo,Café,Bebidas,4,2500
+1402,2026-10-05,San Isidro,Ensalada,Comidas,1,6500
+1403,2026-10-22,Belgrano,Tostado,Comidas,4,4200
+1404,2026-10-21,Palermo,Ensalada,Comidas,2,6500
+1405,2026-10-07,San Isidro,Budín,Panadería,4,3800
+1406,2026-10-07,Quilmes,Jugo,Bebidas,1,3100
+1407,2026-10-07,Quilmes,Budín,Panadería,1,3800
+1408,2026-10-01,Palermo,Budín,Panadería,1,3800
+1409,2026-10-11,Belgrano,Tostado,Comidas,3,4200
+1410,2026-10-24,San Isidro,Tostado,Comidas,3,4200
+1411,2026-10-21,San Isidro,Tostado,Comidas,4,4200
+1412,2026-10-05,Quilmes,Jugo,Bebidas,4,3100
+1413,2026-10-29,Belgrano,Jugo,Bebidas,3,3100
+1414,2026-10-11,Quilmes,Tostado,Comidas,2,4200
+1415,2026-10-08,Palermo,Medialuna,Panadería,3,900
+1416,2026-10-25,Caballito,Ensalada,Comidas,3,6500
+1416,2026-10-25,Caballito,Ensalada,Comidas,3,6500
+1417,2026-10-29,San Isidro,Ensalada,Comidas,1,6500
+1418,2026-10-21,San Isidro,Ensalada,Comidas,2,6500
+1419,2026-10-24,Belgrano,Ensalada,Comidas,2,6500
+1420,2026-10-24,Belgrano,Café,Bebidas,2,2500
+1421,2026-10-03,Palermo,Tostado,Comidas,2,4200
+1422,2026-10-26,Palermo,Tostado,Comidas,1,4200
+1423,2026-10-02,San Isidro,Café,Bebidas,1,2500
+1424,2026-10-07,Belgrano,Jugo,Bebidas,3,3100
+1425,2026-10-05,San Isidro,Ensalada,Comidas,1,6500
+1426,2026-10-23,Belgrano,Ensalada,Comidas,1,6500
+1427,2026-10-15,San Isidro,Café,Bebidas,2,2500
+1428,2026-10-30,Quilmes,Ensalada,Comidas,4,6500
+1429,2026-10-07,Palermo,Tostado,Comidas,4,4200
+1430,2026-10-29,Belgrano,Ensalada,Comidas,4,6500
+1431,2026-10-24,Quilmes,Café,Bebidas,4,2500
+1432,2026-10-21,Palermo,Café,Bebidas,3,2500
+1433,2026-10-10,San Isidro,Ensalada,Comidas,2,6500
+1434,2026-10-05,Belgrano,Budín,Panadería,2,3800
+1435,2026-10-25,Quilmes,Ensalada,Comidas,3,6500
+1436,2026-10-31,PALERMO ,Café,Bebidas,3,2500
+1437,2026-10-03,Palermo,Tostado,Comidas,4,4200
+1438,2026-10-26,San Isidro,Café,Bebidas,3,2500
+1439,2026-10-14,San Isidro,Medialuna,Panadería,3,900
+1440,2026-10-26,Quilmes,Café,Bebidas,1,2500
+1441,2026-10-06,San Isidro,Café,Bebidas,3,2500
+1442,2026-10-04,Quilmes,Medialuna,Panadería,2,900
+1443,2026-10-26,Palermo,Café,Bebidas,2,2500
+1444,2026-10-25,Belgrano,Jugo,Bebidas,1,3100
+1445,2026-10-23,Caballito,Café,Bebidas,4,2500
+1446,2026-10-02,Palermo,Budín,Panadería,4,3800
+1447,2026-10-27,Quilmes,Budín,Panadería,3,3800
+1448,2026-10-07,Palermo,Medialuna,Panadería,2,900
+1449,2026-10-30,Palermo,Ensalada,Comidas,1,6500
+1450,2026-10-12,San Isidro,Budín,Panadería,1,3800
+1451,2026-10-25,Caballito,Ensalada,Comidas,3,6500
+1452,2026-10-20,Belgrano,Budín,Panadería,4,3800
+1453,2026-10-06,Quilmes,Tostado,Comidas,4,4200
+1454,2026-10-19,Quilmes,Tostado,Comidas,2,4200
+1455,2026-10-29,Quilmes,Ensalada,Comidas,4,6500
+1456,2026-10-27,Caballito,Café,Bebidas,4,2500
+1457,2026-10-28,Quilmes,Budín,Panadería,3,3800
+1458,2026-10-19,Quilmes,Tostado,Comidas,2,4200
+1459,2026-10-11,San Isidro,Ensalada,Comidas,1,6500
+1460,2026-10-03,Belgrano,Medialuna,Panadería,4,900
+1461,2026-10-09,Belgrano,Medialuna,Panadería,2,900
+1461,2026-10-09,Belgrano,Medialuna,Panadería,2,900
+1462,2026-10-23,Quilmes,Budín,Panadería,1,3800
+1463,2026-10-14,Caballito,Budín,Panadería,4,3800
+1464,2026-10-06,Quilmes,Medialuna,Panadería,3,900
+1465,2026-10-14,Quilmes,Medialuna,Panadería,1,900
+1466,2026-10-24,Palermo,Jugo,Bebidas,4,3100
+1467,2026-10-06,Quilmes,Budín,Panadería,1,3800
+1468,2026-10-05,Caballito,Tostado,Comidas,3,4200
+1469,2026-10-03,Palermo,Tostado,Comidas,3,4200
+1470,2026-10-08,Quilmes,Café,Bebidas,4,2500
+1471,2026-10-24,Palermo,Budín,Panadería,2,3800
+1472,2026-10-25,Belgrano,Jugo,Bebidas,1,3100
+1473,2026-10-07,San Isidro,Tostado,Comidas,4,4200
+1474,2026-10-02,Palermo,Tostado,Comidas,1,4200
+1475,2026-10-06,Palermo,Jugo,Bebidas,1,3100
+1476,2026-10-20,Caballito,Jugo,Bebidas,3,3100
+1477,2026-10-30,San Isidro,Ensalada,Comidas,1,6500
+1478,2026-10-08,San Isidro,Medialuna,Panadería,1,900
+1479,2026-10-18,Quilmes,Café,Bebidas,3,2500
+1480,2026-10-24,Caballito,Budín,Panadería,4,3800
+1481,2026-10-25,Caballito,Café,Bebidas,4,2500
+1482,2026-10-06,Belgrano,Ensalada,Comidas,3,6500
+1483,2026-10-11,Quilmes,Ensalada,Comidas,2,6500
+1484,2026-10-13,San Isidro,Ensalada,Comidas,2,6500
+1485,2026-10-18,Quilmes,Ensalada,Comidas,1,6500
+1486,2026-10-31,San Isidro,Café,Bebidas,2,2500
+1487,2026-10-16,Palermo,Café,Bebidas,4,2500
+1488,2026-10-13,San Isidro,Ensalada,Comidas,3,6500
+1489,2026-10-05,Palermo,Ensalada,Comidas,4,6500
+1490,2026-10-14,Palermo,Ensalada,Comidas,4,6500
+1491,2026-10-18,Caballito,Ensalada,Comidas,1,6500
+1492,2026-10-10,Caballito,Ensalada,Comidas,1,6500
+1493,2026-10-25,Quilmes,Tostado,Comidas,3,4200
+1494,2026-10-08,Belgrano,Budín,Panadería,1,3800
+1495,2026-10-19,Belgrano,Café,Bebidas,3,2500
+1496,2026-10-08,Belgrano,Ensalada,Comidas,3,6500
+1497,2026-10-19,San Isidro,Tostado,Comidas,3,4200
+1498,2026-10-14,San Isidro,Ensalada,Comidas,4,6500
+1499,2026-10-28,Quilmes,Café,Bebidas,,2500
+1500,2026-10-15,Quilmes,Budín,Panadería,4,3800
+1501,2026-10-07,Palermo,Ensalada,Comidas,3,6500
+1502,2026-10-16,San Isidro,Tostado,Comidas,1,4200
+1503,2026-10-13,Belgrano,Medialuna,Panadería,3,900
+1504,2026-10-19,PALERMO ,Ensalada,Comidas,1,6500
+1505,2026-10-05,Caballito,Jugo,Bebidas,2,3100
+1506,2026-10-03,Quilmes,Jugo,Bebidas,2,3100
+1507,2026-10-05,Palermo,Medialuna,Panadería,2,900
+1508,2026-10-01,Caballito,Café,Bebidas,3,2500
+1509,2026-10-23,Caballito,Budín,Panadería,3,3800
+1510,2026-10-13,Belgrano,Tostado,Comidas,2,4200
+1511,2026-10-10,Quilmes,Ensalada,Comidas,2,6500
+1512,2026-10-24,Belgrano,Tostado,Comidas,3,4200
+1513,2026-10-13,Caballito,Medialuna,Panadería,1,900
+1513,2026-10-13,Caballito,Medialuna,Panadería,1,900
+1514,2026-10-02,CABALLITO ,Tostado,Comidas,4,4200
+1515,2026-10-22,Quilmes,Ensalada,Comidas,3,6500
+1516,2026-10-23,Quilmes,Jugo,Bebidas,2,3100
+1517,2026-10-24,Caballito,Ensalada,Comidas,4,6500
+1518,2026-10-27,Palermo,Jugo,Bebidas,1,3100
+1519,2026-10-20,San Isidro,Budín,Panadería,1,3800
+1520,2026-10-26,Caballito,Budín,Panadería,2,3800
+1521,2026-10-14,Belgrano,Budín,Panadería,1,3800
+1522,2026-10-07,Quilmes,Budín,Panadería,4,3800
+1523,2026-10-15,Belgrano,Jugo,Bebidas,4,3100
+1524,2026-10-25,San Isidro,Café,Bebidas,4,2500
+1525,2026-10-10,Caballito,Budín,Panadería,2,3800
+1526,2026-10-24,BELGRANO ,Café,Bebidas,3,2500
+1527,2026-10-21,Quilmes,Medialuna,Panadería,4,900
+1528,2026-10-27,Quilmes,Medialuna,Panadería,3,900
+1529,2026-10-07,Belgrano,Ensalada,Comidas,1,6500
+1530,2026-10-21,Belgrano,Budín,Panadería,3,3800
+1531,2026-10-08,San Isidro,Tostado,Comidas,1,4200
+1532,2026-10-06,San Isidro,Café,Bebidas,3,2500
+1533,2026-10-24,Belgrano,Tostado,Comidas,3,4200
+1534,2026-10-27,San Isidro,Café,Bebidas,4,2500
+1535,2026-10-14,Caballito,Budín,Panadería,4,3800
+1536,2026-10-01,Quilmes,Budín,Panadería,2,3800
+1537,2026-10-16,Belgrano,Medialuna,Panadería,3,900
+1538,2026-10-09,Quilmes,Tostado,Comidas,2,4200
+1539,2026-10-12,Caballito,Ensalada,Comidas,2,6500
+1540,2026-10-05,Caballito,Café,Bebidas,3,2500
+1541,2026-10-06,Palermo,Jugo,Bebidas,4,3100
+1542,2026-10-02,San Isidro,Ensalada,Comidas,4,6500
+1543,2026-10-13,San Isidro,Tostado,Comidas,4,4200
+1544,2026-10-14,Palermo,Jugo,Bebidas,2,3100
+1545,2026-10-16,Palermo,Medialuna,Panadería,3,900
+1546,2026-10-16,Belgrano,Ensalada,Comidas,2,6500
+1547,2026-10-08,Caballito,Budín,Panadería,3,3800
+1548,2026-10-09,Belgrano,Jugo,Bebidas,4,3100
+1549,2026-10-25,Caballito,Jugo,Bebidas,2,3100
+1550,2026-10-21,Quilmes,Budín,Panadería,4,3800
+1551,2026-10-20,Belgrano,Ensalada,Comidas,1,6500
+1552,2026-10-18,San Isidro,Café,Bebidas,1,2500
+1553,2026-10-26,Palermo,Jugo,Bebidas,4,3100
+1554,2026-10-19,Palermo,Café,Bebidas,4,2500
+1555,2026-10-18,Belgrano,Ensalada,Comidas,1,6500
+1556,2026-10-28,Belgrano,Café,Bebidas,1,2500
+1557,2026-10-11,Belgrano,Medialuna,Panadería,4,900
+1558,2026-10-18,Caballito,Tostado,Comidas,,4200
+1559,2026-10-09,PALERMO ,Tostado,Comidas,1,4200
+1560,2026-10-15,San Isidro,Medialuna,Panadería,1,900
+1561,2026-10-31,Quilmes,Café,Bebidas,2,2500
+1562,2026-10-18,Quilmes,Café,Bebidas,3,2500
+1563,2026-10-02,Palermo,Tostado,Comidas,1,4200
+1564,2026-10-06,Caballito,Tostado,Comidas,2,4200
+1565,2026-10-17,Caballito,Café,Bebidas,3,2500
+1566,2026-10-17,Caballito,Tostado,Comidas,1,4200
+1567,2026-10-10,Palermo,Tostado,Comidas,4,4200
+1568,2026-10-30,Quilmes,Jugo,Bebidas,1,3100
+1569,2026-10-25,Palermo,Medialuna,Panadería,2,900
+1570,2026-10-11,Belgrano,Jugo,Bebidas,4,3100
+1571,2026-10-06,San Isidro,Jugo,Bebidas,3,3100
+1572,2026-10-22,Caballito,Café,Bebidas,2,2500
+1573,2026-10-04,Palermo,Tostado,Comidas,2,4200
+1574,2026-10-16,Palermo,Budín,Panadería,4,3800
+1575,2026-10-19,San Isidro,Tostado,Comidas,2,4200
+1576,2026-10-21,Belgrano,Jugo,Bebidas,1,3100
+1577,2026-10-27,Quilmes,Jugo,Bebidas,1,3100
+1578,2026-10-20,Palermo,Café,Bebidas,1,2500
+1579,2026-10-15,Belgrano,Ensalada,Comidas,1,6500
+1580,2026-10-24,San Isidro,Tostado,Comidas,4,4200
+1581,2026-10-12,Caballito,Jugo,Bebidas,2,3100
+1582,2026-10-18,Caballito,Jugo,Bebidas,1,3100
+1583,2026-10-04,Belgrano,Medialuna,Panadería,2,900
+1584,2026-10-25,Quilmes,Medialuna,Panadería,4,900
+1585,2026-10-11,San Isidro,Jugo,Bebidas,1,3100
+1586,2026-10-01,Caballito,Café,Bebidas,4,2500
+1587,2026-10-29,Belgrano,Jugo,Bebidas,3,3100
+1588,2026-10-12,Caballito,Budín,Panadería,2,3800
+1589,2026-10-05,Belgrano,Ensalada,Comidas,4,6500
+1590,2026-10-25,Belgrano,Tostado,Comidas,4,4200
+1591,2026-10-11,Quilmes,Café,Bebidas,3,2500
+1592,2026-10-06,Belgrano,Jugo,Bebidas,3,3100
+1593,2026-10-23,San Isidro,Café,Bebidas,3,2500
+1594,2026-10-04,Caballito,Budín,Panadería,4,3800
+1595,2026-10-28,San Isidro,Medialuna,Panadería,2,900
+1596,2026-10-26,San Isidro,Tostado,Comidas,3,4200
+1597,2026-10-22,Quilmes,Tostado,Comidas,3,4200
+1598,2026-10-05,Quilmes,Medialuna,Panadería,2,900
+1599,2026-10-10,San Isidro,Café,Bebidas,1,2500
+1600,2026-10-22,Quilmes,Budín,Panadería,1,3800
+1601,2026-10-28,Palermo,Tostado,Comidas,2,4200
+1602,2026-10-28,Quilmes,Café,Bebidas,2,2500
+1603,2026-10-25,Palermo,Tostado,Comidas,3,4200
+1604,2026-10-01,San Isidro,Jugo,Bebidas,4,3100
+1605,2026-10-23,Palermo,Budín,Panadería,1,3800
+1606,2026-10-03,Belgrano,Jugo,Bebidas,1,3100
+1607,2026-10-02,San Isidro,Medialuna,Panadería,1,900
+1608,2026-10-09,Belgrano,Jugo,Bebidas,4,3100
+1609,2026-10-12,Quilmes,Jugo,Bebidas,2,3100
+1610,2026-10-06,Belgrano,Tostado,Comidas,1,4200
+1611,2026-10-04,Palermo,Medialuna,Panadería,2,900
+1612,2026-10-31,Quilmes,Budín,Panadería,2,3800
+1613,2026-10-26,Belgrano,Café,Bebidas,3,2500
+1614,2026-10-12,Caballito,Jugo,Bebidas,4,3100
+1615,2026-10-10,Caballito,Medialuna,Panadería,4,900
+1616,2026-10-17,Caballito,Jugo,Bebidas,1,3100
+1617,2026-10-14,Quilmes,Tostado,Comidas,4,4200
+1618,2026-10-26,Quilmes,Medialuna,Panadería,3,900
+1619,2026-10-08,Quilmes,Café,Bebidas,4,2500
+1620,2026-10-17,Caballito,Budín,Panadería,1,3800
+1621,2026-10-28,Palermo,Medialuna,Panadería,2,900
+1622,2026-10-15,Belgrano,Tostado,Comidas,4,4200
+1623,2026-10-01,BELGRANO ,Jugo,Bebidas,,3100
+1624,2026-10-29,Palermo,Tostado,Comidas,1,4200
+1625,2026-10-12,Quilmes,Café,Bebidas,4,2500
+1626,2026-10-03,Belgrano,Medialuna,Panadería,3,900
+1627,2026-10-21,Belgrano,Café,Bebidas,1,2500
+1628,2026-10-28,Palermo,Tostado,Comidas,3,4200
+1629,2026-10-13,Belgrano,Tostado,Comidas,3,4200
+1630,2026-10-11,San Isidro,Medialuna,Panadería,4,900
+1631,2026-10-22,Quilmes,Ensalada,Comidas,2,6500
+1632,2026-10-12,San Isidro,Budín,Panadería,2,3800
+1633,2026-10-27,Belgrano,Ensalada,Comidas,2,6500
+1634,2026-10-27,Caballito,Ensalada,Comidas,1,6500
+1635,2026-10-12,Palermo,Budín,Panadería,1,3800
+1636,2026-10-22,San Isidro,Ensalada,Comidas,4,6500
+1637,2026-10-27,Quilmes,Tostado,Comidas,4,4200
+1638,2026-10-09,Caballito,Jugo,Bebidas,3,3100
+1639,2026-10-04,Quilmes,Medialuna,Panadería,1,900
+1640,2026-10-01,Quilmes,Café,Bebidas,1,2500
+1641,2026-10-16,Caballito,Café,Bebidas,2,2500
+1642,2026-10-10,Quilmes,Ensalada,Comidas,1,6500
+1643,2026-10-26,Quilmes,Tostado,Comidas,3,4200
+1644,2026-10-19,San Isidro,Café,Bebidas,4,2500
+1645,2026-10-03,Quilmes,Tostado,Comidas,3,4200
+1646,2026-10-03,Palermo,Jugo,Bebidas,1,3100
+1647,2026-10-27,San Isidro,Budín,Panadería,4,3800
+1648,2026-10-06,San Isidro,Medialuna,Panadería,1,900
+1649,2026-10-02,Belgrano,Ensalada,Comidas,3,6500
+1650,2026-10-04,Quilmes,Ensalada,Comidas,2,6500
+1651,2026-10-04,Caballito,Ensalada,Comidas,2,6500
+1652,2026-10-04,Belgrano,Budín,Panadería,4,3800
+1653,2026-10-23,Belgrano,Ensalada,Comidas,1,6500
+1654,2026-10-05,San Isidro,Ensalada,Comidas,3,6500
+1655,2026-10-31,Caballito,Budín,Panadería,2,3800
+1656,2026-10-25,Quilmes,Ensalada,Comidas,1,6500
+1657,2026-10-26,San Isidro,Ensalada,Comidas,3,6500
+1658,2026-10-16,Caballito,Jugo,Bebidas,3,3100
+1659,2026-10-14,Caballito,Ensalada,Comidas,2,6500
+1660,2026-10-16,Caballito,Medialuna,Panadería,3,900
+1661,2026-10-15,Caballito,Budín,Panadería,2,3800
+1662,2026-10-14,Belgrano,Tostado,Comidas,3,4200
+1663,2026-10-04,Caballito,Budín,Panadería,4,3800
+1664,2026-10-15,Quilmes,Medialuna,Panadería,3,900
+1665,2026-10-02,Belgrano,Ensalada,Comidas,3,6500
+1666,2026-10-18,Belgrano,Jugo,Bebidas,4,3100
+1667,2026-10-01,San Isidro,Jugo,Bebidas,4,3100
+1668,2026-10-18,Quilmes,Medialuna,Panadería,1,900
+1669,2026-10-14,San Isidro,Jugo,Bebidas,3,3100
+1670,2026-10-24,Caballito,Budín,Panadería,1,3800
+1671,2026-10-19,Quilmes,Medialuna,Panadería,4,900
+1672,2026-10-18,San Isidro,Budín,Panadería,1,3800
+1673,2026-10-08,Caballito,Tostado,Comidas,3,4200
+1674,2026-10-27,Caballito,Medialuna,Panadería,2,900
+1675,2026-10-06,Belgrano,Jugo,Bebidas,1,3100
+1676,2026-10-25,San Isidro,Tostado,Comidas,3,4200
+1677,2026-10-10,BELGRANO ,Medialuna,Panadería,2,900
+1678,2026-10-17,Belgrano,Ensalada,Comidas,4,6500
+1679,2026-10-04,Caballito,Ensalada,Comidas,2,6500
+1680,2026-10-12,San Isidro,Jugo,Bebidas,2,3100
+1681,2026-10-08,Quilmes,Café,Bebidas,1,2500
+1682,2026-10-09,Quilmes,Jugo,Bebidas,,3100
+1683,2026-10-12,Caballito,Tostado,Comidas,4,4200
+1684,2026-10-26,Quilmes,Ensalada,Comidas,3,6500
+1685,2026-10-05,Belgrano,Jugo,Bebidas,3,3100
+1686,2026-10-14,Belgrano,Café,Bebidas,2,2500
+1687,2026-10-14,Belgrano,Jugo,Bebidas,1,3100
+1688,2026-10-01,Caballito,Budín,Panadería,1,3800
+1689,2026-10-14,Palermo,Jugo,Bebidas,2,3100
+1690,2026-10-06,Belgrano,Budín,Panadería,4,3800
+1691,2026-10-27,Quilmes,Jugo,Bebidas,4,3100
+1692,2026-10-07,Palermo,Tostado,Comidas,3,4200
+1693,2026-10-14,Caballito,Medialuna,Panadería,3,900
+1694,2026-10-18,Quilmes,Café,Bebidas,2,2500
+1695,2026-10-26,Quilmes,Jugo,Bebidas,3,3100
+1696,2026-10-23,San Isidro,Café,Bebidas,1,2500
+1697,2026-10-14,San Isidro,Café,Bebidas,3,2500
+1698,2026-10-19,San Isidro,Café,Bebidas,3,2500
+1699,2026-10-13,San Isidro,Jugo,Bebidas,2,3100
+1700,2026-10-11,Palermo,Budín,Panadería,4,3800
+1701,2026-10-13,Quilmes,Tostado,Comidas,3,4200
+1702,2026-10-30,Caballito,Jugo,Bebidas,3,3100
+1703,2026-10-14,Quilmes,Medialuna,Panadería,1,900
+1704,2026-10-19,Caballito,Tostado,Comidas,2,4200
+1705,2026-10-31,Quilmes,Jugo,Bebidas,1,3100
+1706,2026-10-20,Palermo,Medialuna,Panadería,2,900
+1707,2026-10-19,Caballito,Jugo,Bebidas,3,3100
+1708,2026-10-30,Quilmes,Jugo,Bebidas,3,3100
+1709,2026-10-23,Palermo,Café,Bebidas,3,2500
+1710,2026-10-02,Palermo,Ensalada,Comidas,1,6500
+1711,2026-10-03,Quilmes,Ensalada,Comidas,2,6500
+1712,2026-10-15,Palermo,Café,Bebidas,1,2500
+1713,2026-10-17,Belgrano,Tostado,Comidas,3,4200
+1714,2026-10-25,Quilmes,Budín,Panadería,2,3800
+1715,2026-10-14,Caballito,Tostado,Comidas,4,4200
+1716,2026-10-09,San Isidro,Medialuna,Panadería,1,900
+1717,2026-10-20,Palermo,Jugo,Bebidas,3,3100
+1718,2026-10-12,Caballito,Ensalada,Comidas,3,6500
+1719,2026-10-09,San Isidro,Ensalada,Comidas,2,6500
+1720,2026-10-28,Palermo,Tostado,Comidas,1,4200
+1721,2026-10-14,Quilmes,Café,Bebidas,,2500
+1722,2026-10-16,Palermo,Jugo,Bebidas,2,3100
+1723,2026-10-18,Palermo,Medialuna,Panadería,4,900
+1724,2026-10-18,CABALLITO ,Medialuna,Panadería,3,900
+1725,2026-10-04,San Isidro,Budín,Panadería,2,3800
+1726,2026-10-13,Caballito,Medialuna,Panadería,4,900
+1727,2026-10-14,Quilmes,Ensalada,Comidas,2,6500
+1728,2026-10-17,San Isidro,Café,Bebidas,1,2500
+1729,2026-10-03,Quilmes,Tostado,Comidas,4,4200
+1730,2026-10-18,Palermo,Jugo,Bebidas,3,3100
+1731,2026-10-10,San Isidro,Café,Bebidas,1,2500
+1732,2026-10-25,Caballito,Budín,Panadería,4,3800
+1733,2026-10-22,San Isidro,Budín,Panadería,1,3800
+1734,2026-10-29,Palermo,Medialuna,Panadería,3,900
+1735,2026-10-22,Quilmes,Jugo,Bebidas,1,3100
+1736,2026-10-08,Palermo,Jugo,Bebidas,3,3100
+1737,2026-10-20,Belgrano,Budín,Panadería,2,3800
+1738,2026-10-19,San Isidro,Jugo,Bebidas,4,3100
+1739,2026-10-20,San Isidro,Budín,Panadería,1,3800
+1740,2026-10-01,Quilmes,Jugo,Bebidas,3,3100
+1741,2026-10-15,San Isidro,Ensalada,Comidas,1,6500
+1742,2026-10-28,Caballito,Ensalada,Comidas,2,6500
+1743,2026-10-08,Caballito,Budín,Panadería,3,3800
+1744,2026-10-14,Quilmes,Medialuna,Panadería,3,900
+1745,2026-10-26,Belgrano,Ensalada,Comidas,2,6500
+1746,2026-10-17,San Isidro,Jugo,Bebidas,1,3100
+1747,2026-10-26,San Isidro,Budín,Panadería,3,3800
+1748,2026-10-21,Caballito,Ensalada,Comidas,4,6500
+1749,2026-10-25,Belgrano,Café,Bebidas,4,2500
+1750,2026-10-07,Palermo,Jugo,Bebidas,2,3100
+1751,2026-10-11,Belgrano,Café,Bebidas,1,2500
+1752,2026-10-19,Belgrano,Ensalada,Comidas,1,6500
+1753,2026-10-07,Belgrano,Tostado,Comidas,1,4200
+1754,2026-10-16,Palermo,Ensalada,Comidas,2,6500
+1755,2026-10-26,Quilmes,Café,Bebidas,3,2500
+1756,2026-10-31,San Isidro,Jugo,Bebidas,4,3100
+1757,2026-10-30,San Isidro,Tostado,Comidas,3,4200
+1758,2026-10-09,Palermo,Medialuna,Panadería,1,900
+1759,2026-10-11,Quilmes,Budín,Panadería,2,3800
+1760,2026-10-31,Caballito,Tostado,Comidas,2,4200
+1761,2026-10-14,Belgrano,Budín,Panadería,1,3800
+1762,2026-10-27,Belgrano,Café,Bebidas,1,2500
+1763,2026-10-17,San Isidro,Medialuna,Panadería,4,900
+1764,2026-10-12,Palermo,Medialuna,Panadería,1,900
+1765,2026-10-25,Caballito,Medialuna,Panadería,4,900
+1766,2026-10-31,San Isidro,Jugo,Bebidas,1,3100
+1767,2026-10-08,Caballito,Jugo,Bebidas,4,3100
+1768,2026-10-14,San Isidro,Ensalada,Comidas,2,6500
+1769,2026-10-15,Quilmes,Ensalada,Comidas,4,6500
+1770,2026-10-10,Caballito,Ensalada,Comidas,1,6500
+1771,2026-10-23,Palermo,Ensalada,Comidas,2,6500
+1772,2026-10-02,Palermo,Tostado,Comidas,4,4200
+1773,2026-10-29,Palermo,Café,Bebidas,3,2500
+1774,2026-10-20,Belgrano,Medialuna,Panadería,2,900
+1775,2026-10-17,Belgrano,Jugo,Bebidas,3,3100
+1776,2026-10-21,Palermo,Jugo,Bebidas,2,3100
+1777,2026-10-26,Belgrano,Medialuna,Panadería,4,900
+1778,2026-10-21,Quilmes,Jugo,Bebidas,2,3100
+1779,2026-10-04,Quilmes,Budín,Panadería,4,3800
+1780,2026-10-22,Quilmes,Jugo,Bebidas,3,3100
+1781,2026-10-15,San Isidro,Jugo,Bebidas,2,3100
+1782,2026-10-20,Caballito,Budín,Panadería,3,3800
+1783,2026-10-13,Quilmes,Budín,Panadería,1,3800
+1784,2026-10-05,Quilmes,Budín,Panadería,4,3800
+1785,2026-10-11,Quilmes,Ensalada,Comidas,3,6500
+1786,2026-10-04,Quilmes,Café,Bebidas,4,2500
+1787,2026-10-23,Quilmes,Budín,Panadería,4,3800
+1788,2026-10-07,San Isidro,Medialuna,Panadería,1,900
+1789,2026-10-15,Belgrano,Tostado,Comidas,2,4200
+1790,2026-10-13,QUILMES ,Budín,Panadería,4,3800
+1791,2026-10-10,Caballito,Tostado,Comidas,4,4200
+1792,2026-10-26,Quilmes,Ensalada,Comidas,2,6500
+1793,2026-10-28,Quilmes,Tostado,Comidas,2,4200
+1794,2026-10-05,Quilmes,Ensalada,Comidas,1,6500
+1795,2026-10-12,Caballito,Tostado,Comidas,3,4200
+1796,2026-10-21,San Isidro,Budín,Panadería,1,3800
+1797,2026-10-27,San Isidro,Jugo,Bebidas,3,3100
+1798,2026-10-13,San Isidro,Ensalada,Comidas,2,6500
+1799,2026-10-03,Caballito,Tostado,Comidas,,4200
+1800,2026-10-03,Quilmes,Café,Bebidas,4,2500
+1801,2026-10-14,Belgrano,Medialuna,Panadería,1,900
+1802,2026-10-24,Caballito,Tostado,Comidas,2,4200
+1803,2026-10-22,Caballito,Jugo,Bebidas,4,3100
+1804,2026-10-12,Belgrano,Ensalada,Comidas,4,6500
+1805,2026-10-10,Palermo,Café,Bebidas,2,2500
+1806,2026-10-09,Caballito,Ensalada,Comidas,3,6500
+1807,2026-10-14,Belgrano,Café,Bebidas,1,2500
+1808,2026-10-01,Palermo,Tostado,Comidas,2,4200
+1809,2026-10-18,San Isidro,Jugo,Bebidas,3,3100
+1810,2026-10-02,Caballito,Budín,Panadería,4,3800
+1811,2026-10-03,Belgrano,Jugo,Bebidas,,3100
+1812,2026-10-30,Quilmes,Medialuna,Panadería,1,900
+1813,2026-10-24,Quilmes,Medialuna,Panadería,3,900
+1814,2026-10-29,San Isidro,Budín,Panadería,3,3800
+1815,2026-10-17,Palermo,Café,Bebidas,1,2500
+1816,2026-10-06,San Isidro,Ensalada,Comidas,1,6500
+1817,2026-10-09,Quilmes,Jugo,Bebidas,1,3100
+1818,2026-10-22,Caballito,Ensalada,Comidas,2,6500
+1819,2026-10-25,Belgrano,Tostado,Comidas,1,4200
+1820,2026-10-11,Belgrano,Café,Bebidas,1,2500
+1821,2026-10-30,Caballito,Ensalada,Comidas,3,6500
+1822,2026-10-08,Belgrano,Ensalada,Comidas,4,6500
+1823,2026-10-08,Belgrano,Medialuna,Panadería,4,900
+1824,2026-10-17,Palermo,Ensalada,Comidas,2,6500
+1825,2026-10-24,Palermo,Café,Bebidas,1,2500
+1826,2026-10-16,Palermo,Budín,Panadería,2,3800
+1827,2026-10-03,Belgrano,Café,Bebidas,3,2500
+1828,2026-10-31,Quilmes,Medialuna,Panadería,3,900
+1829,2026-10-16,Quilmes,Budín,Panadería,3,3800
+1830,2026-10-29,Quilmes,Café,Bebidas,3,2500
+1831,2026-10-18,Quilmes,Ensalada,Comidas,2,6500
+1832,2026-10-16,Quilmes,Medialuna,Panadería,,900
+1833,2026-10-14,Quilmes,Ensalada,Comidas,2,6500
+1834,2026-10-20,Belgrano,Medialuna,Panadería,3,900
+1835,2026-10-11,Quilmes,Medialuna,Panadería,4,900
+1836,2026-10-12,Palermo,Jugo,Bebidas,3,3100
+1837,2026-10-01,Quilmes,Budín,Panadería,4,3800
+1838,2026-10-03,Palermo,Café,Bebidas,2,2500
+1839,2026-10-21,Belgrano,Café,Bebidas,2,2500
+1840,2026-10-08,Caballito,Budín,Panadería,1,3800
+1841,2026-10-03,Quilmes,Ensalada,Comidas,2,6500
+1842,2026-10-21,Palermo,Ensalada,Comidas,3,6500
+1843,2026-10-18,Belgrano,Budín,Panadería,4,3800
+1844,2026-10-24,Belgrano,Jugo,Bebidas,2,3100
+1845,2026-10-28,BELGRANO ,Ensalada,Comidas,3,6500
+1846,2026-10-17,Belgrano,Tostado,Comidas,4,4200
+1847,2026-10-23,San Isidro,Café,Bebidas,3,2500
+1848,2026-10-26,Palermo,Ensalada,Comidas,1,6500
+1849,2026-10-30,Belgrano,Jugo,Bebidas,1,3100
+1850,2026-10-09,Belgrano,Medialuna,Panadería,1,900
+1851,2026-10-28,Caballito,Café,Bebidas,4,2500
+1852,2026-10-29,San Isidro,Budín,Panadería,1,3800
+1853,2026-10-08,QUILMES ,Budín,Panadería,3,3800
+1854,2026-10-17,San Isidro,Ensalada,Comidas,2,6500
+1854,2026-10-17,San Isidro,Ensalada,Comidas,2,6500
+1855,2026-10-29,Belgrano,Budín,Panadería,2,3800
+1856,2026-10-10,San Isidro,Jugo,Bebidas,4,3100
+1857,2026-10-28,Caballito,Jugo,Bebidas,2,3100
+1858,2026-10-04,San Isidro,Ensalada,Comidas,1,6500
+1859,2026-10-09,Caballito,Tostado,Comidas,1,4200
+1860,2026-10-06,Belgrano,Jugo,Bebidas,4,3100
+1861,2026-10-24,Belgrano,Budín,Panadería,3,3800
+1862,2026-10-09,Belgrano,Tostado,Comidas,1,4200
+1863,2026-10-24,San Isidro,Ensalada,Comidas,1,6500
+1864,2026-10-29,Caballito,Ensalada,Comidas,1,6500
+1865,2026-10-28,Palermo,Medialuna,Panadería,3,900
+1866,2026-10-06,Caballito,Tostado,Comidas,3,4200
+1867,2026-10-20,San Isidro,Tostado,Comidas,2,4200
+1868,2026-10-03,Palermo,Medialuna,Panadería,3,900
+1869,2026-10-02,Caballito,Ensalada,Comidas,3,6500
+1870,2026-10-23,Quilmes,Jugo,Bebidas,2,3100
+1871,2026-10-31,Caballito,Ensalada,Comidas,2,6500
+1872,2026-10-01,Quilmes,Ensalada,Comidas,,6500
+1873,2026-10-03,San Isidro,Medialuna,Panadería,2,900
+1874,2026-10-30,Belgrano,Budín,Panadería,2,3800
+1875,2026-10-29,Belgrano,Café,Bebidas,3,2500
+1876,2026-10-14,Belgrano,Budín,Panadería,1,3800
+1877,2026-10-20,Belgrano,Ensalada,Comidas,1,6500
+1878,2026-10-19,Caballito,Budín,Panadería,3,3800
+1879,2026-10-08,Palermo,Budín,Panadería,4,3800
+1880,2026-10-04,Caballito,Ensalada,Comidas,1,6500
+1881,2026-10-06,San Isidro,Tostado,Comidas,2,4200
+1882,2026-10-10,Caballito,Budín,Panadería,4,3800
+1883,2026-10-07,Belgrano,Budín,Panadería,1,3800
+1884,2026-10-21,Palermo,Café,Bebidas,4,2500
+1885,2026-10-21,Palermo,Café,Bebidas,1,2500
+1886,2026-10-03,San Isidro,Ensalada,Comidas,2,6500
+1887,2026-10-23,Belgrano,Medialuna,Panadería,1,900
+1888,2026-10-16,Caballito,Tostado,Comidas,4,4200
+1889,2026-10-05,Palermo,Budín,Panadería,3,3800
+1890,2026-10-10,San Isidro,Jugo,Bebidas,4,3100
+1891,2026-10-17,Quilmes,Medialuna,Panadería,3,900
+1892,2026-10-04,San Isidro,Ensalada,Comidas,4,6500
+1893,2026-10-06,Quilmes,Medialuna,Panadería,1,900
+1894,2026-10-25,Quilmes,Café,Bebidas,4,2500
+1895,2026-10-10,Caballito,Jugo,Bebidas,1,3100
+1896,2026-10-08,Palermo,Ensalada,Comidas,3,6500
+1897,2026-10-23,Belgrano,Café,Bebidas,2,2500
+1898,2026-10-19,Quilmes,Ensalada,Comidas,2,6500
+1898,2026-10-19,Quilmes,Ensalada,Comidas,2,6500
+1899,2026-10-09,Caballito,Medialuna,Panadería,4,900
+1900,2026-10-08,Quilmes,Budín,Panadería,1,3800
+1901,2026-10-19,Belgrano,Medialuna,Panadería,4,900
+1902,2026-10-25,Caballito,Medialuna,Panadería,3,900
+1903,2026-10-19,Quilmes,Tostado,Comidas,2,4200
+1904,2026-10-15,San Isidro,Tostado,Comidas,2,4200
+1905,2026-10-23,Belgrano,Ensalada,Comidas,1,6500
+1906,2026-10-14,Quilmes,Tostado,Comidas,2,4200
+1907,2026-10-01,CABALLITO ,Café,Bebidas,1,2500
+1908,2026-10-25,Quilmes,Ensalada,Comidas,4,6500
+1908,2026-10-25,Quilmes,Ensalada,Comidas,4,6500
+1909,2026-10-21,Caballito,Jugo,Bebidas,4,3100
+1910,2026-10-30,Quilmes,Budín,Panadería,1,3800
+1911,2026-10-12,Caballito,Tostado,Comidas,4,4200
+1912,2026-10-14,Belgrano,Medialuna,Panadería,2,900
+1913,2026-10-18,Palermo,Jugo,Bebidas,4,3100
+1914,2026-10-15,Quilmes,Jugo,Bebidas,4,3100
+1915,2026-10-19,Caballito,Tostado,Comidas,3,4200
+1916,2026-10-15,San Isidro,Medialuna,Panadería,2,900
+1917,2026-10-16,Caballito,Tostado,Comidas,4,4200
+1918,2026-10-25,Belgrano,Jugo,Bebidas,1,3100
+1919,2026-10-04,Belgrano,Jugo,Bebidas,1,3100
+1920,2026-10-21,Caballito,Budín,Panadería,1,3800
+1921,2026-10-05,Belgrano,Budín,Panadería,3,3800
+1922,2026-10-08,Belgrano,Medialuna,Panadería,2,900
+1923,2026-10-07,Belgrano,Medialuna,Panadería,2,900
+1924,2026-10-15,Belgrano,Ensalada,Comidas,2,6500
+1925,2026-10-12,Palermo,Café,Bebidas,3,2500
+1926,2026-10-10,San Isidro,Jugo,Bebidas,2,3100
+1927,2026-10-19,Caballito,Tostado,Comidas,1,4200
+1928,2026-10-11,San Isidro,Jugo,Bebidas,1,3100
+1929,2026-10-25,Quilmes,Jugo,Bebidas,3,3100
+1930,2026-10-12,Caballito,Tostado,Comidas,3,4200
+1931,2026-10-16,Quilmes,Medialuna,Panadería,1,900
+1932,2026-10-08,Caballito,Café,Bebidas,4,2500
+1933,2026-10-30,Belgrano,Ensalada,Comidas,3,6500
+1934,2026-10-18,Belgrano,Budín,Panadería,2,3800
+1935,2026-10-20,Caballito,Tostado,Comidas,2,4200
+1936,2026-10-16,Belgrano,Budín,Panadería,3,3800
+1937,2026-10-15,San Isidro,Ensalada,Comidas,2,6500
+1938,2026-10-12,Quilmes,Tostado,Comidas,4,4200
+1939,2026-10-26,Caballito,Ensalada,Comidas,4,6500
+1940,2026-10-28,Quilmes,Ensalada,Comidas,2,6500
+1941,2026-10-23,Caballito,Budín,Panadería,1,3800
+1942,2026-10-25,Palermo,Tostado,Comidas,2,4200
+1943,2026-10-15,Caballito,Tostado,Comidas,3,4200
+1944,2026-10-23,Caballito,Budín,Panadería,2,3800
+1945,2026-10-30,Caballito,Budín,Panadería,2,3800
+1945,2026-10-30,Caballito,Budín,Panadería,2,3800
+1946,2026-10-31,San Isidro,Ensalada,Comidas,4,6500
+1947,2026-10-31,San Isidro,Tostado,Comidas,1,4200
+1948,2026-10-22,Caballito,Ensalada,Comidas,4,6500
+1949,2026-10-09,Belgrano,Ensalada,Comidas,3,6500
+1950,2026-10-06,Caballito,Jugo,Bebidas,3,3100
+1951,2026-10-24,San Isidro,Jugo,Bebidas,2,3100
+1952,2026-10-07,Belgrano,Café,Bebidas,3,2500
+1953,2026-10-30,San Isidro,Medialuna,Panadería,1,900
+1954,2026-10-01,Caballito,Tostado,Comidas,1,4200
+1955,2026-10-29,San Isidro,Budín,Panadería,4,3800
+1956,2026-10-15,Quilmes,Café,Bebidas,1,2500
+1957,2026-10-27,San Isidro,Medialuna,Panadería,1,900
+1958,2026-10-02,Belgrano,Tostado,Comidas,2,4200
+1959,2026-10-16,San Isidro,Café,Bebidas,2,2500
+1960,2026-10-05,Belgrano,Tostado,Comidas,1,4200
+1961,2026-10-01,Palermo,Tostado,Comidas,3,4200
+1962,2026-10-15,Caballito,Ensalada,Comidas,2,6500
+1963,2026-10-12,Palermo,Ensalada,Comidas,2,6500
+1964,2026-10-07,Caballito,Café,Bebidas,2,2500
+1965,2026-10-14,Caballito,Medialuna,Panadería,2,900
+1966,2026-10-16,Caballito,Tostado,Comidas,2,4200
+1967,2026-10-24,Palermo,Medialuna,Panadería,1,900
+1968,2026-10-11,Belgrano,Jugo,Bebidas,4,3100
+1969,2026-10-14,BELGRANO ,Jugo,Bebidas,3,3100
+1970,2026-10-26,QUILMES ,Ensalada,Comidas,1,6500
+1971,2026-10-18,Quilmes,Budín,Panadería,4,3800
+1972,2026-10-14,San Isidro,Café,Bebidas,4,2500
+1973,2026-10-15,San Isidro,Tostado,Comidas,2,4200
+1974,2026-10-01,Quilmes,Budín,Panadería,4,3800
+1975,2026-10-25,Palermo,Jugo,Bebidas,3,3100
+1976,2026-10-04,Belgrano,Medialuna,Panadería,2,900
+1977,2026-10-27,Quilmes,Jugo,Bebidas,3,3100
+1978,2026-10-08,Caballito,Budín,Panadería,4,3800
+1979,2026-10-30,San Isidro,Medialuna,Panadería,3,900
+1980,2026-10-02,Palermo,Café,Bebidas,1,2500
+1981,2026-10-04,Caballito,Budín,Panadería,3,3800
+1982,2026-10-23,San Isidro,Ensalada,Comidas,4,6500
+1983,2026-10-24,Belgrano,Café,Bebidas,2,2500
+1984,2026-10-08,San Isidro,Tostado,Comidas,4,4200
+1985,2026-10-16,Caballito,Tostado,Comidas,4,4200
+1986,2026-10-21,San Isidro,Tostado,Comidas,4,4200
+1987,2026-10-21,Caballito,Ensalada,Comidas,1,6500
+1988,2026-10-04,San Isidro,Jugo,Bebidas,2,3100
+1989,2026-10-14,Caballito,Budín,Panadería,1,3800
+1990,2026-10-03,Quilmes,Medialuna,Panadería,2,900
+1991,2026-10-03,Caballito,Medialuna,Panadería,3,900
+1992,2026-10-13,Belgrano,Jugo,Bebidas,4,3100
+1993,2026-10-16,Caballito,Café,Bebidas,4,2500
+1994,2026-10-19,Belgrano,Jugo,Bebidas,4,3100
+1995,2026-10-22,San Isidro,Medialuna,Panadería,3,900
+1996,2026-10-10,San Isidro,Café,Bebidas,,2500
+1997,2026-10-06,Belgrano,Budín,Panadería,3,3800
+1998,2026-10-29,Quilmes,Medialuna,Panadería,2,900
+1999,2026-10-01,San Isidro,Jugo,Bebidas,1,3100
+2000,2026-10-07,San Isidro,Medialuna,Panadería,4,900
+2001,2026-10-12,Belgrano,Café,Bebidas,1,2500
+2002,2026-10-24,Palermo,Budín,Panadería,1,3800
+2003,2026-10-14,Belgrano,Medialuna,Panadería,3,900
+2004,2026-10-08,Quilmes,Budín,Panadería,4,3800
+2005,2026-10-22,Quilmes,Medialuna,Panadería,3,900
+2006,2026-10-15,Palermo,Tostado,Comidas,4,4200
+2007,2026-10-13,Belgrano,Medialuna,Panadería,1,900
+2008,2026-10-14,Caballito,Café,Bebidas,3,2500
+2009,2026-10-21,San Isidro,Medialuna,Panadería,2,900
+2010,2026-10-28,San Isidro,Tostado,Comidas,1,4200
+2011,2026-10-15,Belgrano,Tostado,Comidas,3,4200
+2012,2026-10-20,Palermo,Budín,Panadería,1,3800
+2013,2026-10-17,Palermo,Tostado,Comidas,3,4200
+2014,2026-10-22,Caballito,Ensalada,Comidas,3,6500
+2015,2026-10-01,San Isidro,Jugo,Bebidas,1,3100
+2016,2026-10-08,Quilmes,Jugo,Bebidas,1,3100
+2017,2026-10-29,Caballito,Tostado,Comidas,4,4200
+2018,2026-10-17,Quilmes,Medialuna,Panadería,2,900
+2019,2026-10-22,San Isidro,Café,Bebidas,2,2500
+2020,2026-10-05,Caballito,Medialuna,Panadería,3,900
+2021,2026-10-02,Quilmes,Café,Bebidas,2,2500
+2022,2026-10-26,Palermo,Jugo,Bebidas,,3100
+2023,2026-10-13,Palermo,Budín,Panadería,1,3800
+2024,2026-10-21,Belgrano,Budín,Panadería,4,3800
+2025,2026-10-26,Caballito,Ensalada,Comidas,4,6500
+2026,2026-10-17,Palermo,Café,Bebidas,1,2500
+2027,2026-10-27,Belgrano,Budín,Panadería,2,3800
+2028,2026-10-08,San Isidro,Tostado,Comidas,2,4200
+2029,2026-10-14,Palermo,Ensalada,Comidas,3,6500
+2030,2026-10-30,Quilmes,Budín,Panadería,1,3800
+2031,2026-10-08,Quilmes,Jugo,Bebidas,1,3100
+2032,2026-10-09,Belgrano,Budín,Panadería,1,3800
+2033,2026-10-10,Quilmes,Budín,Panadería,2,3800
+2034,2026-10-14,Quilmes,Budín,Panadería,2,3800
+2035,2026-10-20,Quilmes,Budín,Panadería,4,3800
+2036,2026-10-25,Caballito,Ensalada,Comidas,4,6500
+2037,2026-10-30,Caballito,Jugo,Bebidas,3,3100
+2038,2026-10-04,San Isidro,Ensalada,Comidas,3,6500
+2039,2026-10-22,San Isidro,Café,Bebidas,3,2500
+2040,2026-10-08,Palermo,Ensalada,Comidas,3,6500
+2041,2026-10-16,Quilmes,Café,Bebidas,4,2500
+2042,2026-10-04,San Isidro,Café,Bebidas,4,2500
+2043,2026-10-16,Caballito,Budín,Panadería,2,3800
+2044,2026-10-24,Belgrano,Medialuna,Panadería,4,900
+2045,2026-10-01,Caballito,Tostado,Comidas,1,4200
+2046,2026-10-15,Palermo,Jugo,Bebidas,4,3100
+2047,2026-10-28,Caballito,Medialuna,Panadería,2,900
+2048,2026-10-23,Caballito,Budín,Panadería,2,3800
+2049,2026-10-01,Caballito,Tostado,Comidas,1,4200
+2050,2026-10-25,Caballito,Budín,Panadería,2,3800
+2051,2026-10-06,Palermo,Medialuna,Panadería,3,900
+2052,2026-10-23,Quilmes,Tostado,Comidas,3,4200
+2053,2026-10-04,Quilmes,Ensalada,Comidas,3,6500
+2054,2026-10-21,Quilmes,Jugo,Bebidas,4,3100
+2055,2026-10-11,Palermo,Tostado,Comidas,1,4200
+2056,2026-10-31,Belgrano,Budín,Panadería,2,3800
+2057,2026-10-15,Palermo,Café,Bebidas,2,2500
+2058,2026-10-22,Caballito,Tostado,Comidas,2,4200
+2059,2026-10-23,Quilmes,Tostado,Comidas,1,4200
+2060,2026-10-30,Caballito,Tostado,Comidas,2,4200
+2061,2026-10-21,Palermo,Tostado,Comidas,4,4200
+2062,2026-10-28,Quilmes,Ensalada,Comidas,3,6500
+2063,2026-10-25,Caballito,Café,Bebidas,4,2500
+2064,2026-10-25,Quilmes,Jugo,Bebidas,3,3100
+2065,2026-10-02,San Isidro,Café,Bebidas,2,2500
+2066,2026-10-24,Belgrano,Medialuna,Panadería,1,900
+2067,2026-10-16,Belgrano,Café,Bebidas,3,2500
+2068,2026-10-27,Quilmes,Tostado,Comidas,4,4200
+2069,2026-10-11,Palermo,Jugo,Bebidas,1,3100
+2070,2026-10-07,Belgrano,Ensalada,Comidas,2,6500
+2071,2026-10-19,Palermo,Jugo,Bebidas,3,3100
+2072,2026-10-28,Belgrano,Jugo,Bebidas,2,3100
+2073,2026-10-29,Palermo,Jugo,Bebidas,2,3100
+2074,2026-10-14,Belgrano,Café,Bebidas,4,2500
+2075,2026-10-26,Palermo,Jugo,Bebidas,2,3100
+2076,2026-10-31,Palermo,Café,Bebidas,2,2500
+2077,2026-10-08,San Isidro,Ensalada,Comidas,1,6500
+2078,2026-10-28,Quilmes,Medialuna,Panadería,4,900
+2079,2026-10-22,Quilmes,Budín,Panadería,2,3800
+2080,2026-10-09,Quilmes,Café,Bebidas,4,2500
+2081,2026-10-11,Palermo,Tostado,Comidas,2,4200
+2082,2026-10-23,Palermo,Café,Bebidas,1,2500
+2083,2026-10-25,Caballito,Tostado,Comidas,4,4200
+2084,2026-10-06,San Isidro,Jugo,Bebidas,3,3100
+2085,2026-10-11,Caballito,Ensalada,Comidas,3,6500
+2086,2026-10-31,Belgrano,Tostado,Comidas,1,4200
+2087,2026-10-17,Belgrano,Café,Bebidas,4,2500
+2088,2026-10-27,Belgrano,Medialuna,Panadería,3,900
+2089,2026-10-17,San Isidro,Tostado,Comidas,3,4200
+2090,2026-10-02,San Isidro,Budín,Panadería,4,3800
+2091,2026-10-22,Palermo,Tostado,Comidas,4,4200
+2092,2026-10-14,Belgrano,Ensalada,Comidas,1,6500
+2093,2026-10-07,San Isidro,Budín,Panadería,2,3800
+2094,2026-10-12,Belgrano,Jugo,Bebidas,3,3100
+2095,2026-10-08,Belgrano,Café,Bebidas,1,2500
+2096,2026-10-27,Quilmes,Ensalada,Comidas,3,6500
+2097,2026-10-19,Palermo,Jugo,Bebidas,3,3100
+2098,2026-10-19,Belgrano,Jugo,Bebidas,3,3100
+2099,2026-10-01,Belgrano,Ensalada,Comidas,3,6500
+2100,2026-10-30,Caballito,Ensalada,Comidas,4,6500
+2101,2026-10-09,San Isidro,Budín,Panadería,2,3800
+2102,2026-10-27,San Isidro,Café,Bebidas,1,2500
+2103,2026-10-26,Quilmes,Tostado,Comidas,4,4200
+2104,2026-10-03,San Isidro,Medialuna,Panadería,2,900
+2105,2026-10-22,San Isidro,Medialuna,Panadería,2,900
+2106,2026-10-25,San Isidro,Budín,Panadería,1,3800
+2107,2026-10-18,Palermo,Tostado,Comidas,1,4200
+2108,2026-10-25,Belgrano,Budín,Panadería,4,3800
+2109,2026-10-12,Palermo,Medialuna,Panadería,3,900
+2110,2026-10-20,Palermo,Medialuna,Panadería,2,900
+2111,2026-10-17,Palermo,Ensalada,Comidas,1,6500
+2111,2026-10-17,Palermo,Ensalada,Comidas,1,6500
+2112,2026-10-01,Palermo,Budín,Panadería,1,3800
+2113,2026-10-02,Belgrano,Tostado,Comidas,2,4200
+2114,2026-10-05,Belgrano,Ensalada,Comidas,1,6500
+2115,2026-10-15,San Isidro,Medialuna,Panadería,1,900
+2116,2026-10-14,Quilmes,Budín,Panadería,4,3800
+2117,2026-10-18,Palermo,Tostado,Comidas,2,4200
+2118,2026-10-03,Quilmes,Ensalada,Comidas,4,6500
+2119,2026-10-22,Belgrano,Café,Bebidas,2,2500
+2120,2026-10-19,Palermo,Ensalada,Comidas,3,6500
+2121,2026-10-08,San Isidro,Medialuna,Panadería,4,900
+2122,2026-10-09,Belgrano,Ensalada,Comidas,2,6500
+2123,2026-10-13,San Isidro,Budín,Panadería,4,3800
+2124,2026-10-23,San Isidro,Jugo,Bebidas,4,3100
+2125,2026-10-02,Palermo,Medialuna,Panadería,4,900
+2126,2026-10-15,Caballito,Medialuna,Panadería,2,900
+2127,2026-10-21,Quilmes,Tostado,Comidas,1,4200
+2128,2026-10-27,Belgrano,Café,Bebidas,4,2500
+2129,2026-10-10,San Isidro,Medialuna,Panadería,2,900
+2130,2026-10-14,Palermo,Café,Bebidas,2,2500
+2131,2026-10-14,San Isidro,Tostado,Comidas,4,4200
+2132,2026-10-23,Belgrano,Tostado,Comidas,2,4200
+2133,2026-10-29,Quilmes,Tostado,Comidas,4,4200
+2134,2026-10-08,Quilmes,Café,Bebidas,4,2500
+2135,2026-10-13,Palermo,Medialuna,Panadería,3,900
+2136,2026-10-17,Palermo,Tostado,Comidas,1,4200
+2137,2026-10-28,Quilmes,Café,Bebidas,4,2500
+2138,2026-10-08,Palermo,Ensalada,Comidas,4,6500
+2139,2026-10-09,Caballito,Medialuna,Panadería,4,900
+2140,2026-10-10,Palermo,Budín,Panadería,2,3800
+2141,2026-10-18,San Isidro,Tostado,Comidas,2,4200
+2142,2026-10-31,Caballito,Café,Bebidas,3,2500
+2143,2026-10-01,QUILMES ,Budín,Panadería,2,3800
+2144,2026-10-27,Quilmes,Budín,Panadería,1,3800
+2145,2026-10-07,Caballito,Budín,Panadería,4,3800
+2146,2026-10-16,San Isidro,Tostado,Comidas,2,4200
+2147,2026-10-12,Palermo,Jugo,Bebidas,2,3100
+2148,2026-10-09,Palermo,Medialuna,Panadería,2,900
+2149,2026-10-25,Palermo,Medialuna,Panadería,1,900
+2150,2026-10-10,Belgrano,Medialuna,Panadería,4,900
+2151,2026-10-06,Belgrano,Tostado,Comidas,4,4200
+2152,2026-10-07,Quilmes,Café,Bebidas,4,2500
+2153,2026-10-05,Palermo,Jugo,Bebidas,4,3100
+2153,2026-10-05,Palermo,Jugo,Bebidas,4,3100
+2154,2026-10-08,Quilmes,Ensalada,Comidas,3,6500
+2155,2026-10-25,Palermo,Café,Bebidas,2,2500
+2156,2026-10-14,Caballito,Tostado,Comidas,3,4200
+2157,2026-10-28,Belgrano,Budín,Panadería,,3800
+2158,2026-10-12,Caballito,Budín,Panadería,2,3800
+2159,2026-10-27,Quilmes,Jugo,Bebidas,4,3100
+2160,2026-10-21,Palermo,Budín,Panadería,4,3800
+2161,2026-10-30,Caballito,Budín,Panadería,4,3800
+2162,2026-10-03,San Isidro,Budín,Panadería,2,3800
+2163,2026-10-27,Belgrano,Tostado,Comidas,2,4200
+2164,2026-10-26,Caballito,Jugo,Bebidas,1,3100
+2165,2026-10-01,Caballito,Ensalada,Comidas,2,6500
+2166,2026-10-14,Palermo,Café,Bebidas,4,2500
+2167,2026-10-15,Caballito,Medialuna,Panadería,2,900
+2168,2026-10-13,Palermo,Medialuna,Panadería,1,900
+2169,2026-10-16,Palermo,Medialuna,Panadería,1,900
+2170,2026-10-28,Palermo,Medialuna,Panadería,3,900
+2171,2026-10-26,San Isidro,Café,Bebidas,4,2500
+2172,2026-10-13,San Isidro,Budín,Panadería,1,3800
+2173,2026-10-31,Belgrano,Medialuna,Panadería,4,900
+2174,2026-10-14,Palermo,Ensalada,Comidas,1,6500
+2175,2026-10-01,San Isidro,Jugo,Bebidas,3,3100
+2176,2026-10-25,Palermo,Café,Bebidas,1,2500
+2177,2026-10-07,San Isidro,Café,Bebidas,1,2500
+2178,2026-10-27,Caballito,Ensalada,Comidas,2,6500
+2179,2026-10-03,San Isidro,Budín,Panadería,3,3800
+2180,2026-10-20,Palermo,Tostado,Comidas,2,4200
+2181,2026-10-17,Caballito,Ensalada,Comidas,2,6500
+2182,2026-10-23,Palermo,Medialuna,Panadería,,900
+2183,2026-10-27,Caballito,Budín,Panadería,3,3800
+2184,2026-10-30,Belgrano,Café,Bebidas,4,2500
+2185,2026-10-31,Palermo,Budín,Panadería,4,3800
+2186,2026-10-01,Quilmes,Jugo,Bebidas,3,3100
+2187,2026-10-20,Caballito,Medialuna,Panadería,3,900
+2188,2026-10-11,Palermo,Tostado,Comidas,1,4200
+2189,2026-10-22,Palermo,Tostado,Comidas,2,4200
+2190,2026-10-06,Quilmes,Tostado,Comidas,2,4200
+2191,2026-10-11,San Isidro,Medialuna,Panadería,3,900
+2192,2026-10-16,Palermo,Ensalada,Comidas,1,6500
+2193,2026-10-27,Palermo,Budín,Panadería,3,3800
+2194,2026-10-07,San Isidro,Jugo,Bebidas,3,3100
+2195,2026-10-14,Quilmes,Ensalada,Comidas,1,6500
+2196,2026-10-05,San Isidro,Medialuna,Panadería,2,900
+2197,2026-10-22,Quilmes,Budín,Panadería,3,3800
+2198,2026-10-24,Quilmes,Medialuna,Panadería,3,900
+2199,2026-10-30,Belgrano,Ensalada,Comidas,3,6500
+2200,2026-10-31,Quilmes,Tostado,Comidas,4,4200
+2201,2026-10-21,Palermo,Café,Bebidas,3,2500
+2202,2026-10-03,Quilmes,Ensalada,Comidas,2,6500
+2203,2026-10-30,Belgrano,Budín,Panadería,4,3800
+2204,2026-10-01,Quilmes,Tostado,Comidas,2,4200
+2205,2026-10-31,Caballito,Tostado,Comidas,4,4200
+2206,2026-10-12,Palermo,Ensalada,Comidas,1,6500
+2207,2026-10-05,Caballito,Jugo,Bebidas,1,3100
+2208,2026-10-09,Palermo,Tostado,Comidas,3,4200
+2209,2026-10-20,Quilmes,Jugo,Bebidas,4,3100
+2210,2026-10-15,Caballito,Jugo,Bebidas,2,3100
+2211,2026-10-18,San Isidro,Medialuna,Panadería,1,900
+2212,2026-10-02,Belgrano,Tostado,Comidas,2,4200
+2213,2026-10-26,Belgrano,Budín,Panadería,,3800
+2214,2026-10-27,Belgrano,Budín,Panadería,3,3800
+2215,2026-10-22,San Isidro,Medialuna,Panadería,4,900
+2216,2026-10-20,Palermo,Café,Bebidas,1,2500
+2217,2026-10-09,Palermo,Medialuna,Panadería,1,900
+2218,2026-10-31,San Isidro,Ensalada,Comidas,2,6500
+2219,2026-10-11,Quilmes,Medialuna,Panadería,3,900
+2220,2026-10-18,Palermo,Jugo,Bebidas,1,3100
+2221,2026-10-17,Caballito,Tostado,Comidas,2,4200
+2222,2026-10-27,Belgrano,Ensalada,Comidas,2,6500
+2223,2026-10-12,Quilmes,Medialuna,Panadería,3,900
+2224,2026-10-23,Caballito,Ensalada,Comidas,2,6500
+2225,2026-10-18,Palermo,Café,Bebidas,1,2500
+2226,2026-10-11,Quilmes,Budín,Panadería,3,3800
+2227,2026-10-18,Caballito,Ensalada,Comidas,3,6500
+2228,2026-10-19,Belgrano,Medialuna,Panadería,3,900
+2229,2026-10-21,Quilmes,Café,Bebidas,3,2500
+2230,2026-10-05,Caballito,Ensalada,Comidas,4,6500
+2231,2026-10-10,Quilmes,Medialuna,Panadería,2,900
+2232,2026-10-20,Quilmes,Ensalada,Comidas,4,6500
+2233,2026-10-30,Belgrano,Café,Bebidas,1,2500
+2234,2026-10-08,Palermo,Budín,Panadería,3,3800
+2235,2026-10-24,San Isidro,Ensalada,Comidas,4,6500
+2236,2026-10-29,Palermo,Café,Bebidas,1,2500
+2237,2026-10-07,Belgrano,Café,Bebidas,3,2500
+2238,2026-10-02,Quilmes,Tostado,Comidas,2,4200
+2239,2026-10-03,San Isidro,Café,Bebidas,1,2500
+2240,2026-10-19,Caballito,Jugo,Bebidas,,3100
+2241,2026-10-19,Caballito,Budín,Panadería,3,3800
+2242,2026-10-31,Caballito,Café,Bebidas,4,2500
+2243,2026-10-18,Caballito,Ensalada,Comidas,4,6500
+2244,2026-10-17,San Isidro,Café,Bebidas,1,2500
+2245,2026-10-30,Belgrano,Tostado,Comidas,1,4200
+2246,2026-10-20,San Isidro,Budín,Panadería,3,3800
+2247,2026-10-13,Belgrano,Jugo,Bebidas,4,3100
+2248,2026-10-14,Palermo,Tostado,Comidas,2,4200
+2249,2026-10-04,Caballito,Tostado,Comidas,3,4200
+2250,2026-10-16,Caballito,Jugo,Bebidas,3,3100
+2251,2026-10-03,San Isidro,Budín,Panadería,2,3800
+2252,2026-10-02,PALERMO ,Jugo,Bebidas,3,3100
+2253,2026-10-17,Belgrano,Budín,Panadería,4,3800
+2254,2026-10-03,Palermo,Ensalada,Comidas,3,6500
+2255,2026-10-06,Belgrano,Medialuna,Panadería,1,900
+2256,2026-10-30,Palermo,Jugo,Bebidas,3,3100
+2257,2026-10-24,Palermo,Tostado,Comidas,3,4200
+2258,2026-10-25,Palermo,Budín,Panadería,1,3800
+2259,2026-10-08,San Isidro,Tostado,Comidas,2,4200
+2260,2026-10-29,Caballito,Tostado,Comidas,2,4200
+2261,2026-10-05,Palermo,Medialuna,Panadería,4,900
+2262,2026-10-04,Belgrano,Medialuna,Panadería,1,900
+2263,2026-10-14,QUILMES ,Ensalada,Comidas,2,6500
+2264,2026-10-23,Caballito,Medialuna,Panadería,2,900
+2265,2026-10-15,Palermo,Ensalada,Comidas,1,6500
+2266,2026-10-23,Belgrano,Ensalada,Comidas,1,6500
+2267,2026-10-13,San Isidro,Jugo,Bebidas,2,3100
+2268,2026-10-05,Quilmes,Jugo,Bebidas,3,3100
+2269,2026-10-25,Quilmes,Ensalada,Comidas,2,6500
+2270,2026-10-15,Belgrano,Medialuna,Panadería,4,900
+2271,2026-10-17,Caballito,Budín,Panadería,2,3800
+2272,2026-10-13,Belgrano,Budín,Panadería,1,3800
+2273,2026-10-17,Belgrano,Budín,Panadería,1,3800
+2274,2026-10-26,Quilmes,Café,Bebidas,1,2500
+2275,2026-10-14,Caballito,Café,Bebidas,3,2500
+2276,2026-10-21,San Isidro,Café,Bebidas,4,2500
+2276,2026-10-21,San Isidro,Café,Bebidas,4,2500
+2277,2026-10-12,Quilmes,Tostado,Comidas,4,4200
+2278,2026-10-03,Palermo,Ensalada,Comidas,2,6500
+2279,2026-10-03,Belgrano,Café,Bebidas,4,2500
+2280,2026-10-24,Palermo,Medialuna,Panadería,4,900
+2281,2026-10-10,Palermo,Jugo,Bebidas,4,3100
+2282,2026-10-03,Quilmes,Tostado,Comidas,2,4200
+2283,2026-10-23,San Isidro,Tostado,Comidas,4,4200
+2284,2026-10-29,Quilmes,Tostado,Comidas,2,4200
+2285,2026-10-12,Caballito,Medialuna,Panadería,,900
+2286,2026-10-19,Caballito,Jugo,Bebidas,1,3100
+2287,2026-10-29,Quilmes,Tostado,Comidas,2,4200
+2288,2026-10-30,Quilmes,Tostado,Comidas,2,4200
+2289,2026-10-22,Palermo,Ensalada,Comidas,2,6500
+2290,2026-10-08,Palermo,Medialuna,Panadería,2,900
+2291,2026-10-08,Belgrano,Café,Bebidas,4,2500
+2292,2026-10-22,Caballito,Medialuna,Panadería,2,900
+2293,2026-10-23,Belgrano,Medialuna,Panadería,1,900
+2294,2026-10-28,Palermo,Medialuna,Panadería,1,900
+2295,2026-10-10,Palermo,Medialuna,Panadería,1,900
+2296,2026-10-03,Belgrano,Ensalada,Comidas,3,6500
+2297,2026-10-19,San Isidro,Jugo,Bebidas,4,3100
+2298,2026-10-12,Palermo,Budín,Panadería,3,3800
+2299,2026-10-14,Caballito,Medialuna,Panadería,1,900
+2300,2026-10-08,Caballito,Tostado,Comidas,2,4200
+2301,2026-10-30,Palermo,Ensalada,Comidas,4,6500
+2302,2026-10-25,Quilmes,Café,Bebidas,1,2500
+2303,2026-10-18,Caballito,Ensalada,Comidas,2,6500
+2304,2026-10-11,Palermo,Café,Bebidas,,2500
+2305,2026-10-25,Palermo,Jugo,Bebidas,4,3100
+2306,2026-10-10,Quilmes,Ensalada,Comidas,2,6500
+2307,2026-10-10,Palermo,Jugo,Bebidas,2,3100
+2308,2026-10-06,San Isidro,Jugo,Bebidas,1,3100
+2308,2026-10-06,San Isidro,Jugo,Bebidas,1,3100
+2309,2026-10-11,Belgrano,Medialuna,Panadería,2,900
+2310,2026-10-04,Caballito,Jugo,Bebidas,4,3100
+2311,2026-10-23,San Isidro,Ensalada,Comidas,4,6500
+2312,2026-10-15,Quilmes,Medialuna,Panadería,4,900
+2313,2026-10-04,San Isidro,Budín,Panadería,3,3800
+2314,2026-10-08,QUILMES ,Tostado,Comidas,2,4200
+2315,2026-10-16,Caballito,Jugo,Bebidas,3,3100
+2316,2026-10-20,Belgrano,Tostado,Comidas,1,4200
+2317,2026-10-01,Belgrano,Café,Bebidas,4,2500
+2318,2026-10-25,Quilmes,Jugo,Bebidas,2,3100
+2319,2026-10-03,Quilmes,Tostado,Comidas,3,4200
+2320,2026-10-27,Caballito,Tostado,Comidas,2,4200
+2321,2026-10-16,Caballito,Café,Bebidas,2,2500
+2322,2026-10-28,Caballito,Ensalada,Comidas,3,6500
+2323,2026-10-15,Caballito,Budín,Panadería,1,3800
+2324,2026-10-20,Quilmes,Budín,Panadería,4,3800
+2325,2026-10-19,CABALLITO ,Budín,Panadería,4,3800
+2326,2026-10-08,San Isidro,Café,Bebidas,4,2500
+2327,2026-10-27,Caballito,Tostado,Comidas,1,4200
+2328,2026-10-11,Belgrano,Ensalada,Comidas,3,6500
+2329,2026-10-03,Caballito,Budín,Panadería,2,3800
+2330,2026-10-02,Caballito,Medialuna,Panadería,4,900
+2331,2026-10-22,Caballito,Medialuna,Panadería,4,900
+2331,2026-10-22,Caballito,Medialuna,Panadería,4,900
+2332,2026-10-30,Quilmes,Jugo,Bebidas,4,3100
+2333,2026-10-05,Caballito,Ensalada,Comidas,3,6500
+2334,2026-10-03,Caballito,Tostado,Comidas,1,4200
+2335,2026-10-26,Caballito,Tostado,Comidas,4,4200
+2336,2026-10-26,Caballito,Café,Bebidas,1,2500
+2337,2026-10-09,Quilmes,Tostado,Comidas,1,4200
+2337,2026-10-09,Quilmes,Tostado,Comidas,1,4200
+2338,2026-10-26,Quilmes,Jugo,Bebidas,4,3100
+2339,2026-10-20,Belgrano,Café,Bebidas,4,2500
+2340,2026-10-24,Palermo,Jugo,Bebidas,4,3100
+2341,2026-10-01,Palermo,Medialuna,Panadería,3,900
+2342,2026-10-12,San Isidro,Jugo,Bebidas,1,3100
+2343,2026-10-27,Belgrano,Café,Bebidas,1,2500
+2344,2026-10-15,Quilmes,Ensalada,Comidas,4,6500
+2345,2026-10-06,Quilmes,Budín,Panadería,3,3800
+2346,2026-10-06,San Isidro,Ensalada,Comidas,1,6500
+2347,2026-10-22,Quilmes,Budín,Panadería,3,3800
+2348,2026-10-03,Quilmes,Tostado,Comidas,3,4200
+2349,2026-10-23,San Isidro,Café,Bebidas,1,2500
+2350,2026-10-10,Palermo,Medialuna,Panadería,4,900
+2351,2026-10-11,Palermo,Tostado,Comidas,1,4200
+2352,2026-10-29,Caballito,Jugo,Bebidas,4,3100
+2353,2026-10-17,Quilmes,Jugo,Bebidas,3,3100
+2354,2026-10-18,Belgrano,Café,Bebidas,1,2500
+2355,2026-10-13,Quilmes,Café,Bebidas,2,2500
+2356,2026-10-26,Quilmes,Tostado,Comidas,4,4200
+2357,2026-10-08,Caballito,Café,Bebidas,2,2500
+2358,2026-10-25,Belgrano,Tostado,Comidas,2,4200
+2359,2026-10-14,Belgrano,Tostado,Comidas,1,4200
+2360,2026-10-26,Caballito,Jugo,Bebidas,2,3100
+2361,2026-10-28,Palermo,Medialuna,Panadería,,900
+2362,2026-10-18,Palermo,Budín,Panadería,4,3800
+2363,2026-10-24,QUILMES ,Tostado,Comidas,1,4200
+2364,2026-10-07,Belgrano,Jugo,Bebidas,2,3100
+2365,2026-10-03,Quilmes,Budín,Panadería,2,3800
+2366,2026-10-14,Caballito,Ensalada,Comidas,1,6500
+2367,2026-10-30,Quilmes,Café,Bebidas,4,2500
+2368,2026-10-19,Belgrano,Jugo,Bebidas,1,3100
+2369,2026-10-13,San Isidro,Café,Bebidas,2,2500
+2370,2026-10-06,Palermo,Ensalada,Comidas,1,6500
+2371,2026-10-03,Quilmes,Tostado,Comidas,3,4200
+2372,2026-10-08,Palermo,Jugo,Bebidas,4,3100
+2373,2026-10-11,Caballito,Tostado,Comidas,1,4200
+2374,2026-10-21,Belgrano,Medialuna,Panadería,2,900
+2375,2026-10-25,Caballito,Medialuna,Panadería,2,900
+2375,2026-10-25,Caballito,Medialuna,Panadería,2,900
+2376,2026-10-03,Belgrano,Ensalada,Comidas,4,6500
+2377,2026-10-03,Belgrano,Budín,Panadería,1,3800
+2378,2026-10-02,Belgrano,Budín,Panadería,3,3800
+2379,2026-10-26,Belgrano,Tostado,Comidas,3,4200
+2380,2026-10-18,Caballito,Ensalada,Comidas,3,6500
+2381,2026-10-17,Quilmes,Medialuna,Panadería,3,900
+2382,2026-10-20,Caballito,Café,Bebidas,3,2500
+2383,2026-10-27,Palermo,Café,Bebidas,1,2500
+2384,2026-10-24,PALERMO ,Café,Bebidas,1,2500
+2385,2026-10-22,Palermo,Café,Bebidas,4,2500
+2386,2026-10-03,Caballito,Budín,Panadería,3,3800
+2387,2026-10-30,Belgrano,Tostado,Comidas,3,4200
+2388,2026-10-28,Palermo,Jugo,Bebidas,1,3100
+2389,2026-10-05,San Isidro,Ensalada,Comidas,3,6500
+2390,2026-10-05,San Isidro,Ensalada,Comidas,2,6500
+2391,2026-10-25,Belgrano,Ensalada,Comidas,,6500
+2392,2026-10-18,San Isidro,Jugo,Bebidas,1,3100
+2393,2026-10-08,Belgrano,Ensalada,Comidas,4,6500
+2394,2026-10-11,Caballito,Café,Bebidas,3,2500
+2395,2026-10-12,Palermo,Ensalada,Comidas,2,6500
+2396,2026-10-07,Quilmes,Medialuna,Panadería,1,900
+2397,2026-10-14,Quilmes,Medialuna,Panadería,2,900
+2398,2026-10-20,Caballito,Jugo,Bebidas,2,3100
+2399,2026-10-20,Belgrano,Jugo,Bebidas,3,3100
+2400,2026-10-04,Quilmes,Budín,Panadería,2,3800
+2401,2026-10-23,Quilmes,Ensalada,Comidas,2,6500
+2402,2026-10-26,Quilmes,Medialuna,Panadería,3,900
+2403,2026-10-04,Palermo,Café,Bebidas,1,2500
+2404,2026-10-25,Belgrano,Tostado,Comidas,2,4200
+2405,2026-10-03,Quilmes,Ensalada,Comidas,3,6500
+2406,2026-10-31,San Isidro,Tostado,Comidas,4,4200
+2407,2026-10-27,Palermo,Medialuna,Panadería,,900
+2408,2026-10-04,Belgrano,Jugo,Bebidas,2,3100
+2409,2026-10-31,San Isidro,Ensalada,Comidas,4,6500
+2410,2026-10-02,San Isidro,Medialuna,Panadería,4,900
+2411,2026-10-01,Quilmes,Ensalada,Comidas,1,6500
+2412,2026-10-20,Quilmes,Tostado,Comidas,3,4200
+2413,2026-10-06,Palermo,Jugo,Bebidas,1,3100
+2414,2026-10-09,Caballito,Ensalada,Comidas,1,6500
+2414,2026-10-09,Caballito,Ensalada,Comidas,1,6500
+2415,2026-10-31,Caballito,Tostado,Comidas,1,4200
+2416,2026-10-08,Caballito,Café,Bebidas,3,2500
+2417,2026-10-08,Quilmes,Budín,Panadería,1,3800
+2418,2026-10-27,Quilmes,Ensalada,Comidas,2,6500
+2419,2026-10-18,Belgrano,Ensalada,Comidas,2,6500
+2420,2026-10-12,Quilmes,Jugo,Bebidas,1,3100
+2421,2026-10-14,Quilmes,Medialuna,Panadería,2,900
+2422,2026-10-02,Belgrano,Tostado,Comidas,2,4200
+2423,2026-10-14,San Isidro,Café,Bebidas,3,2500
+2424,2026-10-31,Caballito,Ensalada,Comidas,3,6500
+2425,2026-10-21,Quilmes,Café,Bebidas,2,2500
+2426,2026-10-02,Palermo,Tostado,Comidas,2,4200
+2427,2026-10-01,San Isidro,Tostado,Comidas,3,4200
+2428,2026-10-17,Belgrano,Tostado,Comidas,1,4200
+2429,2026-10-02,Palermo,Ensalada,Comidas,2,6500
+2430,2026-10-07,Palermo,Medialuna,Panadería,2,900
+2431,2026-10-05,Caballito,Café,Bebidas,2,2500
+2432,2026-10-02,Quilmes,Café,Bebidas,2,2500
+2433,2026-10-21,San Isidro,Budín,Panadería,4,3800
+2434,2026-10-31,Belgrano,Tostado,Comidas,1,4200
+2435,2026-10-08,Belgrano,Tostado,Comidas,2,4200
+2436,2026-10-11,Belgrano,Budín,Panadería,4,3800
+2437,2026-10-01,Belgrano,Medialuna,Panadería,4,900
+2438,2026-10-09,San Isidro,Budín,Panadería,3,3800
+2439,2026-10-10,Palermo,Tostado,Comidas,1,4200
+2440,2026-10-03,San Isidro,Jugo,Bebidas,2,3100
+2441,2026-10-15,Palermo,Medialuna,Panadería,1,900
+2442,2026-10-28,Quilmes,Budín,Panadería,4,3800
+2443,2026-10-27,Belgrano,Ensalada,Comidas,1,6500
+2444,2026-10-12,San Isidro,Budín,Panadería,3,3800
+2445,2026-10-30,Palermo,Medialuna,Panadería,1,900
+2446,2026-10-15,Belgrano,Jugo,Bebidas,4,3100
+2447,2026-10-24,Caballito,Ensalada,Comidas,1,6500
+2448,2026-10-20,QUILMES ,Jugo,Bebidas,4,3100
+2449,2026-10-06,Belgrano,Medialuna,Panadería,4,900
+2450,2026-10-22,Caballito,Budín,Panadería,1,3800
+2451,2026-10-30,San Isidro,Tostado,Comidas,2,4200
+2452,2026-10-06,Belgrano,Jugo,Bebidas,4,3100
+2453,2026-10-20,Caballito,Medialuna,Panadería,1,900
+2454,2026-10-24,San Isidro,Ensalada,Comidas,3,6500
+2455,2026-10-11,Belgrano,Ensalada,Comidas,1,6500
+2456,2026-10-16,Belgrano,Tostado,Comidas,1,4200
+2457,2026-10-10,Belgrano,Ensalada,Comidas,1,6500
+2458,2026-10-16,San Isidro,Ensalada,Comidas,4,6500
+2459,2026-10-26,Palermo,Medialuna,Panadería,3,900
+2460,2026-10-24,Quilmes,Tostado,Comidas,1,4200
+2461,2026-10-24,Quilmes,Medialuna,Panadería,2,900
+2462,2026-10-14,Belgrano,Budín,Panadería,4,3800
+2463,2026-10-23,San Isidro,Ensalada,Comidas,2,6500
+2464,2026-10-25,San Isidro,Budín,Panadería,4,3800
+2465,2026-10-17,San Isidro,Jugo,Bebidas,3,3100
+2466,2026-10-15,Quilmes,Medialuna,Panadería,1,900
+2467,2026-10-18,San Isidro,Tostado,Comidas,4,4200
+2468,2026-10-19,Palermo,Budín,Panadería,3,3800
+2469,2026-10-04,Belgrano,Budín,Panadería,3,3800
+2470,2026-10-06,Caballito,Tostado,Comidas,3,4200
+2471,2026-10-31,Palermo,Café,Bebidas,3,2500
+2472,2026-10-29,Caballito,Medialuna,Panadería,4,900
+2473,2026-10-12,Caballito,Medialuna,Panadería,3,900
+2474,2026-10-10,San Isidro,Budín,Panadería,4,3800
+2475,2026-10-21,Palermo,Jugo,Bebidas,3,3100
+2476,2026-10-12,Belgrano,Ensalada,Comidas,2,6500
+2477,2026-10-23,Quilmes,Tostado,Comidas,3,4200
+2478,2026-10-27,San Isidro,Jugo,Bebidas,4,3100
+2479,2026-10-10,Quilmes,Ensalada,Comidas,2,6500
+2479,2026-10-10,Quilmes,Ensalada,Comidas,2,6500
+2480,2026-10-31,Quilmes,Tostado,Comidas,2,4200
+2481,2026-10-10,Caballito,Budín,Panadería,1,3800
+2482,2026-10-01,Caballito,Medialuna,Panadería,2,900
+2483,2026-10-22,Palermo,Ensalada,Comidas,3,6500
+2484,2026-10-15,Quilmes,Ensalada,Comidas,4,6500
+2485,2026-10-14,Quilmes,Café,Bebidas,3,2500
+2486,2026-10-11,Palermo,Ensalada,Comidas,2,6500
+2487,2026-10-23,Belgrano,Budín,Panadería,1,3800
+2488,2026-10-30,Belgrano,Jugo,Bebidas,4,3100
+2489,2026-10-02,San Isidro,Tostado,Comidas,2,4200
+2490,2026-10-04,Quilmes,Medialuna,Panadería,3,900
+2491,2026-10-26,Palermo,Jugo,Bebidas,1,3100
+2492,2026-10-29,Palermo,Jugo,Bebidas,3,3100
+2493,2026-10-29,Palermo,Medialuna,Panadería,1,900
+2494,2026-10-01,San Isidro,Ensalada,Comidas,,6500
+2495,2026-10-22,Palermo,Budín,Panadería,3,3800
+2496,2026-10-18,CABALLITO ,Jugo,Bebidas,3,3100
+2497,2026-10-15,Palermo,Jugo,Bebidas,1,3100
+2498,2026-10-08,Quilmes,Budín,Panadería,4,3800
+2499,2026-10-23,Quilmes,Medialuna,Panadería,2,900
+2500,2026-10-02,Quilmes,Tostado,Comidas,1,4200
+2501,2026-10-11,Caballito,Ensalada,Comidas,2,6500
+2502,2026-10-30,Quilmes,Medialuna,Panadería,,900
+2503,2026-10-28,Caballito,Budín,Panadería,3,3800
+2504,2026-10-29,Caballito,Budín,Panadería,2,3800
+2505,2026-10-03,Belgrano,Ensalada,Comidas,4,6500
+2506,2026-10-31,Palermo,Café,Bebidas,1,2500
+2507,2026-10-16,San Isidro,Jugo,Bebidas,2,3100
+2508,2026-10-22,Quilmes,Ensalada,Comidas,3,6500
+2509,2026-10-23,Belgrano,Tostado,Comidas,2,4200
+2510,2026-10-11,Belgrano,Medialuna,Panadería,3,900
+2511,2026-10-04,Palermo,Budín,Panadería,2,3800
+2512,2026-10-07,San Isidro,Café,Bebidas,1,2500
+2513,2026-10-25,San Isidro,Jugo,Bebidas,4,3100
+2514,2026-10-08,Quilmes,Tostado,Comidas,2,4200
+2515,2026-10-04,Quilmes,Tostado,Comidas,3,4200
+2516,2026-10-22,Caballito,Ensalada,Comidas,2,6500
+2517,2026-10-26,Quilmes,Medialuna,Panadería,4,900
+2518,2026-10-16,San Isidro,Budín,Panadería,,3800
+2519,2026-10-24,Quilmes,Tostado,Comidas,2,4200
+2520,2026-10-18,Belgrano,Budín,Panadería,2,3800
+2521,2026-10-03,San Isidro,Café,Bebidas,1,2500
+2522,2026-10-29,Caballito,Medialuna,Panadería,4,900
+2523,2026-10-06,Caballito,Tostado,Comidas,1,4200
+2524,2026-10-10,San Isidro,Medialuna,Panadería,3,900
+2525,2026-10-18,Caballito,Budín,Panadería,3,3800
+2526,2026-10-27,San Isidro,Budín,Panadería,2,3800
+2527,2026-10-03,Belgrano,Budín,Panadería,1,3800
+2528,2026-10-17,Quilmes,Café,Bebidas,2,2500
+2529,2026-10-22,Caballito,Budín,Panadería,4,3800
+2530,2026-10-14,Caballito,Café,Bebidas,2,2500
+2531,2026-10-22,San Isidro,Jugo,Bebidas,1,3100
+2532,2026-10-16,Caballito,Tostado,Comidas,4,4200
+2533,2026-10-05,San Isidro,Café,Bebidas,2,2500
+2534,2026-10-17,San Isidro,Tostado,Comidas,4,4200
+2535,2026-10-13,Caballito,Budín,Panadería,3,3800
+2536,2026-10-30,Caballito,Café,Bebidas,1,2500
+2537,2026-10-07,Belgrano,Jugo,Bebidas,3,3100
+2538,2026-10-03,Palermo,Medialuna,Panadería,1,900
+2539,2026-10-18,Palermo,Jugo,Bebidas,4,3100
+2540,2026-10-21,San Isidro,Budín,Panadería,4,3800
+2541,2026-10-05,San Isidro,Ensalada,Comidas,4,6500
+2542,2026-10-04,Quilmes,Jugo,Bebidas,2,3100
+2543,2026-10-14,Quilmes,Café,Bebidas,3,2500
+2544,2026-10-18,QUILMES ,Jugo,Bebidas,4,3100
+2545,2026-10-17,Belgrano,Budín,Panadería,4,3800
+2546,2026-10-05,Belgrano,Budín,Panadería,4,3800
+2547,2026-10-25,Palermo,Medialuna,Panadería,2,900
+2548,2026-10-26,San Isidro,Medialuna,Panadería,2,900
+2549,2026-10-21,Caballito,Medialuna,Panadería,3,900
+2550,2026-10-01,Belgrano,Ensalada,Comidas,4,6500
+2551,2026-10-09,Palermo,Café,Bebidas,2,2500
+2552,2026-10-12,Palermo,Medialuna,Panadería,1,900
+2553,2026-10-30,Palermo,Café,Bebidas,2,2500
+2554,2026-10-15,Belgrano,Café,Bebidas,2,2500
+2555,2026-10-03,Caballito,Medialuna,Panadería,4,900
+2556,2026-10-01,Belgrano,Ensalada,Comidas,4,6500
+2557,2026-10-13,Quilmes,Café,Bebidas,1,2500
+2558,2026-10-30,BELGRANO ,Ensalada,Comidas,3,6500
+2559,2026-10-09,Belgrano,Jugo,Bebidas,3,3100
+2560,2026-10-26,San Isidro,Tostado,Comidas,4,4200
+2561,2026-10-19,SAN ISIDRO ,Medialuna,Panadería,4,900
+2562,2026-10-29,Caballito,Café,Bebidas,4,2500
+2563,2026-10-06,Palermo,Medialuna,Panadería,4,900
+2564,2026-10-30,Caballito,Jugo,Bebidas,2,3100
+2565,2026-10-26,Palermo,Café,Bebidas,4,2500
+2566,2026-10-04,San Isidro,Jugo,Bebidas,4,3100
+2567,2026-10-14,Belgrano,Ensalada,Comidas,2,6500
+2568,2026-10-16,Belgrano,Tostado,Comidas,3,4200
+2569,2026-10-21,Belgrano,Budín,Panadería,2,3800
+2570,2026-10-20,Caballito,Tostado,Comidas,2,4200
+2571,2026-10-21,San Isidro,Café,Bebidas,3,2500
+2572,2026-10-27,Palermo,Tostado,Comidas,4,4200
+2573,2026-10-27,Quilmes,Budín,Panadería,4,3800
+2574,2026-10-12,Quilmes,Tostado,Comidas,1,4200
+2575,2026-10-09,Belgrano,Budín,Panadería,1,3800
+2576,2026-10-20,San Isidro,Jugo,Bebidas,3,3100
+2577,2026-10-04,Palermo,Ensalada,Comidas,4,6500
+2578,2026-10-28,San Isidro,Medialuna,Panadería,2,900
+2579,2026-10-24,San Isidro,Tostado,Comidas,2,4200
+2580,2026-10-27,Caballito,Tostado,Comidas,,4200
+2581,2026-10-07,San Isidro,Jugo,Bebidas,3,3100
+2582,2026-10-10,San Isidro,Budín,Panadería,3,3800
+2583,2026-10-26,San Isidro,Café,Bebidas,3,2500
+2584,2026-10-19,Caballito,Medialuna,Panadería,2,900
+2585,2026-10-17,Caballito,Budín,Panadería,1,3800
+2586,2026-10-21,Belgrano,Ensalada,Comidas,1,6500
+2587,2026-10-16,Belgrano,Café,Bebidas,4,2500
+2588,2026-10-15,Belgrano,Jugo,Bebidas,4,3100
+2589,2026-10-13,Palermo,Ensalada,Comidas,1,6500
+2590,2026-10-29,Belgrano,Tostado,Comidas,1,4200
+2591,2026-10-06,Quilmes,Ensalada,Comidas,1,6500
+2592,2026-10-12,Belgrano,Jugo,Bebidas,4,3100
+2593,2026-10-10,San Isidro,Jugo,Bebidas,2,3100
+2594,2026-10-11,Caballito,Ensalada,Comidas,2,6500
+2595,2026-10-06,Belgrano,Jugo,Bebidas,1,3100
+2596,2026-10-31,Belgrano,Jugo,Bebidas,4,3100
+2597,2026-10-01,San Isidro,Ensalada,Comidas,1,6500
+2598,2026-10-22,Quilmes,Budín,Panadería,1,3800
+2599,2026-10-10,Belgrano,Jugo,Bebidas,2,3100
+2600,2026-10-07,Palermo,Café,Bebidas,1,2500
+2601,2026-10-06,Caballito,Medialuna,Panadería,3,900
+2602,2026-10-28,Palermo,Café,Bebidas,2,2500
+2603,2026-10-24,San Isidro,Budín,Panadería,4,3800
+2604,2026-10-04,QUILMES ,Jugo,Bebidas,1,3100
+2605,2026-10-13,Palermo,Medialuna,Panadería,2,900
+2606,2026-10-13,Caballito,Jugo,Bebidas,3,3100
+2607,2026-10-05,San Isidro,Tostado,Comidas,1,4200
+2607,2026-10-05,San Isidro,Tostado,Comidas,1,4200
+2608,2026-10-07,Caballito,Jugo,Bebidas,2,3100
+2609,2026-10-14,Palermo,Tostado,Comidas,2,4200
+2610,2026-10-15,Palermo,Café,Bebidas,4,2500
+2611,2026-10-10,San Isidro,Budín,Panadería,4,3800
+2612,2026-10-08,Caballito,Tostado,Comidas,1,4200
+2613,2026-10-31,San Isidro,Ensalada,Comidas,4,6500
+2614,2026-10-09,Quilmes,Tostado,Comidas,2,4200
+2615,2026-10-30,San Isidro,Ensalada,Comidas,4,6500
+2616,2026-10-25,Belgrano,Medialuna,Panadería,2,900
+2617,2026-10-27,Caballito,Budín,Panadería,1,3800
+2618,2026-10-20,Palermo,Jugo,Bebidas,1,3100
+2619,2026-10-04,Belgrano,Jugo,Bebidas,4,3100
+2620,2026-10-06,Palermo,Budín,Panadería,2,3800
+2621,2026-10-31,Caballito,Budín,Panadería,1,3800
+2622,2026-10-07,Palermo,Tostado,Comidas,3,4200
+2623,2026-10-25,Palermo,Budín,Panadería,4,3800
+2624,2026-10-31,Palermo,Tostado,Comidas,3,4200
+2625,2026-10-28,San Isidro,Café,Bebidas,3,2500
+2626,2026-10-27,Caballito,Medialuna,Panadería,2,900
+2627,2026-10-02,Belgrano,Café,Bebidas,2,2500
+2628,2026-10-29,Palermo,Café,Bebidas,4,2500
+2629,2026-10-19,Quilmes,Ensalada,Comidas,1,6500
+2630,2026-10-18,Belgrano,Café,Bebidas,1,2500
+2631,2026-10-05,Quilmes,Jugo,Bebidas,2,3100
+2632,2026-10-24,Belgrano,Café,Bebidas,2,2500
+2633,2026-10-13,San Isidro,Ensalada,Comidas,4,6500
+2634,2026-10-19,Belgrano,Tostado,Comidas,2,4200
+2635,2026-10-21,Caballito,Medialuna,Panadería,2,900
+2636,2026-10-02,CABALLITO ,Medialuna,Panadería,4,900
+2637,2026-10-28,San Isidro,Budín,Panadería,3,3800
+2638,2026-10-15,Palermo,Medialuna,Panadería,3,900
+2639,2026-10-22,San Isidro,Ensalada,Comidas,3,6500
+2640,2026-10-05,Belgrano,Café,Bebidas,2,2500
+2641,2026-10-25,Palermo,Tostado,Comidas,3,4200
+2642,2026-10-06,San Isidro,Café,Bebidas,4,2500
+2643,2026-10-07,Belgrano,Medialuna,Panadería,2,900
+2644,2026-10-11,Caballito,Jugo,Bebidas,1,3100
+2645,2026-10-19,Palermo,Tostado,Comidas,4,4200
+2646,2026-10-26,Belgrano,Medialuna,Panadería,3,900
+2647,2026-10-31,Quilmes,Café,Bebidas,4,2500
+2648,2026-10-09,Quilmes,Tostado,Comidas,3,4200
+2649,2026-10-01,Quilmes,Tostado,Comidas,3,4200
+2650,2026-10-18,Palermo,Medialuna,Panadería,2,900
+2651,2026-10-01,San Isidro,Budín,Panadería,3,3800
+2652,2026-10-06,San Isidro,Budín,Panadería,1,3800
+2653,2026-10-16,Quilmes,Café,Bebidas,4,2500
+2654,2026-10-28,Caballito,Jugo,Bebidas,4,3100
+2655,2026-10-22,Palermo,Medialuna,Panadería,,900
+2656,2026-10-09,San Isidro,Jugo,Bebidas,1,3100
+2657,2026-10-03,Quilmes,Ensalada,Comidas,4,6500
+2658,2026-10-11,Belgrano,Jugo,Bebidas,2,3100
+2659,2026-10-15,Palermo,Jugo,Bebidas,2,3100
+2660,2026-10-20,San Isidro,Jugo,Bebidas,3,3100
+2661,2026-10-03,Belgrano,Ensalada,Comidas,1,6500
+2662,2026-10-24,PALERMO ,Ensalada,Comidas,2,6500
+2663,2026-10-03,San Isidro,Ensalada,Comidas,4,6500
+2664,2026-10-01,Belgrano,Tostado,Comidas,4,4200
+2665,2026-10-10,San Isidro,Jugo,Bebidas,2,3100
+2666,2026-10-27,Palermo,Ensalada,Comidas,3,6500
+2667,2026-10-28,San Isidro,Ensalada,Comidas,3,6500
+2668,2026-10-22,Quilmes,Budín,Panadería,3,3800
+2669,2026-10-26,Palermo,Jugo,Bebidas,3,3100
+2670,2026-10-11,Belgrano,Jugo,Bebidas,1,3100
+2671,2026-10-19,Caballito,Tostado,Comidas,3,4200
+2672,2026-10-09,San Isidro,Budín,Panadería,2,3800
+2673,2026-10-12,BELGRANO ,Jugo,Bebidas,4,3100
+2674,2026-10-26,Quilmes,Tostado,Comidas,1,4200
+2675,2026-10-26,Quilmes,Jugo,Bebidas,4,3100
+2676,2026-10-15,San Isidro,Tostado,Comidas,3,4200
+2677,2026-10-22,Caballito,Jugo,Bebidas,2,3100
+2678,2026-10-09,San Isidro,Café,Bebidas,2,2500
+2679,2026-10-26,Palermo,Café,Bebidas,2,2500
+2680,2026-10-27,Quilmes,Tostado,Comidas,2,4200
+2681,2026-10-28,Caballito,Budín,Panadería,4,3800
+2682,2026-10-26,Palermo,Ensalada,Comidas,1,6500
+2683,2026-10-05,Caballito,Jugo,Bebidas,4,3100
+2684,2026-10-28,Caballito,Ensalada,Comidas,1,6500
+2685,2026-10-17,Quilmes,Medialuna,Panadería,2,900
+2686,2026-10-04,Caballito,Café,Bebidas,4,2500
+2687,2026-10-03,Palermo,Tostado,Comidas,3,4200
+2688,2026-10-10,San Isidro,Jugo,Bebidas,2,3100
+2689,2026-10-06,San Isidro,Medialuna,Panadería,1,900
+2690,2026-10-28,Belgrano,Medialuna,Panadería,3,900
+2691,2026-10-25,Caballito,Tostado,Comidas,2,4200
+2692,2026-10-11,Palermo,Tostado,Comidas,2,4200
+2693,2026-10-14,Belgrano,Ensalada,Comidas,4,6500
+2694,2026-10-07,Caballito,Café,Bebidas,3,2500
+2695,2026-10-18,Belgrano,Medialuna,Panadería,4,900
+2696,2026-10-27,San Isidro,Ensalada,Comidas,3,6500
+2697,2026-10-11,Belgrano,Café,Bebidas,1,2500
+2698,2026-10-04,Quilmes,Café,Bebidas,3,2500
+2699,2026-10-21,Caballito,Budín,Panadería,3,3800
+2700,2026-10-08,San Isidro,Tostado,Comidas,4,4200
+2701,2026-10-06,Palermo,Ensalada,Comidas,3,6500
+2702,2026-10-24,Quilmes,Tostado,Comidas,2,4200
+2703,2026-10-03,Quilmes,Medialuna,Panadería,3,900
+2704,2026-10-04,Belgrano,Ensalada,Comidas,2,6500
+2705,2026-10-09,Palermo,Medialuna,Panadería,1,900
+2706,2026-10-02,QUILMES ,Ensalada,Comidas,3,6500
+2707,2026-10-18,Belgrano,Ensalada,Comidas,2,6500
+2708,2026-10-16,Belgrano,Jugo,Bebidas,2,3100
+2709,2026-10-04,Quilmes,Ensalada,Comidas,3,6500
+2710,2026-10-30,Belgrano,Budín,Panadería,4,3800
+2711,2026-10-26,Quilmes,Café,Bebidas,3,2500
+2712,2026-10-12,Belgrano,Medialuna,Panadería,1,900
+2713,2026-10-27,Quilmes,Café,Bebidas,3,2500
+2714,2026-10-10,Quilmes,Jugo,Bebidas,2,3100
+2715,2026-10-07,Belgrano,Medialuna,Panadería,4,900
+2716,2026-10-24,Caballito,Café,Bebidas,4,2500
+2717,2026-10-11,Palermo,Budín,Panadería,1,3800
+2718,2026-10-12,Caballito,Tostado,Comidas,3,4200
+2719,2026-10-18,CABALLITO ,Jugo,Bebidas,4,3100
+2720,2026-10-25,Quilmes,Tostado,Comidas,4,4200
+2721,2026-10-13,San Isidro,Jugo,Bebidas,2,3100
+2722,2026-10-13,Palermo,Ensalada,Comidas,4,6500
+2723,2026-10-09,Quilmes,Ensalada,Comidas,1,6500
+2723,2026-10-09,Quilmes,Ensalada,Comidas,1,6500
+2724,2026-10-27,Belgrano,Medialuna,Panadería,1,900
+2725,2026-10-01,Caballito,Medialuna,Panadería,1,900
+2726,2026-10-29,Caballito,Jugo,Bebidas,1,3100
+2727,2026-10-16,Caballito,Café,Bebidas,1,2500
+2727,2026-10-16,Caballito,Café,Bebidas,1,2500
+2728,2026-10-25,Caballito,Tostado,Comidas,4,4200
+2729,2026-10-03,San Isidro,Ensalada,Comidas,4,6500
+2730,2026-10-02,Quilmes,Jugo,Bebidas,1,3100
+2731,2026-10-30,Palermo,Budín,Panadería,3,3800
+2732,2026-10-18,Palermo,Tostado,Comidas,1,4200
+2733,2026-10-28,CABALLITO ,Medialuna,Panadería,2,900
+2734,2026-10-16,Palermo,Café,Bebidas,3,2500
+2735,2026-10-25,San Isidro,Ensalada,Comidas,4,6500
+2736,2026-10-13,Palermo,Budín,Panadería,1,3800
+2737,2026-10-04,Caballito,Budín,Panadería,4,3800
+2738,2026-10-29,Quilmes,Budín,Panadería,2,3800
+2739,2026-10-04,San Isidro,Café,Bebidas,3,2500
+2740,2026-10-04,Belgrano,Medialuna,Panadería,1,900
+2741,2026-10-13,Belgrano,Medialuna,Panadería,3,900
+2742,2026-10-05,Belgrano,Medialuna,Panadería,2,900
+2743,2026-10-09,Belgrano,Medialuna,Panadería,1,900
+2744,2026-10-12,Caballito,Budín,Panadería,2,3800
+2745,2026-10-30,Belgrano,Medialuna,Panadería,3,900
+2746,2026-10-22,San Isidro,Jugo,Bebidas,2,3100
+2747,2026-10-15,San Isidro,Jugo,Bebidas,4,3100
+2747,2026-10-15,San Isidro,Jugo,Bebidas,4,3100
+2748,2026-10-12,Quilmes,Jugo,Bebidas,1,3100
+2749,2026-10-09,Caballito,Jugo,Bebidas,3,3100
+2750,2026-10-27,San Isidro,Café,Bebidas,3,2500
+2751,2026-10-08,Belgrano,Budín,Panadería,2,3800
+2752,2026-10-18,Palermo,Budín,Panadería,1,3800
+2753,2026-10-03,Belgrano,Café,Bebidas,1,2500
+2754,2026-10-30,Quilmes,Ensalada,Comidas,3,6500
+2755,2026-10-11,San Isidro,Budín,Panadería,3,3800
+2756,2026-10-31,San Isidro,Medialuna,Panadería,3,900
+2757,2026-10-28,Caballito,Jugo,Bebidas,3,3100
+2758,2026-10-07,San Isidro,Café,Bebidas,2,2500
+2759,2026-10-10,Palermo,Café,Bebidas,4,2500
+2760,2026-10-25,Palermo,Tostado,Comidas,2,4200
+2761,2026-10-08,Belgrano,Jugo,Bebidas,2,3100
+2762,2026-10-21,San Isidro,Ensalada,Comidas,1,6500
+2763,2026-10-07,San Isidro,Café,Bebidas,4,2500
+2764,2026-10-12,San Isidro,Tostado,Comidas,1,4200
+2765,2026-10-22,Belgrano,Budín,Panadería,2,3800
+2766,2026-10-04,Quilmes,Medialuna,Panadería,1,900
+2767,2026-10-12,Belgrano,Budín,Panadería,3,3800
+2768,2026-10-17,Palermo,Ensalada,Comidas,1,6500
+2769,2026-10-21,Caballito,Budín,Panadería,1,3800
+2769,2026-10-21,Caballito,Budín,Panadería,1,3800
+2770,2026-10-07,Caballito,Medialuna,Panadería,4,900
+2771,2026-10-14,Caballito,Budín,Panadería,1,3800
+2772,2026-10-30,Belgrano,Ensalada,Comidas,3,6500
+2772,2026-10-30,Belgrano,Ensalada,Comidas,3,6500
+2773,2026-10-08,Belgrano,Tostado,Comidas,1,4200
+2774,2026-10-10,San Isidro,Ensalada,Comidas,1,6500
+2775,2026-10-24,Quilmes,Tostado,Comidas,4,4200
+2776,2026-10-22,Quilmes,Budín,Panadería,4,3800
+2777,2026-10-21,Quilmes,Café,Bebidas,4,2500
+2778,2026-10-23,Quilmes,Ensalada,Comidas,2,6500
+2779,2026-10-22,Belgrano,Ensalada,Comidas,1,6500
+2780,2026-10-01,Palermo,Jugo,Bebidas,2,3100
+2781,2026-10-24,Palermo,Tostado,Comidas,4,4200
+2782,2026-10-31,San Isidro,Tostado,Comidas,,4200
+2783,2026-10-22,Caballito,Jugo,Bebidas,3,3100
+2784,2026-10-24,Quilmes,Tostado,Comidas,4,4200
+2785,2026-10-14,Caballito,Ensalada,Comidas,1,6500
+2786,2026-10-08,Quilmes,Medialuna,Panadería,2,900
+2787,2026-10-14,San Isidro,Medialuna,Panadería,1,900
+2788,2026-10-01,Quilmes,Tostado,Comidas,4,4200
+2789,2026-10-25,Quilmes,Tostado,Comidas,3,4200
+2790,2026-10-18,Caballito,Medialuna,Panadería,1,900
+2791,2026-10-07,Caballito,Tostado,Comidas,2,4200
+2792,2026-10-12,Caballito,Café,Bebidas,3,2500
+2793,2026-10-10,Quilmes,Ensalada,Comidas,1,6500
+2794,2026-10-23,Belgrano,Ensalada,Comidas,2,6500
+2795,2026-10-04,Caballito,Café,Bebidas,3,2500
+2796,2026-10-17,Quilmes,Café,Bebidas,3,2500
+2797,2026-10-08,San Isidro,Café,Bebidas,1,2500
+2798,2026-10-17,Belgrano,Budín,Panadería,4,3800
+2799,2026-10-12,Belgrano,Medialuna,Panadería,2,900
+2800,2026-10-23,Quilmes,Medialuna,Panadería,2,900
+2801,2026-10-22,Quilmes,Medialuna,Panadería,4,900
+2802,2026-10-15,Belgrano,Tostado,Comidas,1,4200
+2803,2026-10-13,San Isidro,Budín,Panadería,1,3800
+2804,2026-10-24,Belgrano,Budín,Panadería,1,3800
+2805,2026-10-24,Palermo,Café,Bebidas,2,2500
+2806,2026-10-31,Belgrano,Tostado,Comidas,3,4200
+2807,2026-10-26,Belgrano,Tostado,Comidas,2,4200
+2808,2026-10-31,Quilmes,Jugo,Bebidas,3,3100
+2809,2026-10-30,Caballito,Jugo,Bebidas,2,3100
+2810,2026-10-30,Caballito,Tostado,Comidas,1,4200
+2811,2026-10-19,Palermo,Jugo,Bebidas,3,3100
+2812,2026-10-24,Belgrano,Medialuna,Panadería,1,900
+2813,2026-10-07,Quilmes,Medialuna,Panadería,4,900
+2814,2026-10-07,San Isidro,Jugo,Bebidas,2,3100
+2815,2026-10-09,Quilmes,Ensalada,Comidas,1,6500
+2816,2026-10-10,San Isidro,Café,Bebidas,1,2500
+2817,2026-10-27,QUILMES ,Budín,Panadería,1,3800
+2818,2026-10-16,San Isidro,Tostado,Comidas,2,4200
+2819,2026-10-06,Belgrano,Medialuna,Panadería,1,900
+2820,2026-10-23,Caballito,Ensalada,Comidas,3,6500
+2821,2026-10-10,Palermo,Tostado,Comidas,4,4200
+2822,2026-10-20,Caballito,Tostado,Comidas,4,4200
+2823,2026-10-14,Caballito,Ensalada,Comidas,3,6500
+2824,2026-10-07,Caballito,Budín,Panadería,4,3800
+2825,2026-10-07,San Isidro,Budín,Panadería,2,3800
+2826,2026-10-25,Belgrano,Ensalada,Comidas,1,6500
+2827,2026-10-25,Caballito,Budín,Panadería,1,3800
+2828,2026-10-12,Quilmes,Tostado,Comidas,3,4200
+2829,2026-10-25,Palermo,Budín,Panadería,3,3800
+2830,2026-10-20,San Isidro,Budín,Panadería,1,3800
+2831,2026-10-31,Quilmes,Medialuna,Panadería,1,900
+2832,2026-10-22,Caballito,Budín,Panadería,1,3800
+2833,2026-10-14,Caballito,Medialuna,Panadería,3,900
+2834,2026-10-09,Palermo,Tostado,Comidas,4,4200
+2835,2026-10-30,Belgrano,Ensalada,Comidas,1,6500
+2836,2026-10-09,Palermo,Tostado,Comidas,4,4200
+2837,2026-10-27,Belgrano,Tostado,Comidas,4,4200
+2838,2026-10-19,San Isidro,Medialuna,Panadería,1,900
+2839,2026-10-05,San Isidro,Medialuna,Panadería,2,900
+2840,2026-10-01,Caballito,Budín,Panadería,4,3800
+2841,2026-10-19,Caballito,Ensalada,Comidas,2,6500
+2842,2026-10-10,Belgrano,Medialuna,Panadería,2,900
+2843,2026-10-28,San Isidro,Medialuna,Panadería,2,900
+2844,2026-10-04,Palermo,Ensalada,Comidas,4,6500
+2845,2026-10-16,Caballito,Tostado,Comidas,3,4200
+2846,2026-10-06,Caballito,Medialuna,Panadería,3,900
+2847,2026-10-16,Palermo,Tostado,Comidas,1,4200
+2848,2026-10-08,San Isidro,Jugo,Bebidas,3,3100
+2849,2026-10-17,Belgrano,Café,Bebidas,1,2500
+2850,2026-10-01,Belgrano,Ensalada,Comidas,2,6500
+2851,2026-10-25,Palermo,Tostado,Comidas,2,4200
+2852,2026-10-22,Caballito,Café,Bebidas,4,2500
+2853,2026-10-31,San Isidro,Café,Bebidas,2,2500
+2854,2026-10-19,Quilmes,Budín,Panadería,4,3800
+2855,2026-10-16,Quilmes,Jugo,Bebidas,2,3100
+2856,2026-10-02,San Isidro,Tostado,Comidas,2,4200
+2857,2026-10-24,San Isidro,Ensalada,Comidas,3,6500
+2858,2026-10-29,Caballito,Ensalada,Comidas,4,6500
+2859,2026-10-20,Caballito,Medialuna,Panadería,3,900
+2860,2026-10-13,Quilmes,Tostado,Comidas,1,4200
+2861,2026-10-28,Quilmes,Budín,Panadería,4,3800
+2862,2026-10-14,San Isidro,Medialuna,Panadería,2,900
+2863,2026-10-08,Belgrano,Jugo,Bebidas,4,3100
+2864,2026-10-29,Palermo,Ensalada,Comidas,4,6500
+2865,2026-10-21,Belgrano,Medialuna,Panadería,4,900
+2866,2026-10-31,San Isidro,Budín,Panadería,2,3800
+2866,2026-10-31,San Isidro,Budín,Panadería,2,3800
+2867,2026-10-19,SAN ISIDRO ,Budín,Panadería,1,3800
+2868,2026-10-28,Caballito,Jugo,Bebidas,1,3100
+2869,2026-10-21,Palermo,Budín,Panadería,4,3800
+2870,2026-10-27,San Isidro,Café,Bebidas,2,2500
+2871,2026-10-23,Palermo,Café,Bebidas,3,2500
+2872,2026-10-06,Belgrano,Ensalada,Comidas,3,6500
+2873,2026-10-02,Quilmes,Ensalada,Comidas,4,6500
+2874,2026-10-28,Palermo,Medialuna,Panadería,1,900
+2875,2026-10-29,Quilmes,Café,Bebidas,2,2500
+2876,2026-10-09,Palermo,Café,Bebidas,4,2500
+2877,2026-10-08,Belgrano,Tostado,Comidas,3,4200
+2878,2026-10-09,Palermo,Café,Bebidas,2,2500
+2879,2026-10-26,Belgrano,Budín,Panadería,1,3800
+2880,2026-10-27,San Isidro,Jugo,Bebidas,1,3100
+2881,2026-10-03,Palermo,Café,Bebidas,3,2500
+2882,2026-10-17,San Isidro,Jugo,Bebidas,2,3100
+2883,2026-10-30,Caballito,Ensalada,Comidas,1,6500
+2884,2026-10-07,Palermo,Café,Bebidas,4,2500
+2885,2026-10-12,San Isidro,Budín,Panadería,3,3800
+2886,2026-10-07,Quilmes,Tostado,Comidas,2,4200
+2887,2026-10-28,San Isidro,Jugo,Bebidas,2,3100
+2888,2026-10-23,San Isidro,Jugo,Bebidas,1,3100
+2889,2026-10-19,Belgrano,Budín,Panadería,4,3800
+2890,2026-10-18,San Isidro,Medialuna,Panadería,4,900
+2891,2026-10-23,San Isidro,Café,Bebidas,3,2500
+2892,2026-10-17,Caballito,Café,Bebidas,2,2500
+2893,2026-10-02,San Isidro,Budín,Panadería,3,3800
+2894,2026-10-15,San Isidro,Budín,Panadería,1,3800
+2895,2026-10-27,Belgrano,Medialuna,Panadería,2,900
+2896,2026-10-14,Caballito,Tostado,Comidas,1,4200
+2897,2026-10-21,Caballito,Tostado,Comidas,1,4200
+2898,2026-10-26,Quilmes,Jugo,Bebidas,,3100
+2899,2026-10-23,Caballito,Ensalada,Comidas,3,6500
+2900,2026-10-28,San Isidro,Tostado,Comidas,4,4200
+2901,2026-10-05,Palermo,Jugo,Bebidas,2,3100
+2902,2026-10-07,Quilmes,Café,Bebidas,2,2500
+2903,2026-10-14,Caballito,Café,Bebidas,4,2500
+2904,2026-10-27,Quilmes,Jugo,Bebidas,3,3100
+2905,2026-10-18,Quilmes,Budín,Panadería,4,3800
+2906,2026-10-26,Palermo,Tostado,Comidas,3,4200
+2907,2026-10-15,Palermo,Budín,Panadería,1,3800
+2908,2026-10-18,Quilmes,Tostado,Comidas,3,4200
+2909,2026-10-20,Caballito,Tostado,Comidas,2,4200
+2910,2026-10-16,Caballito,Ensalada,Comidas,1,6500
+2911,2026-10-17,San Isidro,Ensalada,Comidas,4,6500
+2912,2026-10-19,Quilmes,Café,Bebidas,2,2500
+2913,2026-10-17,San Isidro,Medialuna,Panadería,3,900
+2914,2026-10-21,Palermo,Ensalada,Comidas,3,6500
+2915,2026-10-24,Caballito,Café,Bebidas,2,2500
+2916,2026-10-12,San Isidro,Jugo,Bebidas,1,3100
+2917,2026-10-26,Caballito,Medialuna,Panadería,2,900
+2918,2026-10-19,Quilmes,Café,Bebidas,2,2500
+2919,2026-10-06,Caballito,Ensalada,Comidas,1,6500
+2920,2026-10-17,San Isidro,Ensalada,Comidas,4,6500
+2921,2026-10-17,Belgrano,Medialuna,Panadería,2,900
+2922,2026-10-10,Quilmes,Café,Bebidas,3,2500
+2923,2026-10-05,Belgrano,Jugo,Bebidas,3,3100
+2923,2026-10-05,Belgrano,Jugo,Bebidas,3,3100
+2924,2026-10-31,Caballito,Medialuna,Panadería,,900
+2925,2026-10-16,Belgrano,Café,Bebidas,3,2500
+2926,2026-10-05,Palermo,Medialuna,Panadería,1,900
+2927,2026-10-04,Palermo,Ensalada,Comidas,1,6500
+2928,2026-10-29,Belgrano,Tostado,Comidas,3,4200
+2929,2026-10-19,San Isidro,Café,Bebidas,1,2500
+2930,2026-10-10,San Isidro,Jugo,Bebidas,4,3100
+2931,2026-10-28,Quilmes,Ensalada,Comidas,1,6500
+2932,2026-10-21,Caballito,Medialuna,Panadería,3,900
+2933,2026-10-08,San Isidro,Jugo,Bebidas,3,3100
+2934,2026-10-12,San Isidro,Medialuna,Panadería,1,900
+2935,2026-10-26,Quilmes,Ensalada,Comidas,3,6500
+2936,2026-10-20,Caballito,Medialuna,Panadería,1,900
+2937,2026-10-26,San Isidro,Tostado,Comidas,1,4200
+2938,2026-10-11,Quilmes,Budín,Panadería,4,3800
+2939,2026-10-20,San Isidro,Medialuna,Panadería,1,900
+2940,2026-10-06,San Isidro,Café,Bebidas,3,2500
+2941,2026-10-10,Belgrano,Budín,Panadería,2,3800
+2942,2026-10-30,Quilmes,Tostado,Comidas,2,4200
+2943,2026-10-13,San Isidro,Medialuna,Panadería,2,900
+2944,2026-10-25,San Isidro,Budín,Panadería,2,3800
+2945,2026-10-22,Caballito,Jugo,Bebidas,3,3100
+2946,2026-10-21,Caballito,Jugo,Bebidas,3,3100
+2947,2026-10-05,Belgrano,Café,Bebidas,2,2500
+2948,2026-10-10,San Isidro,Medialuna,Panadería,3,900
+2949,2026-10-31,Caballito,Café,Bebidas,2,2500
+2949,2026-10-31,Caballito,Café,Bebidas,2,2500
+2950,2026-10-30,Quilmes,Ensalada,Comidas,3,6500
+2951,2026-10-16,Caballito,Budín,Panadería,1,3800
+2952,2026-10-15,San Isidro,Jugo,Bebidas,1,3100
+2953,2026-10-17,Palermo,Jugo,Bebidas,2,3100
+2954,2026-10-14,Caballito,Medialuna,Panadería,4,900
+2955,2026-10-01,San Isidro,Ensalada,Comidas,3,6500
+2956,2026-10-10,Caballito,Jugo,Bebidas,4,3100
+2957,2026-10-15,Belgrano,Budín,Panadería,3,3800
+2958,2026-10-08,Caballito,Budín,Panadería,1,3800
+2959,2026-10-14,San Isidro,Ensalada,Comidas,3,6500
+2960,2026-10-12,San Isidro,Café,Bebidas,4,2500
+2961,2026-10-14,Caballito,Jugo,Bebidas,3,3100
+2962,2026-10-15,Quilmes,Medialuna,Panadería,3,900
+2963,2026-10-30,Belgrano,Medialuna,Panadería,3,900
+2964,2026-10-22,Belgrano,Jugo,Bebidas,4,3100
+2965,2026-10-28,Belgrano,Ensalada,Comidas,3,6500
+2966,2026-10-06,Palermo,Café,Bebidas,2,2500
+2967,2026-10-12,San Isidro,Tostado,Comidas,1,4200
+2968,2026-10-03,Caballito,Café,Bebidas,3,2500
+2969,2026-10-14,Caballito,Jugo,Bebidas,3,3100
+2970,2026-10-24,Quilmes,Medialuna,Panadería,3,900
+2971,2026-10-15,Belgrano,Tostado,Comidas,4,4200
+2972,2026-10-11,Caballito,Budín,Panadería,2,3800
+2973,2026-10-19,Caballito,Budín,Panadería,4,3800
+2974,2026-10-16,San Isidro,Budín,Panadería,2,3800
+2975,2026-10-28,Caballito,Budín,Panadería,2,3800
+2976,2026-10-18,Belgrano,Jugo,Bebidas,3,3100
+2977,2026-10-20,San Isidro,Medialuna,Panadería,2,900
+2978,2026-10-12,Palermo,Budín,Panadería,3,3800
+2979,2026-10-10,Belgrano,Café,Bebidas,,2500
+2980,2026-10-07,Belgrano,Ensalada,Comidas,4,6500
+2981,2026-10-17,Caballito,Medialuna,Panadería,3,900
+2982,2026-10-23,Palermo,Tostado,Comidas,,4200
+2983,2026-10-26,San Isidro,Budín,Panadería,2,3800
+2984,2026-10-04,Caballito,Café,Bebidas,4,2500
+2985,2026-10-02,Belgrano,Budín,Panadería,2,3800
+2986,2026-10-18,Quilmes,Medialuna,Panadería,1,900
+2987,2026-10-15,Quilmes,Tostado,Comidas,1,4200
+2988,2026-10-23,Quilmes,Jugo,Bebidas,2,3100
+2989,2026-10-15,Quilmes,Budín,Panadería,2,3800
+2990,2026-10-16,San Isidro,Ensalada,Comidas,3,6500
+2991,2026-10-10,Caballito,Budín,Panadería,2,3800
+2992,2026-10-10,San Isidro,Jugo,Bebidas,3,3100
+2993,2026-10-15,Palermo,Ensalada,Comidas,3,6500
+2994,2026-10-24,San Isidro,Ensalada,Comidas,3,6500
+2995,2026-10-07,Caballito,Jugo,Bebidas,2,3100
+2996,2026-10-21,Belgrano,Jugo,Bebidas,1,3100
+2997,2026-10-05,Belgrano,Ensalada,Comidas,1,6500
+2998,2026-10-06,Quilmes,Jugo,Bebidas,2,3100
+2999,2026-10-13,Quilmes,Jugo,Bebidas,3,3100
+3000,2026-10-12,Caballito,Jugo,Bebidas,1,3100
