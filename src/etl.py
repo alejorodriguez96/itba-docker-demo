@@ -15,7 +15,7 @@ import sys
 from pathlib import Path
 
 import pandas as pd
-
+# Cambio dummy
 INPUT_PATH = Path(os.getenv("INPUT_PATH", "data/raw/ventas.csv"))
 OUTPUT_DIR = Path(os.getenv("OUTPUT_DIR", "data/output"))
 DB_URL = os.getenv("DB_URL")  # ej: postgresql+psycopg://etl:etl@db:5432/ventas

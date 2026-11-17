@@ -17,6 +17,7 @@ services:
     env_file: .env
     volumes:
       - ./data/output:/app/data/output
+      - ./data/raw:/app/data/raw
     depends_on:
       db:
         condition: service_healthy

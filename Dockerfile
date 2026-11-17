@@ -10,7 +10,7 @@ RUN pip install --no-cache-dir -r requirements.txt
 
 # 4. Después el código (cambia seguido, no invalida la capa de pip)
 COPY src/ ./src/
-COPY data/raw/ ./data/raw/
+#COPY data/raw/ ./data/raw/
 
 # 5. Configuración por defecto (se puede pisar con -e / env_file)
 ENV INPUT_PATH=/app/data/raw/ventas.csv \
